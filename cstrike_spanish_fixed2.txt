@@ -1,0 +1,3534 @@
+"lang"
+{
+"Language" "spanish"
+"Tokens"
+{
+"Cstrike_Reset_View"		"Restablecer vista"
+"[english]Cstrike_Reset_View"		"Reset view"
+"Cstrike_Mouse_Look"		"Vista ratón"
+"[english]Cstrike_Mouse_Look"		"Mouse look"
+"Cstrike_Keyboard_Look"		"Vista teclado"
+"[english]Cstrike_Keyboard_Look"		"Keyboard look"
+"Cstrike_Standard_Radio"		"Mensajes radio estándar"
+"[english]Cstrike_Standard_Radio"		"Standard radio messages"
+"Cstrike_Group_Radio"		"Mensajes radio grupo"
+"[english]Cstrike_Group_Radio"		"Group radio messages"
+"Cstrike_Report_Radio"		"Mensajes radio informe"
+"[english]Cstrike_Report_Radio"		"Report radio messages"
+"Cstrike_Nightvision"		"Visión nocturna sí / no"
+"[english]Cstrike_Nightvision"		"Turn nightvision on/off"
+"Cstrike_Menu_Title"		"MENÚ"
+"[english]Cstrike_Menu_Title"		"MENU"
+"Cstrike_Buy_Menu"		"Menú de compra"
+"[english]Cstrike_Buy_Menu"		"Buy Menu"
+"Cstrike_Buy_Primary_Ammo"		"Comprar munición 1 (Opcional)"
+"[english]Cstrike_Buy_Primary_Ammo"		"Buy primary ammo (optional)"
+"Cstrike_Buy_Secondary_Ammo"		"Comprar munición 2 (Opcional)"
+"[english]Cstrike_Buy_Secondary_Ammo"		"Buy secondary ammo (optional)"
+"Cstrike_Buy_Equip_Menu"		"Menú Comprar equipo (Opcional)"
+"[english]Cstrike_Buy_Equip_Menu"		"Buy equipment menu (optional)"
+"Cstrike_Menu_Item_0"		"Objeto menú 0"
+"[english]Cstrike_Menu_Item_0"		"Menu item 0"
+"Cstrike_Menu_Item_1"		"Objeto menú 1"
+"[english]Cstrike_Menu_Item_1"		"Menu item 1"
+"Cstrike_Menu_Item_2"		"Objeto menú 2"
+"[english]Cstrike_Menu_Item_2"		"Menu item 2"
+"Cstrike_Menu_Item_3"		"Objeto menú 3"
+"[english]Cstrike_Menu_Item_3"		"Menu item 3"
+"Cstrike_Menu_Item_4"		"Objeto menú 4"
+"[english]Cstrike_Menu_Item_4"		"Menu item 4"
+"Cstrike_Menu_Item_5"		"Objeto menú 5"
+"[english]Cstrike_Menu_Item_5"		"Menu item 5"
+"Cstrike_Menu_Item_6"		"Objeto menú 6"
+"[english]Cstrike_Menu_Item_6"		"Menu item 6"
+"Cstrike_Menu_Item_7"		"Objeto menú 7"
+"[english]Cstrike_Menu_Item_7"		"Menu item 7"
+"Cstrike_Menu_Item_8"		"Objeto menú 8"
+"[english]Cstrike_Menu_Item_8"		"Menu item 8"
+"Cstrike_Menu_Item_9"		"Objeto menú 9"
+"[english]Cstrike_Menu_Item_9"		"Menu item 9"
+"Cstrike_Mission_Briefing"		"Ver instrucciones misión"
+"[english]Cstrike_Mission_Briefing"		"Recap mission briefing"
+"Cstrike_Fire"		"Disparar"
+"[english]Cstrike_Fire"		"Fire"
+"Cstrike_Weapon_Special_Func"		"Función especial arma"
+"[english]Cstrike_Weapon_Special_Func"		"Weapon special function"
+"Cstrike_Drop_Weapon"		"Dejar arma actual"
+"[english]Cstrike_Drop_Weapon"		"Drop current weapon"
+"Cstrike_Combat_Title"		"COMBATE"
+"[english]Cstrike_Combat_Title"		"COMBAT"
+"Cstrike_Select_Team"		"Elegir equipo"
+"[english]Cstrike_Select_Team"		"Select team"
+"Cstrike_Corpse_Stay"		"Tiempo desap. de cuerpos"
+"[english]Cstrike_Corpse_Stay"		"Time before dead bodies disappear"
+"Cstrike_Max_Shells"		"Munición máxima"
+"[english]Cstrike_Max_Shells"		"Max shells"
+"Cstrike_Max_Smoke_Puffs"		"Ráfagas de humo máximas"
+"[english]Cstrike_Max_Smoke_Puffs"		"Max smoke puffs"
+"Cstrike_Smoke_Quality"		"Complejidad de granada de gas"
+"[english]Cstrike_Smoke_Quality"		"Smoke Gas Grenade sprite quality"
+"Cstrike_Smoke_Best"		"Mejor imagen, más lento"
+"[english]Cstrike_Smoke_Best"		"Best looking, slowest"
+"Cstrike_Smoke_Medium"		"Calidad media"
+"[english]Cstrike_Smoke_Medium"		"Medium quality"
+"Cstrike_Smoke_Worst"		"Peor imagen, más rápido"
+"[english]Cstrike_Smoke_Worst"		"Worst looking, fastest"
+"Cstrike_Weapon_Alignment"		"Alineación de armas"
+"[english]Cstrike_Weapon_Alignment"		"Weapon alignment"
+"Cstrike_Left_Handed"		"Zurdo"
+"[english]Cstrike_Left_Handed"		"Left handed"
+"Cstrike_Right_Handed"		"Diestro"
+"[english]Cstrike_Right_Handed"		"Right handed"
+"Cstrike_Buy_Menu_Type"		"Tipo de menú de compra"
+"[english]Cstrike_Buy_Menu_Type"		"Buy menu type"
+"Cstrike_Old_Style_Menus"		"Menús al viejo estilo"
+"[english]Cstrike_Old_Style_Menus"		"Old style menus"
+"Cstrike_VGUI_Menus"		"Menús de interfaz de usuario"
+"[english]Cstrike_VGUI_Menus"		"VGUI menus"
+"Cstrike_Automatic_Weapon_Switch"		"Cambiar autom. a las armas recogidas (si son más poderosas)"
+"[english]Cstrike_Automatic_Weapon_Switch"		"Automatically switch to picked up weapons (if more powerful)"
+"Cstrike_AutoHelp"		"Ayuda automática"
+"[english]Cstrike_AutoHelp"		"Auto-help"
+"Cstrike_Timelimit"		"Tiempo por mapa (min)"
+"[english]Cstrike_Timelimit"		"Time per map (minutes)"
+"Cstrike_WinLimit"		"Límite de victorias (rondas)"
+"[english]Cstrike_WinLimit"		"Win limit (rounds)"
+"Cstrike_RoundLimit"		"Límite de rondas (rondas)"
+"[english]Cstrike_RoundLimit"		"Round limit (rounds)"
+"Cstrike_RoundTime"		"Tiempo de ronda (min)"
+"[english]Cstrike_RoundTime"		"Time per round (minutes)"
+"Cstrike_FreezeTime"		"Periodo de congelación (s)"
+"[english]Cstrike_FreezeTime"		"Freeze time (seconds)"
+"Cstrike_BuyTime"		"Comprar tiempo (min)"
+"[english]Cstrike_BuyTime"		"Buy time (minutes)"
+"Cstrike_StartMoney"		"Dinero inicial"
+"[english]Cstrike_StartMoney"		"Starting money"
+"Cstrike_Death_Camera_Type"		"Tipo de cámara persecución / muerte"
+"[english]Cstrike_Death_Camera_Type"		"Death camera type"
+"Cstrike_Spectate_Anyone"		"Mirar a cualquiera"
+"[english]Cstrike_Spectate_Anyone"		"Spectate anyone"
+"Cstrike_Spectate_Team_Only"		"Mirar sólo al equipo"
+"[english]Cstrike_Spectate_Team_Only"		"Spectate team only"
+"Cstrike_Only_First_Person"		"Primera persona"
+"[english]Cstrike_Only_First_Person"		"Only first-person"
+"Cstrike_Fade_To_Black"		"Inutilizar cám. persecución/muerte"
+"[english]Cstrike_Fade_To_Black"		"Disable chase/death cam"
+"Cstrike_TK_Punish"		"Matar TKers en proxima ronda"
+"[english]Cstrike_TK_Punish"		"Kill TKers on next round"
+"Cstrike_AutoKick"		"Echar holgazanes y TKers"
+"[english]Cstrike_AutoKick"		"Kick idlers and TKers"
+"Cstrike_Hostage_Penalty"		"Echar a quien mate (x) rehenes"
+"[english]Cstrike_Hostage_Penalty"		"Kick after (x) hostage kills"
+"Cstrike_Allow_Flashlight"		"Usar linterna"
+"[english]Cstrike_Allow_Flashlight"		"Allow flashlight"
+"Cstrike_Spec_Ter_Score"		"Terroristas :"
+"[english]Cstrike_Spec_Ter_Score"		"Terrorists :"
+"Cstrike_Spec_CT_Score"		"Antiterroristas :"
+"[english]Cstrike_Spec_CT_Score"		"Counter-Terrorists :"
+"Cstrike_ScoreBoard_Ter"		"Terroristas"
+"[english]Cstrike_ScoreBoard_Ter"		"Terrorists"
+"Cstrike_ScoreBoard_CT"		"Antiterroristas"
+"[english]Cstrike_ScoreBoard_CT"		"Counter-Terrorists"
+"Cstrike_ScoreBoard_Player"		"%s1    -   %s2 jugador"
+"[english]Cstrike_ScoreBoard_Player"		"%s1    -   %s2 player"
+"Cstrike_ScoreBoard_Players"		"%s1    -   %s2 jugadores"
+"[english]Cstrike_ScoreBoard_Players"		"%s1    -   %s2 players"
+"Cstrike_DEAD"		"Muerto"
+"[english]Cstrike_DEAD"		"Dead"
+"Cstrike_VIP"		"VIP"
+"[english]Cstrike_VIP"		"VIP"
+"Cstrike_BOMB"		"Bomba"
+"[english]Cstrike_BOMB"		"Bomb"
+"Cstrike_Cancel"		"&0 CANCELAR"
+"[english]Cstrike_Cancel"		"&0 CANCEL"
+"Cstrike_CancelLabel"		"CANCELAR"
+"[english]Cstrike_CancelLabel"		"CANCEL"
+"Cstrike_OK"		"&Aceptar"
+"[english]Cstrike_OK"		"&OK"
+"Cstrike_Join_Team"		"SELECCIONAR EQUIPO"
+"[english]Cstrike_Join_Team"		"SELECT TEAM"
+"Cstrike_Terrorist_Forces"		"&1 FUERZAS TERRORISTAS"
+"[english]Cstrike_Terrorist_Forces"		"&1 TERRORIST FORCES"
+"Cstrike_CT_Forces"		"&2 FUERZAS ANTITERRORISTAS"
+"[english]Cstrike_CT_Forces"		"&2 CT FORCES"
+"Cstrike_VIP_Team"		"&3 VIP"
+"[english]Cstrike_VIP_Team"		"&3 VIP"
+"Cstrike_Team_AutoAssign"		"&5 ASIGNACIÓN AUTOMÁTICA"
+"[english]Cstrike_Team_AutoAssign"		"&5 AUTO ASSIGN"
+"Cstrike_Menu_Spectate"		"&6 ASISTIR COMO ESPECTADOR"
+"[english]Cstrike_Menu_Spectate"		"&6 SPECTATE"
+"Cstrike_Join_Class"		"SELECCIONAR CLASE"
+"[english]Cstrike_Join_Class"		"CHOOSE A CLASS"
+"Cstrike_Auto_Select"		"&5 SELECCIÓN AUTOMÁTICA"
+"[english]Cstrike_Auto_Select"		"&5 AUTO-SELECT"
+"Cstrike_Terror"		"&1 CONEXIÓN PHOENIX"
+"[english]Cstrike_Terror"		"&1 PHOENIX CONNEXION"
+"Cstrike_L337_Krew"		"&2 UNIDAD DE ÉLITE"
+"[english]Cstrike_L337_Krew"		"&2 ELITE CREW"
+"Cstrike_Arctic"		"&3 VENGADORES ÁRTICOS"
+"[english]Cstrike_Arctic"		"&3 ARCTIC AVENGERS"
+"Cstrike_Guerilla"		"&4 GUERRA DE GUERRILLAS"
+"[english]Cstrike_Guerilla"		"&4 GUERILLA WARFARE"
+"Cstrike_Urban"		"&1 EQUIPO SEAL 6"
+"[english]Cstrike_Urban"		"&1 SEAL TEAM 6"
+"Cstrike_GSG9"		"&2 GSG-9"
+"[english]Cstrike_GSG9"		"&2 GSG-9"
+"Cstrike_SAS"		"&3 SAS"
+"[english]Cstrike_SAS"		"&3 SAS"
+"Cstrike_GIGN"		"&4 GIGN"
+"[english]Cstrike_GIGN"		"&4 GIGN"
+"Cstrike_Terror_Name"		"LA FACCIÓN PHOENIX"
+"[english]Cstrike_Terror_Name"		"THE PHOENIX FACTION"
+"Cstrike_Leet_Name"		"UNIDAD_DE ÉLITE"
+"[english]Cstrike_Leet_Name"		"ELITE_CREW"
+"Cstrike_Arctic_Name"		"VENGADORES ÁRTICOS"
+"[english]Cstrike_Arctic_Name"		"ARCTIC AVENGERS"
+"Cstrike_Guerilla_Name"		"GUERRA DE GUERRILLAS"
+"[english]Cstrike_Guerilla_Name"		"GUERILLA WARFARE"
+"Cstrike_Urban_Name"		"EQUIPO SEAL 6"
+"[english]Cstrike_Urban_Name"		"SEAL TEAM 6"
+"Cstrike_GSG9_Name"		"GRENZSCHUTZGRUPPE-9"
+"[english]Cstrike_GSG9_Name"		"GRENZSCHUTZGRUPPE-9"
+"Cstrike_SAS_Name"		"BRITISH SPECIAL AIR SERVICE"
+"[english]Cstrike_SAS_Name"		"BRITISH SPECIAL AIR SERVICE"
+"Cstrike_GIGN_Name"		"GROUPE D'INTERVENTION DE LA GENDARMERIE NATIONALE"
+"[english]Cstrike_GIGN_Name"		"GROUPE D'INTERVENTION DE LA GENDARMERIE NATIONALE"
+"Cstrike_Autoselect_Name"		"SELECCIONA UNA CLASE DE PERSONAJE AL AZAR"
+"[english]Cstrike_Autoselect_Name"		"RANDOMLY SELECT A CHARACTER CLASS"
+"Cstrike_Terror_Label"		"Conocida por eliminar a todo aquel que se 
+les opone, la Facción Phoenix es uno de los 
+grupos terroristas más temidos en Europa del Este. 
+Se formó poco después de la disolución de la URSS. "
+"[english]Cstrike_Terror_Label"		"Having established a reputation for killing anyone that 
+gets in their way, the Phoenix Faction is one of 
+the most feared terrorist groups in Eastern Europe. 
+Formed shortly after the breakup of the USSR. "
+"Cstrike_Leet_Label"		"Grupo fundamentalista de Oriente Medio concentrado en 
+dominar el mundo y otras malévolas acciones."
+"[english]Cstrike_Leet_Label"		"Middle Eastern fundamentalist group bent on world 
+domination and various other evil deeds."
+"Cstrike_Arctic_Label"		"Facción terrorista sueca fundada en 1977. Famosa por 
+la bomba colocada en la embajada de Canadá en 1990."
+"[english]Cstrike_Arctic_Label"		"Swedish terrorist faction founded in 1977. Famous for 
+their bombing of the Canadian embassy in 1990."
+"Cstrike_Guerilla_Label"		"Facción terrorista fundada en Oriente Medio, este 
+grupo tiene fama de ser implacable. Su 
+repulsa por el estilo de vida estadounidense quedó demostrada por 
+la bomba colocada en 1982 en un autobús escolar lleno de músicos de 
+rock."
+"[english]Cstrike_Guerilla_Label"		"A terrorist faction founded in the Middle East, this 
+group has a reputation for ruthlessness. Their 
+disgust for the American lifestyle was demonstrated in 
+their 1982 bombing of a school bus full of Rock and Roll 
+musicians."
+"Cstrike_Urban_Label"		"El ST-6 (más tarde conocido como DEVGRU) fue fundado
+en 1980 bajo el mando del capitán de corbeta Richard 
+Marcincko. El ST-6 fue puesto en alerta permanente para 
+responder a ataques terroristas contra objetivos
+estadounidenses en todo el mundo."
+"[english]Cstrike_Urban_Label"		"ST-6 (to be known later as DEVGRU) was founded in 1980 
+under the command of Lieutenant-Commander Richard 
+Marcincko. ST-6 was placed on permanent alert to respond 
+to terrorist attacks against American targets worldwide."
+"Cstrike_GSG9_Label"		"El GSG-9 fue creado a raíz de los trágicos incidentes que provocaron la 
+muerte de varios atletas israelíes durante los Juegos Olímpicos de 
+1972 en Munich, Alemania."
+"[english]Cstrike_GSG9_Label"		"GSG-9 was born out of the tragic events that led to the 
+death of several Israeli athletes during the 
+1972 Olympic games in Munich, Germany."
+"Cstrike_SAS_Label"		"El mundialmente conocido SAS del Reino Unido fue fundado durante la II 
+Guerra Mundial por David Stirling. Su 
+papel durante la II GM fue la obtención de información tras las 
+líneas enemigas y la ejecución de sabotajes y 
+asesinatos contra objetivos clave."
+"[english]Cstrike_SAS_Label"		"The world-renowned British SAS was founded in the Second 
+World War by a man named David Stirling. Their 
+role during WW2 involved gathering intelligence behind 
+enemy lines and executing sabotage strikes and 
+assassinations against key targets."
+"Cstrike_GIGN_Label"		"La unidad antiterrorista francesa de élite, el GIGN, fue 
+creada para ofrecer una fuerza de respuesta rápida con 
+capacidad total de reacción ante cualquier acto terrorista a gran escala. 
+Formado por no más de 100 hombres, el GIGN se ha ganado 
+su reputación con un historial de operaciones cumplidas con éxito."
+"[english]Cstrike_GIGN_Label"		"France's elite Counter-Terrorist unit, the GIGN, was 
+designed to be a fast response force that could 
+decisively react to any large-scale terrorist incident. 
+Consisting of no more than 100 men, the GIGN has earned 
+its reputation through a history of successful ops."
+"Cstrike_AutoSelect_Label"		"La opción Selección automática selecciona un modelo de personaje al azar."
+"[english]Cstrike_AutoSelect_Label"		"Auto-Select randomly selects a character model."
+"Cstrike_Select_Category"		"COMPRAR POR CATEGORÍA"
+"[english]Cstrike_Select_Category"		"SHOP BY CATEGORY"
+"Cstrike_Pistols"		"&1 PISTOLAS"
+"[english]Cstrike_Pistols"		"&1 PISTOLS"
+"Cstrike_Shotguns"		"&2 ESCOPETAS"
+"[english]Cstrike_Shotguns"		"&2 SHOTGUNS"
+"Cstrike_SubMachineGuns"		"&3 METRALLETAS"
+"[english]Cstrike_SubMachineGuns"		"&3 SMG"
+"Cstrike_Rifles"		"&4 RIFLES"
+"[english]Cstrike_Rifles"		"&4 RIFLES"
+"Cstrike_MachineGuns"		"&5 AMETRALLADORAS"
+"[english]Cstrike_MachineGuns"		"&5 MACHINE GUNS"
+"Cstrike_Prim_Ammo"		"&6 MUNICIÓN PRIMARIA"
+"[english]Cstrike_Prim_Ammo"		"&6 PRIMARY AMMO"
+"Cstrike_Sec_Ammo"		"&7 MUNICIÓN SECUNDARIA"
+"[english]Cstrike_Sec_Ammo"		"&7 SECONDARY AMMO"
+"Cstrike_Equipment"		"&8 EQUIPAMIENTO"
+"[english]Cstrike_Equipment"		"&8 EQUIPMENT"
+"Cstrike_PistolsLabel"		"COMPRAR PISTOLAS (ARMA SECUNDARIA)"
+"[english]Cstrike_PistolsLabel"		"BUY PISTOLS (SECONDARY WEAPON)"
+"Cstrike_ShotgunsLabel"		"COMPRAR ESCOPETAS (ARMA PRIMARIA)"
+"[english]Cstrike_ShotgunsLabel"		"BUY SHOTGUNS (PRIMARY WEAPON)"
+"Cstrike_SubmachinegunsLabel"		"COMPRAR AMETRALLADORAS (ARMA PRIMARIA)"
+"[english]Cstrike_SubmachinegunsLabel"		"BUY SUBMACHINE GUNS (PRIMARY WEAPON)"
+"Cstrike_RiflesLabel"		"COMPRAR RIFLES (ARMA PRIMARIA)"
+"[english]Cstrike_RiflesLabel"		"BUY RIFLES (PRIMARY WEAPON)"
+"Cstrike_MachinegunsLabel"		"COMPRAR METRALLETAS (ARMA PRIMARIA)"
+"[english]Cstrike_MachinegunsLabel"		"BUY MACHINE GUNS (PRIMARY WEAPON)"
+"Cstrike_PrimaryammoLabel"		"COMPRAR MUNICIÓN PARA EL ARMA PRIMARIA"
+"[english]Cstrike_PrimaryammoLabel"		"BUY AMMO FOR PRIMARY WEAPON"
+"Cstrike_SecammoLabel"		"COMPRAR MUNICIÓN PARA EL ARMA SECUNDARIA"
+"[english]Cstrike_SecammoLabel"		"BUY AMMO FOR SECONDARY WEAPON"
+"Cstrike_EquipmentLabel"		"COMPRAR EQUIPAMIENTO"
+"[english]Cstrike_EquipmentLabel"		"BUY EQUIPMENT"
+"Cstrike_Select_Pistol"		"SELECCIONA UNA PISTOLA"
+"[english]Cstrike_Select_Pistol"		"SELECT A PISTOL"
+"Cstrike_Glock18"		"&1 9X19MM SIDEARM"
+"[english]Cstrike_Glock18"		"&1 9X19MM SIDEARM"
+"Cstrike_USP45"		"&2 K&M .45 TACTICAL"
+"[english]Cstrike_USP45"		"&2 K&M .45 TACTICAL"
+"Cstrike_P228"		"&3 228 COMPACT"
+"[english]Cstrike_P228"		"&3 228 COMPACT"
+"Cstrike_DesertEagle"		"&4 NIGHT HAWK .50C"
+"[english]Cstrike_DesertEagle"		"&4 NIGHT HAWK .50C"
+"Cstrike_FiveSeven"		"&5 ES FIVE-SEVEN"
+"[english]Cstrike_FiveSeven"		"&5 ES FIVE-SEVEN"
+"Cstrike_Elites"		"&5 .40 DUAL ELITES"
+"[english]Cstrike_Elites"		"&5 .40 DUAL ELITES"
+"Cstrike_m3"		"&1 LEONE 12 GAUGE SUPER"
+"[english]Cstrike_m3"		"&1 LEONE 12 GAUGE SUPER"
+"Cstrike_xm1014"		"&2 LEONE YG1265 AUTO SHOTGUN"
+"[english]Cstrike_xm1014"		"&2 LEONE YG1265 AUTO SHOTGUN"
+"Cstrike_Tmp"		"&1 SCHMIDT MACHINE PISTOL"
+"[english]Cstrike_Tmp"		"&1 SCHMIDT MACHINE PISTOL"
+"Cstrike_MP5"		"&2 K&M SUB-MACHINE GUN"
+"[english]Cstrike_MP5"		"&2 K&M SUB-MACHINE GUN"
+"Cstrike_UMP45"		"&3 K&M UMP45"
+"[english]Cstrike_UMP45"		"&3 K&M UMP45"
+"Cstrike_P90"		"&4 ES C90"
+"[english]Cstrike_P90"		"&4 ES C90"
+"Cstrike_MAC10"		"&1 INGRAM MAC-10"
+"[english]Cstrike_MAC10"		"&1 INGRAM MAC-10"
+"Cstrike_Famas"		"&1 CLARION 5.56"
+"[english]Cstrike_Famas"		"&1 CLARION 5.56"
+"Cstrike_Scout_CT"		"&2 SCHMIDT SCOUT"
+"[english]Cstrike_Scout_CT"		"&2 SCHMIDT SCOUT"
+"Cstrike_Scout_TER"		"&3 SCHMIDT SCOUT"
+"[english]Cstrike_Scout_TER"		"&3 SCHMIDT SCOUT"
+"Cstrike_M4A1"		"&3 MAVERICK M4A1 CARBINE"
+"[english]Cstrike_M4A1"		"&3 MAVERICK M4A1 CARBINE"
+"Cstrike_Aug"		"&4 BULLPUP"
+"[english]Cstrike_Aug"		"&4 BULLPUP"
+"Cstrike_SG550"		"&5 KRIEG 550 COMMANDO"
+"[english]Cstrike_SG550"		"&5 KRIEG 550 COMMANDO"
+"Cstrike_SG552"		"&4 KRIEG 552"
+"[english]Cstrike_SG552"		"&4 KRIEG 552"
+"Cstrike_AWP_CT"		"&6 MAGNUM SNIPER RIFLE"
+"[english]Cstrike_AWP_CT"		"&6 MAGNUM SNIPER RIFLE"
+"Cstrike_AWP_TER"		"&5 MAGNUM SNIPER RIFLE"
+"[english]Cstrike_AWP_TER"		"&5 MAGNUM SNIPER RIFLE"
+"Cstrike_Galil"		"&1 IDF DEFENDER"
+"[english]Cstrike_Galil"		"&1 IDF DEFENDER"
+"Cstrike_AK47"		"&2 CV-47"
+"[english]Cstrike_AK47"		"&2 CV-47"
+"Cstrike_G3SG1"		"&6 D3/AU-1"
+"[english]Cstrike_G3SG1"		"&6 D3/AU-1"
+"Cstrike_M249"		"&1 M249"
+"[english]Cstrike_M249"		"&1 M249"
+"Cstrike_Kevlar"		"&1 KEVLAR"
+"[english]Cstrike_Kevlar"		"&1 KEVLAR"
+"Cstrike_Kevlar_Helmet"		"&2 KEVLAR+CASCO"
+"[english]Cstrike_Kevlar_Helmet"		"&2 KEVLAR+HELMET"
+"Cstrike_Flashbang"		"&3 BENGALA"
+"[english]Cstrike_Flashbang"		"&3 FLASHBANG"
+"Cstrike_HE_Grenade"		"&4 GRANADA HE"
+"[english]Cstrike_HE_Grenade"		"&4 HE GRENADE"
+"Cstrike_Smoke_Grenade"		"&5 GRANADA DE HUMO"
+"[english]Cstrike_Smoke_Grenade"		"&5 SMOKE GRENADE"
+"Cstrike_Defuser"		"&6 EQUIPO DE DESACTIVACIÓN"
+"[english]Cstrike_Defuser"		"&6 DEFUSAL KIT"
+"Cstrike_NightVision_Button_CT"		"&7 VISIÓN NOCTURNA"
+"[english]Cstrike_NightVision_Button_CT"		"&7 NIGHTVISION"
+"Cstrike_NightVision_Button_TER"		"&6 VISIÓN NOCTURNA"
+"[english]Cstrike_NightVision_Button_TER"		"&6 NIGHTVISION"
+"Cstrike_Shield"		"&8 ESCUDO TÁCTICO"
+"[english]Cstrike_Shield"		"&8 TACTICAL SHIELD"
+"CStrike_PriceLabel"		"PRECIO"
+"[english]CStrike_PriceLabel"		"PRICE"
+"CStrike_OriginLabel"		"PAÍS DE ORIGEN"
+"[english]CStrike_OriginLabel"		"COUNTRY OF ORIGIN"
+"CStrike_CalibreLabel"		"CALIBRE"
+"[english]CStrike_CalibreLabel"		"CALIBER"
+"CStrike_ClipCapacityLabel"		"CAPACIDAD DEL CARGADOR"
+"[english]CStrike_ClipCapacityLabel"		"CLIP CAPACITY"
+"CStrike_RateOfFireLabel"		"CADENCIA DE FUEGO"
+"[english]CStrike_RateOfFireLabel"		"RATE OF FIRE"
+"CStrike_WeightLoadedLabel"		"PESO (CARGADA)"
+"[english]CStrike_WeightLoadedLabel"		"WEIGHT (LOADED)"
+"CStrike_WeightEmptyLabel"		"PESO (VACÍA)"
+"[english]CStrike_WeightEmptyLabel"		"WEIGHT (EMPTY)"
+"CStrike_ProjectileWeightLabel"		"PESO DEL PROYECTIL"
+"[english]CStrike_ProjectileWeightLabel"		"PROJECTILE WEIGHT"
+"CStrike_MuzzleVelocityLabel"		"VELOCIDAD DE SALIDA"
+"[english]CStrike_MuzzleVelocityLabel"		"MUZZLE VELOCITY"
+"CStrike_MuzzleEnergyLabel"		"ENERGÍA DE LA BOCA DE CAÑÓN"
+"[english]CStrike_MuzzleEnergyLabel"		"MUZZLE ENERGY"
+"Cstrike_DescriptionLabel"		"DESCRIPCIÓN"
+"[english]Cstrike_DescriptionLabel"		"DESCRIPTION"
+"CStrike_GlockPrice"		": 400$"
+"[english]CStrike_GlockPrice"		": $400"
+"CStrike_GlockOrigin"		": AUSTRIA"
+"[english]CStrike_GlockOrigin"		": AUSTRIA"
+"CStrike_GlockCalibre"		": 9MM PARABELLUM"
+"[english]CStrike_GlockCalibre"		": 9MM PARABELLUM"
+"CStrike_GlockClipCapacity"		": 20 TIROS"
+"[english]CStrike_GlockClipCapacity"		": 20 ROUNDS"
+"CStrike_GlockRateOfFire"		": N/A"
+"[english]CStrike_GlockRateOfFire"		": N/A"
+"CStrike_GlockWeightLoaded"		": 0,9 KG"
+"[english]CStrike_GlockWeightLoaded"		": 0.9KG"
+"CStrike_GlockProjectileWeight"		": 8 GRS"
+"[english]CStrike_GlockProjectileWeight"		": 8 GRAMS"
+"CStrike_GlockMuzzleVelocity"		": 345 M/SEG"
+"[english]CStrike_GlockMuzzleVelocity"		": 1132 FEET/SECOND"
+"CStrike_GlockMuzzleEnergy"		": 475 JULIOS"
+"[english]CStrike_GlockMuzzleEnergy"		": 475 JOULES"
+"CStrike_USP45Price"		": 500$"
+"[english]CStrike_USP45Price"		": $500"
+"CStrike_USP45Origin"		": ALEMANIA"
+"[english]CStrike_USP45Origin"		": GERMANY"
+"CStrike_USP45Calibre"		": .45 ACP"
+"[english]CStrike_USP45Calibre"		": .45 ACP"
+"CStrike_USP45ClipCapacity"		": 12 TIROS"
+"[english]CStrike_USP45ClipCapacity"		": 12 ROUNDS"
+"CStrike_USP45RateOfFire"		": N/A"
+"[english]CStrike_USP45RateOfFire"		": N/A"
+"CStrike_USP45WeightEmpty"		": 1 KG"
+"[english]CStrike_USP45WeightEmpty"		": 1KG"
+"CStrike_USP45ProjectileWeight"		": 15,2 GRS"
+"[english]CStrike_USP45ProjectileWeight"		": 15.2 GRAMS"
+"CStrike_USP45MuzzleVelocity"		": 574 M/SEG"
+"[english]CStrike_USP45MuzzleVelocity"		": 886 FEET/SECOND"
+"CStrike_USP45MuzzleEnergy"		": 553 JULIOS"
+"[english]CStrike_USP45MuzzleEnergy"		": 553 JOULES"
+"CStrike_P228Price"		": 600$"
+"[english]CStrike_P228Price"		": $600"
+"CStrike_P228Origin"		": SUIZA/ALEMANIA"
+"[english]CStrike_P228Origin"		": SWITZERLAND/GERMANY"
+"CStrike_P228Calibre"		": .357 SIG"
+"[english]CStrike_P228Calibre"		": .357 SIG"
+"CStrike_P228ClipCapacity"		": 13 TIROS"
+"[english]CStrike_P228ClipCapacity"		": 13 ROUNDS"
+"CStrike_P228RateOfFire"		": N/A"
+"[english]CStrike_P228RateOfFire"		": N/A"
+"CStrike_P228WeightLoaded"		": 1,03 KG"
+"[english]CStrike_P228WeightLoaded"		": 1.03KG"
+"CStrike_P228ProjectileWeight"		": 8,1 GRS"
+"[english]CStrike_P228ProjectileWeight"		": 8.1 GRAMS"
+"CStrike_P228MuzzleVelocity"		": 426 M/SEG"
+"[english]CStrike_P228MuzzleVelocity"		": 1400 FEET/SECOND"
+"CStrike_P228MuzzleEnergy"		": 600 JULIOS"
+"[english]CStrike_P228MuzzleEnergy"		": 600 JOULES"
+"CStrike_DesertEaglePrice"		": 650$"
+"[english]CStrike_DesertEaglePrice"		": $650"
+"CStrike_DesertEagleOrigin"		": ISRAEL"
+"[english]CStrike_DesertEagleOrigin"		": ISRAEL"
+"CStrike_DesertEagleCalibre"		": .50 ACTION EXPRESS"
+"[english]CStrike_DesertEagleCalibre"		": .50 ACTION EXPRESS"
+"CStrike_DesertEagleClipCapacity"		": 7 TIROS"
+"[english]CStrike_DesertEagleClipCapacity"		": 7 ROUNDS"
+"CStrike_DesertEagleRateOfFire"		": N/A"
+"[english]CStrike_DesertEagleRateOfFire"		": N/A"
+"CStrike_DesertEagleWeightLoaded"		": 1,8 KG"
+"[english]CStrike_DesertEagleWeightLoaded"		": 1.8KG"
+"CStrike_DesertEagleProjectileWeight"		": 19,4 GRS"
+"[english]CStrike_DesertEagleProjectileWeight"		": 19.4 GRAMS"
+"CStrike_DesertEagleMuzzleVelocity"		": 420 M/SEG"
+"[english]CStrike_DesertEagleMuzzleVelocity"		": 1380 FEET/SECOND"
+"CStrike_DesertEagleMuzzleEnergy"		": 1.650 JULIOS"
+"[english]CStrike_DesertEagleMuzzleEnergy"		": 1650 JOULES"
+"CStrike_FiveSevenPrice"		": 750$"
+"[english]CStrike_FiveSevenPrice"		": $750"
+"CStrike_FiveSevenOrigin"		": BÉLGICA"
+"[english]CStrike_FiveSevenOrigin"		": BELGIUM"
+"CStrike_FiveSevenCalibre"		": 5.7 X 28MM"
+"[english]CStrike_FiveSevenCalibre"		": 5.7 X 28MM"
+"CStrike_FiveSevenClipCapacity"		": 20 TIROS"
+"[english]CStrike_FiveSevenClipCapacity"		": 20 ROUNDS"
+"CStrike_FiveSevenRateOfFire"		": N/A"
+"[english]CStrike_FiveSevenRateOfFire"		": N/A"
+"CStrike_FiveSevenWeightLoaded"		": 0,618 KG"
+"[english]CStrike_FiveSevenWeightLoaded"		": 0.618KG"
+"CStrike_FiveSevenProjectileWeight"		": 2 GRS"
+"[english]CStrike_FiveSevenProjectileWeight"		": 2 GRAMS"
+"CStrike_FiveSevenMuzzleVelocity"		": 714 M/SEG"
+"[english]CStrike_FiveSevenMuzzleVelocity"		": 2345 FEET/SECOND"
+"CStrike_FiveSevenMuzzleEnergy"		": 465 JULIOS"
+"[english]CStrike_FiveSevenMuzzleEnergy"		": 465 JOULES"
+"CStrike_ElitesPrice"		": 800$"
+"[english]CStrike_ElitesPrice"		": $800"
+"CStrike_ElitesOrigin"		": ITALIA"
+"[english]CStrike_ElitesOrigin"		": ITALY"
+"CStrike_ElitesCalibre"		": 9MM PARABELLUM"
+"[english]CStrike_ElitesCalibre"		": 9MM PARABELLUM"
+"CStrike_ElitesClipCapacity"		": 15 TIROS"
+"[english]CStrike_ElitesClipCapacity"		": 15 ROUNDS"
+"CStrike_ElitesRateOfFire"		": N/A"
+"[english]CStrike_ElitesRateOfFire"		": N/A"
+"CStrike_ElitesWeightLoaded"		": 1,15 KG"
+"[english]CStrike_ElitesWeightLoaded"		": 1.15KG"
+"CStrike_ElitesProjectileWeight"		": 8 GRS"
+"[english]CStrike_ElitesProjectileWeight"		": 8 GRAMS"
+"CStrike_ElitesMuzzleVelocity"		": 390 M/SEG"
+"[english]CStrike_ElitesMuzzleVelocity"		": 1280 FEET/SECOND"
+"CStrike_ElitesMuzzleEnergy"		": 606 JULIOS"
+"[english]CStrike_ElitesMuzzleEnergy"		": 606 JOULES"
+"CStrike_M3Price"		": 1.700$"
+"[english]CStrike_M3Price"		": $1700"
+"CStrike_M3Origin"		": ITALIA"
+"[english]CStrike_M3Origin"		": ITALY"
+"CStrike_M3Calibre"		": 12 GAUGE"
+"[english]CStrike_M3Calibre"		": 12 GAUGE"
+"CStrike_M3ClipCapacity"		": 8 TIROS"
+"[english]CStrike_M3ClipCapacity"		": 8 ROUNDS"
+"CStrike_M3RateOfFire"		": N/A"
+"[english]CStrike_M3RateOfFire"		": N/A"
+"CStrike_M3WeightEmpty"		": 3,5 KG"
+"[english]CStrike_M3WeightEmpty"		": 3.5KG"
+"CStrike_M3ProjectileWeight"		": 3,8 GRS"
+"[english]CStrike_M3ProjectileWeight"		": 3.8 GRAMS"
+"CStrike_M3MuzzleVelocity"		": 381 M/SEG"
+"[english]CStrike_M3MuzzleVelocity"		": 1250 FEET/SECOND"
+"CStrike_M3MuzzleEnergy"		": 2.429 JULIOS"
+"[english]CStrike_M3MuzzleEnergy"		": 2429 JOULES"
+"CStrike_XM1014Price"		": 3.000$"
+"[english]CStrike_XM1014Price"		": $3000"
+"CStrike_XM1014Origin"		": ITALIA"
+"[english]CStrike_XM1014Origin"		": ITALY"
+"CStrike_XM1014Calibre"		": 12 GAUGE"
+"[english]CStrike_XM1014Calibre"		": 12 GAUGE"
+"CStrike_XM1014ClipCapacity"		": 7 TIROS"
+"[english]CStrike_XM1014ClipCapacity"		": 7 ROUNDS"
+"CStrike_XM1014RateOfFire"		": 400 RPM"
+"[english]CStrike_XM1014RateOfFire"		": 400 RPM"
+"CStrike_XM1014WeightEmpty"		": 4 KG"
+"[english]CStrike_XM1014WeightEmpty"		": 4KG"
+"CStrike_XM1014ProjectileWeight"		": 3,8 GRS/BALA"
+"[english]CStrike_XM1014ProjectileWeight"		": 3.8 GRAMS/PELLET"
+"CStrike_XM1014MuzzleVelocity"		": 381 M/SEG"
+"[english]CStrike_XM1014MuzzleVelocity"		": 1250 FEET/SECOND"
+"CStrike_XM1014MuzzleEnergy"		": 2.429 JULIOS"
+"[english]CStrike_XM1014MuzzleEnergy"		": 2429 JOULES"
+"CStrike_TMPPrice"		": 1.250$"
+"[english]CStrike_TMPPrice"		": $1250"
+"CStrike_TMPOrigin"		": AUSTRIA"
+"[english]CStrike_TMPOrigin"		": AUSTRIA"
+"CStrike_TMPCalibre"		": 9MM PARABELLUM"
+"[english]CStrike_TMPCalibre"		": 9MM PARABELLUM"
+"CStrike_TMPClipCapacity"		": 30 TIROS"
+"[english]CStrike_TMPClipCapacity"		": 30 ROUNDS"
+"CStrike_TMPRateOfFire"		": 857 RPM"
+"[english]CStrike_TMPRateOfFire"		": 857 RPM"
+"CStrike_TMPWeightEmpty"		": 1,3 KG"
+"[english]CStrike_TMPWeightEmpty"		": 1.3KG"
+"CStrike_TMPProjectileWeight"		": 8 GRS"
+"[english]CStrike_TMPProjectileWeight"		": 8 GRAMS"
+"CStrike_TMPMuzzleVelocity"		": 390 M/SEG"
+"[english]CStrike_TMPMuzzleVelocity"		": 1280 FEET/SECOND"
+"CStrike_TMPMuzzleEnergy"		": 606 JULIOS"
+"[english]CStrike_TMPMuzzleEnergy"		": 606 JOULES"
+"CStrike_MP5Price"		": 1.500$"
+"[english]CStrike_MP5Price"		": $1500"
+"CStrike_MP5Origin"		": ALEMANIA"
+"[english]CStrike_MP5Origin"		": GERMANY"
+"CStrike_MP5Calibre"		": 9MM PARABELLUM"
+"[english]CStrike_MP5Calibre"		": 9MM PARABELLUM"
+"CStrike_MP5ClipCapacity"		": 30 TIROS"
+"[english]CStrike_MP5ClipCapacity"		": 30 ROUNDS"
+"CStrike_MP5RateOfFire"		": 800 RPM"
+"[english]CStrike_MP5RateOfFire"		": 800 RPM"
+"CStrike_MP5WeightEmpty"		": 3,42 KG"
+"[english]CStrike_MP5WeightEmpty"		": 3.42KG"
+"CStrike_MP5ProjectileWeight"		": 8 GRS"
+"[english]CStrike_MP5ProjectileWeight"		": 8 GRAMS"
+"CStrike_MP5MuzzleVelocity"		": 435 M/SEG"
+"[english]CStrike_MP5MuzzleVelocity"		": 1132 FEET/SECOND"
+"CStrike_MP5MuzzleEnergy"		": 637 JULIOS"
+"[english]CStrike_MP5MuzzleEnergy"		": 637 JOULES"
+"CStrike_Mac10Price"		": 1.400$"
+"[english]CStrike_Mac10Price"		": $1400"
+"CStrike_Mac10Origin"		": ESTADOS UNIDOS"
+"[english]CStrike_Mac10Origin"		": UNITED STATES OF AMERICA"
+"CStrike_Mac10Calibre"		": .45 ACP"
+"[english]CStrike_Mac10Calibre"		": .45 ACP"
+"CStrike_Mac10ClipCapacity"		": 30 TIROS"
+"[english]CStrike_Mac10ClipCapacity"		": 30 ROUNDS"
+"CStrike_Mac10RateOfFire"		": 857 RPM"
+"[english]CStrike_Mac10RateOfFire"		": 857 RPM"
+"CStrike_Mac10WeightLoaded"		": 3,82 KG"
+"[english]CStrike_Mac10WeightLoaded"		": 3.82 KG"
+"CStrike_Mac10ProjectileWeight"		": 15,2 GRS"
+"[english]CStrike_Mac10ProjectileWeight"		": 15.2 GRAMS"
+"CStrike_Mac10MuzzleVelocity"		": 280 M/SEG"
+"[english]CStrike_Mac10MuzzleVelocity"		": 919 FEET/SECOND"
+"CStrike_Mac10MuzzleEnergy"		": 584 JULIOS"
+"[english]CStrike_Mac10MuzzleEnergy"		": 584 JOULES"
+"CStrike_UMP45Price"		": 1.700$"
+"[english]CStrike_UMP45Price"		": $1700"
+"CStrike_UMP45Origin"		": ALEMANIA"
+"[english]CStrike_UMP45Origin"		": GERMANY"
+"CStrike_UMP45Calibre"		": .45 ACP"
+"[english]CStrike_UMP45Calibre"		": .45 ACP"
+"CStrike_UMP45ClipCapacity"		": 25 TIROS"
+"[english]CStrike_UMP45ClipCapacity"		": 25 ROUNDS"
+"CStrike_UMP45RateOfFire"		": 600 RPM"
+"[english]CStrike_UMP45RateOfFire"		": 600 RPM"
+"CStrike_UMP45WeightLoaded"		": 2,27 KG"
+"[english]CStrike_UMP45WeightLoaded"		": 2.27KG"
+"CStrike_UMP45ProjectileWeight"		": 15,2 GRS"
+"[english]CStrike_UMP45ProjectileWeight"		": 15.2 GRAMS"
+"CStrike_UMP45MuzzleVelocity"		": 306 M/SEG"
+"[english]CStrike_UMP45MuzzleVelocity"		": 1005 FEET/SECOND"
+"CStrike_UMP45MuzzleEnergy"		": 625 JULIOS"
+"[english]CStrike_UMP45MuzzleEnergy"		": 625 JOULES"
+"CStrike_P90Price"		": 2.350$"
+"[english]CStrike_P90Price"		": $2350"
+"CStrike_P90Origin"		": BÉLGICA"
+"[english]CStrike_P90Origin"		": BELGIUM"
+"CStrike_P90Calibre"		": .338 LAPUA MAGNUM"
+"[english]CStrike_P90Calibre"		": .338 LAPUA MAGNUM"
+"CStrike_P90ClipCapacity"		": 50 TIROS"
+"[english]CStrike_P90ClipCapacity"		": 50 ROUNDS"
+"CStrike_P90RateOfFire"		": 900 RPM"
+"[english]CStrike_P90RateOfFire"		": 900 RPM"
+"CStrike_P90WeightLoaded"		": 3 KG"
+"[english]CStrike_P90WeightLoaded"		": 3KG"
+"CStrike_P90ProjectileWeight"		": 2 GRS"
+"[english]CStrike_P90ProjectileWeight"		": 2 GRAMS"
+"CStrike_P90MuzzleVelocity"		": 714 M/SEG"
+"[english]CStrike_P90MuzzleVelocity"		": 2345 FEET/SECOND"
+"CStrike_P90MuzzleEnergy"		": 465 JULIOS"
+"[english]CStrike_P90MuzzleEnergy"		": 465 JOULES"
+"CStrike_FamasPrice"		": 2.250$"
+"[english]CStrike_FamasPrice"		": $2250"
+"CStrike_FamasOrigin"		": FRANCIA"
+"[english]CStrike_FamasOrigin"		": FRANCE"
+"CStrike_FamasCalibre"		": 5.56 NATO"
+"[english]CStrike_FamasCalibre"		": 5.56 NATO"
+"CStrike_FamasClipCapacity"		": 25 TIROS"
+"[english]CStrike_FamasClipCapacity"		": 25 ROUNDS"
+"CStrike_FamasRateOfFire"		": 1.100 RPM"
+"[english]CStrike_FamasRateOfFire"		": 1100 RPM"
+"CStrike_FamasWeightLoaded"		": 3,40 KG"
+"[english]CStrike_FamasWeightLoaded"		": 3.40KG"
+"CStrike_FamasProjectileWeight"		": 4 GRS"
+"[english]CStrike_FamasProjectileWeight"		": 4 GRAMS"
+"CStrike_FamasMuzzleVelocity"		": 674 M/SEG"
+"[english]CStrike_FamasMuzzleVelocity"		": 2212 FEET/SECOND"
+"CStrike_FamasMuzzleEnergy"		": 1.712 JULIOS"
+"[english]CStrike_FamasMuzzleEnergy"		": 1712 JOULES"
+"CStrike_ScoutPrice"		": 2.750$"
+"[english]CStrike_ScoutPrice"		": $2750"
+"CStrike_ScoutOrigin"		": AUSTRIA"
+"[english]CStrike_ScoutOrigin"		": AUSTRIA"
+"CStrike_ScoutCalibre"		": 7.62 NATO"
+"[english]CStrike_ScoutCalibre"		": 7.62 NATO"
+"CStrike_ScoutClipCapacity"		": 10 TIROS"
+"[english]CStrike_ScoutClipCapacity"		": 10 ROUNDS"
+"CStrike_ScoutRateOfFire"		": N/A"
+"[english]CStrike_ScoutRateOfFire"		": N/A"
+"CStrike_ScoutWeightEmpty"		": 3,3 KG"
+"[english]CStrike_ScoutWeightEmpty"		": 3.3KG"
+"CStrike_ScoutProjectileWeight"		": 8 GRS"
+"[english]CStrike_ScoutProjectileWeight"		": 8 GRAMS"
+"CStrike_ScoutMuzzleVelocity"		": 853 M/SEG"
+"[english]CStrike_ScoutMuzzleVelocity"		": 2800 FEET/SECOND"
+"CStrike_ScoutMuzzleEnergy"		": 2.200 JULIOS"
+"[english]CStrike_ScoutMuzzleEnergy"		": 2200 JOULES"
+"CStrike_AK47Price"		": 2.500$"
+"[english]CStrike_AK47Price"		": $2500"
+"CStrike_AK47Origin"		": RUSIA"
+"[english]CStrike_AK47Origin"		": RUSSIA"
+"CStrike_AK47Calibre"		": 7.62 NATO"
+"[english]CStrike_AK47Calibre"		": 7.62 NATO"
+"CStrike_AK47ClipCapacity"		": 30 TIROS"
+"[english]CStrike_AK47ClipCapacity"		": 30 ROUNDS"
+"CStrike_AK47RateOfFire"		": 600 RPM"
+"[english]CStrike_AK47RateOfFire"		": 600 RPM"
+"CStrike_AK47WeightLoaded"		": 4,79 KG"
+"[english]CStrike_AK47WeightLoaded"		": 4.79KG"
+"CStrike_AK47ProjectileWeight"		": 7,9 GRS"
+"[english]CStrike_AK47ProjectileWeight"		": 7.9 GRAMS"
+"CStrike_AK47MuzzleVelocity"		": 709 M/SEG"
+"[english]CStrike_AK47MuzzleVelocity"		": 2329 FEET/SECOND"
+"CStrike_AK47MuzzleEnergy"		": 1.992 JULIOS"
+"[english]CStrike_AK47MuzzleEnergy"		": 1992 JOULES"
+"CStrike_GalilPrice"		": 2.000$"
+"[english]CStrike_GalilPrice"		": $2000"
+"CStrike_GalilOrigin"		": ISRAEL"
+"[english]CStrike_GalilOrigin"		": ISRAEL"
+"CStrike_GalilCalibre"		": .308"
+"[english]CStrike_GalilCalibre"		": .308"
+"CStrike_GalilClipCapacity"		": 35 TIROS"
+"[english]CStrike_GalilClipCapacity"		": 35 ROUNDS"
+"CStrike_GalilRateOfFire"		": 675 RPM"
+"[english]CStrike_GalilRateOfFire"		": 675 RPM"
+"CStrike_GalilWeightLoaded"		": 4,35 KG"
+"[english]CStrike_GalilWeightLoaded"		": 4.35KG"
+"CStrike_GalilProjectileWeight"		": 4 GRS"
+"[english]CStrike_GalilProjectileWeight"		": 4 GRAMS"
+"CStrike_GalilMuzzleVelocity"		": 613 M/SEG"
+"[english]CStrike_GalilMuzzleVelocity"		": 2013 FEET/SECOND"
+"CStrike_GalilMuzzleEnergy"		": 1.712 JULIOS"
+"[english]CStrike_GalilMuzzleEnergy"		": 1712	 JOULES"
+"CStrike_M4A1Price"		": 3.100$"
+"[english]CStrike_M4A1Price"		": $3100"
+"CStrike_M4A1Origin"		": ESTADOS UNIDOS"
+"[english]CStrike_M4A1Origin"		": UNITED STATES OF AMERICA"
+"CStrike_M4A1Calibre"		": 5.56 NATO"
+"[english]CStrike_M4A1Calibre"		": 5.56 NATO"
+"CStrike_M4A1ClipCapacity"		": 30 TIROS"
+"[english]CStrike_M4A1ClipCapacity"		": 30 ROUNDS"
+"CStrike_M4A1RateOfFire"		": 685 RPM"
+"[english]CStrike_M4A1RateOfFire"		": 685 RPM"
+"CStrike_M4A1WeightEmpty"		": 3,22 KG"
+"[english]CStrike_M4A1WeightEmpty"		": 3.22KG"
+"CStrike_M4A1ProjectileWeight"		": 4 GRS"
+"[english]CStrike_M4A1ProjectileWeight"		": 4 GRAMS"
+"CStrike_M4A1MuzzleVelocity"		": 2.900 M/SEG"
+"[english]CStrike_M4A1MuzzleVelocity"		": 2900 FEET/SECOND"
+"CStrike_M4A1MuzzleEnergy"		": 1.570 JULIOS"
+"[english]CStrike_M4A1MuzzleEnergy"		": 1570 JOULES"
+"CStrike_AugPrice"		": 3.500$"
+"[english]CStrike_AugPrice"		": $3500"
+"CStrike_AugOrigin"		": AUSTRIA"
+"[english]CStrike_AugOrigin"		": AUSTRIA"
+"CStrike_AugCalibre"		": 5.56 NATO"
+"[english]CStrike_AugCalibre"		": 5.56 NATO"
+"CStrike_AugClipCapacity"		": 30 TIROS"
+"[english]CStrike_AugClipCapacity"		": 30 ROUNDS"
+"CStrike_AugRateOfFire"		": 727 RPM"
+"[english]CStrike_AugRateOfFire"		": 727 RPM"
+"CStrike_AugWeightLoaded"		": 4,09 KG"
+"[english]CStrike_AugWeightLoaded"		": 4.09KG"
+"CStrike_AugProjectileWeight"		": 4 GRS"
+"[english]CStrike_AugProjectileWeight"		": 4 GRAMS"
+"CStrike_AugMuzzleVelocity"		": 883 M/SEG"
+"[english]CStrike_AugMuzzleVelocity"		": 2900 FEET/SECOND"
+"CStrike_AugMuzzleEnergy"		": 1.570 JULIOS"
+"[english]CStrike_AugMuzzleEnergy"		": 1570 JOULES"
+"CStrike_SG550Price"		": 4.200$"
+"[english]CStrike_SG550Price"		": $4200"
+"CStrike_SG550Origin"		": SUIZA"
+"[english]CStrike_SG550Origin"		": SWITZERLAND"
+"CStrike_SG550Calibre"		": 5.56 NATO"
+"[english]CStrike_SG550Calibre"		": 5.56 NATO"
+"CStrike_SG550ClipCapacity"		": 30 TIROS"
+"[english]CStrike_SG550ClipCapacity"		": 30 ROUNDS"
+"CStrike_SG550RateOfFire"		": N/A"
+"[english]CStrike_SG550RateOfFire"		": N/A"
+"CStrike_SG550WeightEmpty"		": 7,02 KG"
+"[english]CStrike_SG550WeightEmpty"		": 7.02KG"
+"CStrike_SG550ProjectileWeight"		": 4 GRS"
+"[english]CStrike_SG550ProjectileWeight"		": 4 GRAMS"
+"CStrike_SG550MuzzleVelocity"		": 944 M/SEG"
+"[english]CStrike_SG550MuzzleVelocity"		": 3100 FEET/SECOND"
+"CStrike_SG550MuzzleEnergy"		": 1.650 JULIOS"
+"[english]CStrike_SG550MuzzleEnergy"		": 1650 JOULES"
+"CStrike_SG552Price"		": 3.500$"
+"[english]CStrike_SG552Price"		": $3500"
+"CStrike_SG552Origin"		": SUIZA"
+"[english]CStrike_SG552Origin"		": SWITZERLAND"
+"CStrike_SG552Calibre"		": 5.56 NATO"
+"[english]CStrike_SG552Calibre"		": 5.56 NATO"
+"CStrike_SG552ClipCapacity"		": 30 TIROS"
+"[english]CStrike_SG552ClipCapacity"		": 30 ROUNDS"
+"CStrike_SG552RateOfFire"		": 727 RPM"
+"[english]CStrike_SG552RateOfFire"		": 727 RPM"
+"CStrike_SG552WeightEmpty"		": 3,1 KG"
+"[english]CStrike_SG552WeightEmpty"		": 3.1KG"
+"CStrike_SG552ProjectileWeight"		": 4 GRS"
+"[english]CStrike_SG552ProjectileWeight"		": 4 GRAMS"
+"CStrike_SG552MuzzleVelocity"		": 883 M/SEG"
+"[english]CStrike_SG552MuzzleVelocity"		": 2900 FEET/SECOND"
+"CStrike_SG552MuzzleEnergy"		": 1.570 JULIOS"
+"[english]CStrike_SG552MuzzleEnergy"		": 1570 JOULES"
+"CStrike_AWPPrice"		": 4.750$"
+"[english]CStrike_AWPPrice"		": $4750"
+"CStrike_AWPOrigin"		": REINO UNIDO"
+"[english]CStrike_AWPOrigin"		": UNITED KINGDOM"
+"CStrike_AWPCalibre"		": .338 LAPUA MAGNUM"
+"[english]CStrike_AWPCalibre"		": .338 LAPUA MAGNUM"
+"CStrike_AWPClipCapacity"		": 10 TIROS"
+"[english]CStrike_AWPClipCapacity"		": 10 ROUNDS"
+"CStrike_AWPRateOfFire"		": N/A"
+"[english]CStrike_AWPRateOfFire"		": N/A"
+"CStrike_AWPWeightLoaded"		": 6 KG"
+"[english]CStrike_AWPWeightLoaded"		": 6KG"
+"CStrike_AWPProjectileWeight"		": 16,2 GRS"
+"[english]CStrike_AWPProjectileWeight"		": 16.2 GRAMS"
+"CStrike_AWPMuzzleVelocity"		": 914 M/SEG"
+"[english]CStrike_AWPMuzzleVelocity"		": 3000 FEET/SECOND"
+"CStrike_AWPMuzzleEnergy"		": 7.000 JULIOS"
+"[english]CStrike_AWPMuzzleEnergy"		": 7000 JOULES"
+"CStrike_G3SG1Price"		": 5.000$"
+"[english]CStrike_G3SG1Price"		": $5000"
+"CStrike_G3SG1Origin"		": ALEMANIA"
+"[english]CStrike_G3SG1Origin"		": GERMANY"
+"CStrike_G3SG1Calibre"		": 7.62 NATO"
+"[english]CStrike_G3SG1Calibre"		": 7.62 NATO"
+"CStrike_G3SG1ClipCapacity"		": 20 TIROS"
+"[english]CStrike_G3SG1ClipCapacity"		": 20 ROUNDS"
+"CStrike_G3SG1RateOfFire"		": N/A"
+"[english]CStrike_G3SG1RateOfFire"		": N/A"
+"CStrike_G3SG1WeightLoaded"		": 4,41 KG"
+"[english]CStrike_G3SG1WeightLoaded"		": 4.41KG"
+"CStrike_G3SG1ProjectileWeight"		": 8 GRS"
+"[english]CStrike_G3SG1ProjectileWeight"		": 8 GRAMS"
+"CStrike_G3SG1MuzzleVelocity"		": 853 M/SEG"
+"[english]CStrike_G3SG1MuzzleVelocity"		": 2800 FEET/SECOND"
+"CStrike_G3SG1MuzzleEnergy"		": 2.200 JULIOS"
+"[english]CStrike_G3SG1MuzzleEnergy"		": 2200 JOULES"
+"CStrike_M249Price"		": 5.750$"
+"[english]CStrike_M249Price"		": $5750"
+"CStrike_M249Origin"		": BÉLGICA"
+"[english]CStrike_M249Origin"		": BELGIUM"
+"CStrike_M249Calibre"		": 5.56 PARABELLUM"
+"[english]CStrike_M249Calibre"		": 5.56 PARABELLUM"
+"CStrike_M249ClipCapacity"		": 100 TIROS"
+"[english]CStrike_M249ClipCapacity"		": 100 ROUNDS"
+"CStrike_M249RateOfFire"		": 600 RPM"
+"[english]CStrike_M249RateOfFire"		": 600 RPM"
+"CStrike_M249WeightLoaded"		": 6 KG"
+"[english]CStrike_M249WeightLoaded"		": 6KG"
+"CStrike_M249ProjectileWeight"		": 4 GRS"
+"[english]CStrike_M249ProjectileWeight"		": 4 GRAMS"
+"CStrike_M249MuzzleVelocity"		": 914 M/SEG"
+"[english]CStrike_M249MuzzleVelocity"		": 3000 FEET/SECOND"
+"CStrike_M249MuzzleEnergy"		": 1.600 JULIOS"
+"[english]CStrike_M249MuzzleEnergy"		": 1600 JOULES"
+"Cstrike_KevlarPrice"		": 650$"
+"[english]Cstrike_KevlarPrice"		": $650"
+"Cstrike_KevlarDescription"		": Un chaleco kevlar que protege 
+ de proyectiles."
+"[english]Cstrike_KevlarDescription"		": A Kevlar vest that protects 
+ against projectiles."
+"Cstrike_KevlarHelmetPrice"		": 1.000$"
+"[english]Cstrike_KevlarHelmetPrice"		": $1000"
+"Cstrike_KevlarHelmetDescription"		": Un chaleco kevlar y un casco 
+ balístico que protegen 
+ de proyectiles."
+"[english]Cstrike_KevlarHelmetDescription"		": A kevlar vest and a ballistic 
+ helmet which both protect 
+ against projectiles."
+"Cstrike_NightvisionPrice"		": 1.250$"
+"[english]Cstrike_NightvisionPrice"		": $1250"
+"Cstrike_NightvisionDescription"		": Gafas de visión nocturna
+ que permiten al usuario ver
+ mejor en zonas oscuras."
+"[english]Cstrike_NightvisionDescription"		": Nightvision goggles which 
+ allow the user to see more 
+ effectively in dark areas."
+"Cstrike_ShieldPrice"		": 2.200$"
+"[english]Cstrike_ShieldPrice"		": $2200"
+"Cstrike_ShieldDescription"		": Escudo tipo barrera
+ para luchas callejeras
+ e intervención"
+"[english]Cstrike_ShieldDescription"		": Barrier-type shield for 
+ street tactics and 
+ intervention."
+"Cstrike_SmokeGrenadePrice"		": 300$"
+"[english]Cstrike_SmokeGrenadePrice"		": $300"
+"Cstrike_SmokeGrenadeDescription"		": Dispositivo de distracción
+ que puede proporcionar
+ cobertura temporal para
+ desplazamientos."
+"[english]Cstrike_SmokeGrenadeDescription"		": A diversionary device that 
+ can be used to provide 
+ temporary cover for moving 
+ from place to place."
+"Cstrike_DefuserPrice"		": 200$"
+"[english]Cstrike_DefuserPrice"		": $200"
+"Cstrike_DefuserDescription"		": Equipo de desactivación de
+ bombas utilizado para
+ acelerar la desactivación"
+"[english]Cstrike_DefuserDescription"		": A bomb defusal kit used to 
+ speed up the bomb defusal 
+ process."
+"Cstrike_FlashbangPrice"		": 200$"
+"[english]Cstrike_FlashbangPrice"		": $200"
+"Cstrike_FlashbangDescription"		": Produce un fuerte ruido y
+ un destello cegador al ser
+ lanzado contra el enemigo 
+ (tira primero de la lengüeta).
+ Muy útil para crear confusión
+ antes de acceder a una zona."
+"[english]Cstrike_FlashbangDescription"		": Makes a loud noise and 
+ blinding flash when thrown 
+ at enemy (pull pin first). 
+ Useful for causing distractions 
+ before entering an area."
+"Cstrike_HEGrenadePrice"		": 300$"
+"[english]Cstrike_HEGrenadePrice"		": $300"
+"Cstrike_HEGrenadeDescription"		": Dispositivo de alta capacidad
+ explosiva. Tira de la lengüeta,
+ suelta la cucharilla y lánzalo."
+"[english]Cstrike_HEGrenadeDescription"		": A high-explosive device. Pull 
+ the pin, release the spoon 
+ and throw."
+"Cstrike_Listen_MapName"		"Mapa"
+"[english]Cstrike_Listen_MapName"		"Map"
+"Cstrike_Bot_IncludeBots"		"Incluir jugadores CPU (Bots) en la partida"
+"[english]Cstrike_Bot_IncludeBots"		"Include CPU players (Bots) in this game"
+"Cstrike_Bot_NumberOfBots"		"Número de Bots"
+"[english]Cstrike_Bot_NumberOfBots"		"Number of CPU players"
+"Cstrike_Bot_Difficulty"		"Dificultad"
+"[english]Cstrike_Bot_Difficulty"		"Difficulty"
+"Cstrike_Bot_Difficulty0"		"Fácil"
+"[english]Cstrike_Bot_Difficulty0"		"Easy"
+"Cstrike_Bot_Difficulty1"		"Normal"
+"[english]Cstrike_Bot_Difficulty1"		"Normal"
+"Cstrike_Bot_Difficulty2"		"Difícil"
+"[english]Cstrike_Bot_Difficulty2"		"Hard"
+"Cstrike_Bot_Difficulty3"		"Experto"
+"[english]Cstrike_Bot_Difficulty3"		"Expert"
+"CStrike_Bot_JoinAfterPlayer"		"Bots se unen tras jugador"
+"[english]CStrike_Bot_JoinAfterPlayer"		"Bots join after a player joins"
+"CStrike_Bot_GoRogue"		"Pueden volverse violentos"
+"[english]CStrike_Bot_GoRogue"		"Bots can go rogue"
+"CStrike_Bot_AllowWeapon"		"Pueden utilizar"
+"[english]CStrike_Bot_AllowWeapon"		"Bots can use"
+"CStrike_Bot_UsePistols"		"Pistolas"
+"[english]CStrike_Bot_UsePistols"		"Pistols"
+"CStrike_Bot_UseShotguns"		"Escopetas"
+"[english]CStrike_Bot_UseShotguns"		"Shotguns"
+"CStrike_Bot_UseSub"		"Ametralladoras"
+"[english]CStrike_Bot_UseSub"		"Submachine guns"
+"CStrike_Bot_UseRifles"		"Rifles"
+"[english]CStrike_Bot_UseRifles"		"Rifles"
+"CStrike_Bot_UseMachineGuns"		"Metralletas"
+"[english]CStrike_Bot_UseMachineGuns"		"Machine guns"
+"CStrike_Bot_UseGrenades"		"Granadas"
+"[english]CStrike_Bot_UseGrenades"		"Grenades"
+"CStrike_Bot_UseSniper"		"Rifles de francotirador"
+"[english]CStrike_Bot_UseSniper"		"Sniper Rifles"
+"CStrike_Bot_UseShield"		"Escudos"
+"[english]CStrike_Bot_UseShield"		"Shields"
+"CStrike_Bot_Quota"		"Núm. mínimo de Bots"
+"[english]CStrike_Bot_Quota"		"Minimum # of Bots"
+"CStrike_Bot_NamePrefix"		"Prefijo nombre"
+"[english]CStrike_Bot_NamePrefix"		"Bot Name Prefix"
+"CStrike_Bot_JoinTeam"		"Bots se unen"
+"[english]CStrike_Bot_JoinTeam"		"Bots Join Team"
+"Cstrike_Spetsnaz_Name"		"SPETSNAZ"
+"[english]Cstrike_Spetsnaz_Name"		"SPETSNAZ"
+"Cstrike_Bot_chatter_Radio"		"Radio estándar"
+"[english]Cstrike_Bot_chatter_Radio"		"Standard Radio"
+"Cstrike_Bot_chatter_Normal"		"Normal"
+"[english]Cstrike_Bot_chatter_Normal"		"Normal"
+"Cstrike_Use_Left_Hand"		"Usa la mano izquierda"
+"[english]Cstrike_Use_Left_Hand"		"Use Left Hand"
+"Cstrike_vertigo"		"mapa de_vértigo"
+"[english]Cstrike_vertigo"		"map de_vertigo"
+"Cstrike_rush_upper_level"		"'¡Corre hacia el piso de arriba!'"
+"[english]Cstrike_rush_upper_level"		"'Rush the upper level!'"
+"Cstrike_prodigy"		"mapa de_prodigy"
+"[english]Cstrike_prodigy"		"map de_prodigy"
+"Cstrike_rush_to_pipes"		"'Corred a las tuberías'"
+"[english]Cstrike_rush_to_pipes"		"'Rush to pipes'"
+"Cstrike_take_the hallway"		"'¡Ve por el vestíbulo!'"
+"[english]Cstrike_take_the hallway"		"'Take the hallway!'"
+"Cstrike_take_the_apc"		"'¡Toma la ruta APC!'"
+"[english]Cstrike_take_the_apc"		"'Take the APC route!'"
+"Cstrike_enemy_at_bomb_site"		"'Enemigo en el enclave de la bomba'"
+"[english]Cstrike_enemy_at_bomb_site"		"'Enemy at bomb site'"
+"Cstrike_rush_to_bomb_site"		"'¡Corre al enclave de la bomba!'"
+"[english]Cstrike_rush_to_bomb_site"		"'Rush to bomb site'"
+"Cstrike_take_water_route"		"'¡Toma la ruta por agua!'"
+"[english]Cstrike_take_water_route"		"'Take the water route!'"
+"Cstrike_inferno"		"mapa de_inferno"
+"[english]Cstrike_inferno"		"map de_inferno"
+"Cstrike_office"		"mapa cs_oficina"
+"[english]Cstrike_office"		"map cs_office"
+"Cstrike_take_back_route"		"'¡Toma la ruta de vuelta!'"
+"[english]Cstrike_take_back_route"		"'Take the back route!'"
+"Cstrike_rush_to_hostages"		"'¡Corred hacia los rehenes!'"
+"[english]Cstrike_rush_to_hostages"		"'Rush to the hostages!'"
+"Cstrike_do_it_for_manilov"		"'¡Hazlo por Manilov!'"
+"[english]Cstrike_do_it_for_manilov"		"'Do it for Manilov!'"
+"Cstrike_take_front_route"		"'¡Tomad la ruta de frente!'"
+"[english]Cstrike_take_front_route"		"'Take the front route!'"
+"Cstrike_enemy_overhead"		"'¡Enemigo por arriba!'"
+"[english]Cstrike_enemy_overhead"		"'Enemy overhead!'"
+"Cstrike_vip_spotted"		"'¡VIP avistado!'"
+"[english]Cstrike_vip_spotted"		"'VIP spotted!'"
+"Cstrike_sniper_spotted"		"'Francotirador avistado'"
+"[english]Cstrike_sniper_spotted"		"'Sniper spotted'"
+"Cstrike_protect_the_vip"		"'Protege a los VIP'"
+"[english]Cstrike_protect_the_vip"		"'Protect the VIP'"
+"Cstrike_assault"		"mapa cs_asalto"
+"[english]Cstrike_assault"		"map cs_assault"
+"Cstrike_rush_the_building"		"'¡Asalta el edificio!'"
+"[english]Cstrike_rush_the_building"		"'Rush the building!'"
+"Cstrike_take_the_vents"		"'¡A los conductos de ventilación!'"
+"[english]Cstrike_take_the_vents"		"'Take the vents!'"
+"Cstrike_enemy_in_vents"		"'¡Enemigo en los conductos!'"
+"[english]Cstrike_enemy_in_vents"		"'Enemy in vents!'"
+"Career_AwardedMedal"		"Te han concedido una medalla por tu valentía en servicio."
+"[english]Career_AwardedMedal"		"You have been awarded a medal for your valiant service."
+"Cstrike_Tutor_You_Killed_Player_One_left"		"Has matado a un enemigo.
+
+Queda un enemigo."
+"[english]Cstrike_Tutor_You_Killed_Player_One_left"		"You have killed an enemy.
+
+There is one enemy left.
+
+Recent enemies killed:
+%s1"
+"Cstrike_Tutor_You_Killed_Player_Headshot"		"Has matado a un enemigo 
+con un tiro en la cabeza.
+
+Quedan %s1 enemigos."
+"[english]Cstrike_Tutor_You_Killed_Player_Headshot"		"You have killed an enemy
+with a headshot.
+
+There are %s1 enemies remaining.
+
+Recent enemies killed:
+%s2"
+"Cstrike_Tutor_You_Died"		"Has muerto."
+"[english]Cstrike_Tutor_You_Died"		"You have died."
+"Cstrike_Tutor_You_Are_Blind_From_Flashbang"		"¡Una granada flashbang te ha cegado!
+
+Recobrarás la visión en unos momentos..."
+"[english]Cstrike_Tutor_You_Are_Blind_From_Flashbang"		"A flashbang grenade has blinded you!
+
+Your vision will recover momentarily..."
+"Cstrike_Tutor_You_Used_Hostage_More_Left"		"Este rehén no te seguirá.
+
+Reúne al resto de los rehenes
+hablando con ellos."
+"[english]Cstrike_Tutor_You_Used_Hostage_More_Left"		"This Hostage will now follow you.
+
+Gather the remaining Hostages
+by talking to them."
+"Cstrike_Tutor_CT_Win"		"¡Los Anti-terroristas 
+han ganado esta ronda!"
+"[english]Cstrike_Tutor_CT_Win"		"The Counter-Terrorists
+have won this round!"
+"Cstrike_TutorState_Following_Hostage_Escort"		"Sigue y protege a los rehenes"
+"[english]Cstrike_TutorState_Following_Hostage_Escort"		"Follow and Protect the Hostages"
+"Cstrike_TutorState_Looking_For_Bomb_Carrier"		"Busca al portador de la bomba"
+"[english]Cstrike_TutorState_Looking_For_Bomb_Carrier"		"Find the Bomb Carrier"
+"Cstrike_TutorState_Moving_To_Intercept_Enemy"		"Intercepta al enemigo."
+"[english]Cstrike_TutorState_Moving_To_Intercept_Enemy"		"Intercept the Enemy"
+"Cstrike_TutorState_Looking_For_Loose_Bomb"		"Encuentra la bomba arrojada"
+"[english]Cstrike_TutorState_Looking_For_Loose_Bomb"		"Find the Dropped Bomb"
+"Cstrike_Tutor_Hint_1"		"Los enemigos pueden oír tus pasos si corres.
+Mantén pulsada la tecla Andar (Shift por defecto)
+para andar sigilosamente..."
+"[english]Cstrike_Tutor_Hint_1"		"Enemies can hear your footsteps when you run.
+Hold in the Walk key (default Shift) to walk silently..."
+"Cstrike_Tutor_Hint_11"		"Disparas con más precisión cuando estás quieto,
+y aún más cuando estás agachado."
+"[english]Cstrike_Tutor_Hint_11"		"You are more accurate when you stand still,
+and even more so when you crouch."
+"Cstrike_Tutor_Hint_12"		"Si disparas a un enemigo en la cabeza
+le matas instantáneamente - un 'tiro en la cabeza'"
+"[english]Cstrike_Tutor_Hint_12"		"Shooting an enemy in the head is
+an instant kill - a 'headshot'"
+"Cstrike_Tutor_Hint_13"		"Para ser preciso con un rifle de francotirador, 
+debes estar parado cuando dispares."
+"[english]Cstrike_Tutor_Hint_13"		"To be accurate with a sniper rifle, you
+must stand still when you fire your shot."
+"Cstrike_Tutor_Hint_14"		"Muchas armas tienen una 'función secundaria',
+que activa un zoom, un silenciador o provocan 
+fuego, dependiendo del arma."
+"[english]Cstrike_Tutor_Hint_14"		"Many weapons have 'secondary fire',
+providing zoom, silencing, or burst fire
+depending on the weapon.
+
+Press <right mouse button> for secondary fire."
+"Cstrike_Tutor_Hint_15"		"la gestión de munición es muy importante -
+Si se te acaba el cargador en un tiroteo, estarás en apuros.
+
+Recuerda recargar tu arma cuando tengas un momento.
+Sin embargo, si recargas en un mal momento pueden matarte."
+"[english]Cstrike_Tutor_Hint_15"		"Ammo management is extremely important -
+if your clip runs out in a firefight,you are in deep trouble.
+
+Remember to reload your weapon when you have a spare moment.
+However, reloading at the wrong time can get you killed.
+
+Choose wisely."
+"Cstrike_Tutor_Hint_20"		"El rifle de francotirador Magnum es muy potente, y puede
+normalmente matar a un enemigo de un solo disparo.
+Tiene un zoom muy potente, pero resulta casi imposible
+dispararlo sin utilizar el teleobjetivo."
+"[english]Cstrike_Tutor_Hint_20"		"The Magnum Sniper Rifle is very powerful, and can usually
+kill an enemy with a single shot. It's extreme zoom
+capability is very powerful, but firing this weapon
+without using the scope is nearly impossible.
+
+Just make sure no-one gets close enough to be a problem."
+"Cstrike_Tutor_Hint_21"		"El Schmidt Scout es un rifle de francotirador
+para expertos.  No es caro y no hace mucho daño...
+
+a menos que tengas la habilidad suficiente
+para acertar en la cabeza..."
+"[english]Cstrike_Tutor_Hint_21"		"The Schmidt Scout is a challenging sniper rifle.
+It is inexpensive and does little damage -
+
+unless you are skilled enough to score a headshot..."
+"Cstrike_Tutor_Hint_22"		"La escopeta automática Leone YG1265 es muy potente
+y resulta muy útil en espacios cerrados.
+
+Sin embargo, este arma no sirve para distancias largas."
+"[english]Cstrike_Tutor_Hint_22"		"The Leone YG1265 Auto Shotgun is extremly powerful
+and very useful in close quarters.
+
+However, this weapon is all but useless at long range."
+"Cstrike_Tutor_Hint_23"		"El Maverick M4A1 Carbine es un rifle potente y preciso.
+
+Si montas el silenciador con la función secundaria,
+convertirás este arma en una buena opción para ser sigloso."
+"[english]Cstrike_Tutor_Hint_23"		"The Maverick M4A1 Carbine is a powerful and precise rifle.
+
+Using secondary fire to attach a silencer makes
+this the weapon of choice for the stealthy."
+"Cstrike_Tutor_Hint_24"		"La CV-47 es tan potente como ruidosa.
+
+Aunuqe tiene un alto retroceso, los buenos
+tiradores la aprecian por su primer disparo letal."
+"[english]Cstrike_Tutor_Hint_24"		"The CV-47 is as powerful as it is loud.
+
+Although it suffers from high recoil, accurate
+marksmen prefer it for its lethal first shot."
+"Cstrike_Tutor_Hint_25"		"La Night Hawk .50C es realmente un 'cañón de mano'.
+
+Su potente munición detiene en seco a los enemigos."
+"[english]Cstrike_Tutor_Hint_25"		"The Night Hawk .50C is truly a 'hand cannon'.
+
+Its powerful ammunition stops enemies in their tracks.
+
+However, its clip is very small."
+"Cstrike_Tutor_Hint_26"		"El Escudo Táctico es una maravilla de la ingeniería moderna.
+
+Si lo despliegas (pulsando el botón de función secundaria)
+y te agachas tras él, serás inmune al daño."
+"[english]Cstrike_Tutor_Hint_26"		"The Tactical Shield is a marvel of modern engineering.
+
+If you deploy it (by pressing your secondary fire button)
+and crouch behind it, you are impervious to all damage
+coming towards your front.
+
+However, your sides and rear are vulnerable,
+and HE Grenades can still harm you."
+"Cstrike_Tutor_Hint_30"		"El Kit de Desactivación disminuye el tiempo
+que se tarda en desactivar una bomba."
+"[english]Cstrike_Tutor_Hint_30"		"A Defusal Kit dramatically decreases the
+amount of time it takes to defuse a bomb."
+"CStrike_Tutor_Hint_31"		"Para usar una granada, equípala (4 por defecto) y luego
+pulsa el Botón de Disparo (botón izdo del ratón por defecto).
+
+Para lanzarla, mantén pulsado el Botón de Disparo, apunta y suéltalo."
+"[english]CStrike_Tutor_Hint_31"		"To use a grenade, equip it (default 4) and then press
+the Fire Button (default left mouse button).
+
+To throw it, hold in your Fire Button, aim, and release.
+
+To throw farther, tip your view upwards and run towards
+your target when you release the grenade."
+"CStrike_Tutor_Hint_32"		"Las Granadas 'Flashbang' ciegan temporalmente
+a todos los que las miran cuando estallan.
+
+Cuidado - ¡Eso te incluye a tí y a los de tu equipo!"
+"[english]CStrike_Tutor_Hint_32"		"'Flashbang' Grenades temporarily blind everyone
+in the area who can see them when they explode.
+
+Be careful - this includes your teammates and even yourself!"
+"Cstrike_Tutor_Hint_33"		"Si apartas la vista de la Granada Flashbang
+el efecto de ceguera se suaviza."
+"[english]Cstrike_Tutor_Hint_33"		"Turning your view away from a Flashbang
+Grenade lessens its blinding effects."
+"Cstrike_Tutor_Hint_34"		"Las Granadas de Humo emiten grandes nubes de
+humo denso que ocultan los movimientos del jugador.
+
+Para los francotiradores, el humo puede resultar
+muy útil para infiltrarse en lugares."
+"[english]Cstrike_Tutor_Hint_34"		"Smoke Grenades emit large clouds of dense
+smoke that can hide player movements.
+
+Smoke can be very useful for slipping by a sniper."
+"Cstrike_Tutor_Hint_40"		"La radio te permite dar órdenes a tu equipo como
+'Sígueme', 'Mantened posiciones' o 'Necesito ayuda'.
+
+Para enviar órdenes por radio, usa las teclas de Radio."
+"[english]Cstrike_Tutor_Hint_40"		"Your radio allows you to give commands to your teammates
+such as 'Follow me', 'Hold this position', or 'Need backup'.
+
+To send a radio command, use the Radio keys
+(default Z, X, and C) and select what you want to say."
+"Cstrike_map_militia"		"mapa cs_militia"
+"[english]Cstrike_map_militia"		"map cs_militia"
+"Cstrike_Militia_Name"		"MILICIA MIDWEST"
+"[english]Cstrike_Militia_Name"		"MIDWEST MILITIA"
+"Cstrike_Bot_Chatter"		"Charla Bot"
+"[english]Cstrike_Bot_Chatter"		"Bot Radio Chatter"
+"Cstrike_Bot_chatter_Off"		"Desactivado"
+"[english]Cstrike_Bot_chatter_Off"		"Off"
+"Cstrike_Bot_chatter_Minimal"		"Mínimo"
+"[english]Cstrike_Bot_chatter_Minimal"		"Minimal"
+"Cstrike_Already_Own_Weapon"		"Ya tienes ese arma."
+"[english]Cstrike_Already_Own_Weapon"		"You already own that weapon."
+"Cstrike_Not_Available"		"Esta selección no está disponible para compra en este mapa."
+"[english]Cstrike_Not_Available"		"This selection is not available for purchase on this map."
+"Cstrike_HELP"		"AYUDA"
+"[english]Cstrike_HELP"		"HELP"
+"Cstrike_Map_Desc"		"Descripción del mapa"
+"[english]Cstrike_Map_Desc"		"Map Description"
+"Cstrike_Adjust_Crosshair"		"Ajusta Crosshair"
+"[english]Cstrike_Adjust_Crosshair"		"Adjust Crosshair"
+"Cstrike_Use_Right_Hand"		"Usa la mano derecha"
+"[english]Cstrike_Use_Right_Hand"		"Use Right Hand"
+"Cstrike_Map_Siege"		"mapa cs_asedio"
+"[english]Cstrike_Map_Siege"		"map cs_siege"
+"Cstrike_rush_hostage_room"		"'¡Asaltad la sala de rehenes!'"
+"[english]Cstrike_rush_hostage_room"		"'Rush hostage room!'"
+"Cstrike_rush_enclosed"		"'¡Asaltad el enclave cerrado de la bomba!'"
+"[english]Cstrike_rush_enclosed"		"'Rush enclosed bomb site!'"
+"Cstrike_flank_them"		"'¡Flanqueadlos!'"
+"[english]Cstrike_flank_them"		"'Flank them!'"
+"Cstrike_lend_me_blaster"		"'¡Déjame tu blaster!'"
+"[english]Cstrike_lend_me_blaster"		"'Lend me your blaster!'"
+"Cstrike_rush_lower_level"		"'¡Asaltad el nivel inferior!'"
+"[english]Cstrike_rush_lower_level"		"'Rush the lower level!'"
+"Cstrike_aztec"		"mapa de_aztec"
+"[english]Cstrike_aztec"		"map de_aztec"
+"Cstrike_take_bridge"		"'¡Tomad el puente!'"
+"[english]Cstrike_take_bridge"		"'Take the bridge!'"
+"Cstrike_backalley"		"mapa cs_callejóndeatrás"
+"[english]Cstrike_backalley"		"map cs_backalley"
+"Cstrike_go_you_blaster"		"'¡Dispara tu blaster!'"
+"[english]Cstrike_go_you_blaster"		"'Go you blaster!'"
+"Cstrike_taking_heavy_fire"		"'¡Recibiendo fuertes explosiones!'"
+"[english]Cstrike_taking_heavy_fire"		"'Taking heavy blaster fire!'"
+"Cstrike_747"		"mapa cs_747"
+"[english]Cstrike_747"		"map cs_747"
+"Cstrike_rush_the_plane"		"'Asaltad el avión'"
+"[english]Cstrike_rush_the_plane"		"'Rush the plane'"
+"Cstrike_meet_in_terminal"		"'Encuentro en terminal'"
+"[english]Cstrike_meet_in_terminal"		"'Meet in terminal'"
+"Cstrike_oilrig"		"mapa as_petrolífera"
+"[english]Cstrike_oilrig"		"map as_oilrig"
+"Cstrike_rush_to_chopper"		"'¡Corred al helicóptero!'"
+"[english]Cstrike_rush_to_chopper"		"'Rush to chopper!'"
+"Cstrike_to_the_elevator"		"'Al ascensor'"
+"[english]Cstrike_to_the_elevator"		"'To the elevator'"
+"Cstrike_nuke"		"mapa de_nuke"
+"[english]Cstrike_nuke"		"map de_nuke"
+"Cstrike_go_to_main_hall"		"'Id al vestíbulo principal'"
+"[english]Cstrike_go_to_main_hall"		"'Go To Main hall'"
+"Cstrike_go_to_basement"		"'Id al sótano'"
+"[english]Cstrike_go_to_basement"		"'Go To the Basement'"
+"Cstrike_flank_yard"		"'Flanquea el patio'"
+"[english]Cstrike_flank_yard"		"'Flank Yard'"
+"Cstrike_flank_comm_room"		"'Flanquead la sala de reunión'"
+"[english]Cstrike_flank_comm_room"		"'Flank Comm-room'"
+"Cstrike_at_entrance_hall"		"'Al Vestíbulo de entrada'"
+"[english]Cstrike_at_entrance_hall"		"'At the Entrance hall'"
+"Cstrike_heading_central_hall"		"'En dirección al vestíbulo central'"
+"[english]Cstrike_heading_central_hall"		"'Heading Central Hallway'"
+"Cstrike_heading_underpass"		"'En dirección al paso subterráneo'"
+"[english]Cstrike_heading_underpass"		"'Heading to Underpass'"
+"Cstrike_sniper_in_tower"		"'Francotirador en la torre'"
+"[english]Cstrike_sniper_in_tower"		"'Sniper in Tower'"
+"Cstrike_bomb_target_secure"		"'Zonas blanco de bomba seguras'"
+"[english]Cstrike_bomb_target_secure"		"'Bomb target areas secure'"
+"Cstrike_guard_start_area"		"'Área de comienzo de guardia'"
+"[english]Cstrike_guard_start_area"		"'Guard start area'"
+"Cstrike_dust"		"mapa de_dust"
+"[english]Cstrike_dust"		"map de_dust"
+"Cstrike_heading_to_hallway"		"'En dirección al Vestíbulo'"
+"[english]Cstrike_heading_to_hallway"		"'Heading to Hallway'"
+"Cstrike_bomb_a_secure"		"'Bomba A segura'"
+"[english]Cstrike_bomb_a_secure"		"'Bomb A secure'"
+"Cstrike_bomb_b_secure"		"'Bomba B segura'"
+"[english]Cstrike_bomb_b_secure"		"'Bomb B secure'"
+"Cstrike_sniper_at_underpass"		"'Francotirador en paso subterráneo'"
+"[english]Cstrike_sniper_at_underpass"		"'Sniper at Underpass'"
+"Cstrike_heading_to_tunnel"		"'En dirección al túnel'"
+"[english]Cstrike_heading_to_tunnel"		"'Heading to tunnel'"
+"Cstrike_italy"		"mapa cs_italy"
+"[english]Cstrike_italy"		"map cs_italy"
+"Cstrike_meet_at_market"		"'Encuentro en el Mercado'"
+"[english]Cstrike_meet_at_market"		"'Meet at Market'"
+"Cstrike_rush_the_house"		"'Asaltad la casa'"
+"[english]Cstrike_rush_the_house"		"'Rush the House'"
+"Cstrike_head_to_wine_cellar"		"'A la bodega'"
+"[english]Cstrike_head_to_wine_cellar"		"'Head to Wine Cellar'"
+"Cstrike_rush_long_passage"		"'Atacad el pasaje largo'"
+"[english]Cstrike_rush_long_passage"		"'Rush Long Passage'"
+"Cstrike_hostages_rescued"		"'Los rehenes están siendo rescatados'"
+"[english]Cstrike_hostages_rescued"		"'Hostages being rescued'"
+"Cstrike_estate"		"mapa cs_estado"
+"[english]Cstrike_estate"		"map cs_estate"
+"Cstrike_go_to_sewer"		"'A las alcantarillas'"
+"[english]Cstrike_go_to_sewer"		"'Go to sewer'"
+"Cstrike_enemy_on_first_story"		"'Enemigo en la planta baja'"
+"[english]Cstrike_enemy_on_first_story"		"'Enemy on first story'"
+"Cstrike_enemy_in_back"		"'Enemigo por la espalda'"
+"[english]Cstrike_enemy_in_back"		"'Enemy in back'"
+"Cstrike_Tutor_You_Killed_Player_Headshot_One_left"		"Has matado a un enemigo con
+un disparo en la cabeza.
+
+Queda un enemigo."
+"[english]Cstrike_Tutor_You_Killed_Player_Headshot_One_left"		"You have killed an enemy
+with a headshot.
+
+There is one enemy left.
+
+Recent enemies killed:
+%s1"
+"Cstrike_Tutor_You_Killed_Last_Enemy_Headshot"		"¡Has matado al último enemigo con un disparo
+en la cabeza!
+
+Enemigos eliminados recientemente:
+%s1"
+"[english]Cstrike_Tutor_You_Killed_Last_Enemy_Headshot"		"You killed the last enemy with a headshot!
+
+Recent enemies killed:
+%s1"
+"Cstrike_Tutor_You_Used_Hostage_No_More_Left"		"Este rehén no te seguirá.
+
+Conduce a los rehenes al 
+Punto de Rescate de Rehenes más cercano."
+"[english]Cstrike_Tutor_You_Used_Hostage_No_More_Left"		"This Hostage will now follow you.
+
+Lead the Hostages to the
+nearest Hostage Rescue Point."
+"Cstrike_Tutor_All_Hostages_Following"		"Se está escoltando a todos los rehenes.
+Ayuda a escoltarlos al área de rescate."
+"[english]Cstrike_Tutor_All_Hostages_Following"		"All Hostages are being escorted.
+Help escort them to the rescue zone."
+"Cstrike_Tutor_Hostage_Rescued_CT"		"¡Se ha rescatado a un rehén!
+
+¡Rescata a todos para ganar la ronda!"
+"[english]Cstrike_Tutor_Hostage_Rescued_CT"		"A Hostage has been rescued!
+
+Rescue them all to win the round!"
+"Cstrike_Tutor_T_Win"		"¡Los Terroristas han
+ganado esta ronda!"
+"[english]Cstrike_Tutor_T_Win"		"The Terrorists have
+won this round!"
+"Cstrike_TutorState_Looking_For_Hostage_Escort"		"Encuentra al escolta de rehenes"
+"[english]Cstrike_TutorState_Looking_For_Hostage_Escort"		"Find the Hostage Escort"
+"Cstrike_TutorState_Running_Away_From_Ticking_Bomb"		"Escapa de la bomba"
+"[english]Cstrike_TutorState_Running_Away_From_Ticking_Bomb"		"Escape the Bomb"
+"Cstrike_TutorState_Buy_Time"		"Compra Armas y Equipamiento"
+"[english]Cstrike_TutorState_Buy_Time"		"Buy Weapons and Equipment"
+"Cstrike_Tutor_Hint_2"		"Saltar ralentiza tu movimiento
+y disminuye tu precisión."
+"[english]Cstrike_Tutor_Hint_2"		"Jumping slows your movement
+and decreases your accuracy."
+"Cstrike_Tutor_Hint_3"		"Se pueden romper muchos objetos, 
+como ventanas, tableros y cajas."
+"[english]Cstrike_Tutor_Hint_3"		"Many objects in the world can be
+broken, including some windows,
+boards, and boxes."
+"Cstrike_Tutor_Hint_4"		"Trabajar en equipo te hace ser mucho
+más efectivo que en solitario."
+"[english]Cstrike_Tutor_Hint_4"		"Working with your teammates makes
+you much more effective than going it alone."
+"Cstrike_Tutor_Hint_5"		"Para obtener una vista general del estado 
+actual del juego, mantén pulsado el tabulador."
+"[english]Cstrike_Tutor_Hint_5"		"To get an overview of the current state
+of the game, hold down the TAB key."
+"Cstrike_Spetsnaz"		"&5 SPETSNAZ"
+"[english]Cstrike_Spetsnaz"		"&5 SPETSNAZ"
+"Cstrike_Bot_Defer"		"Bots cumplen los objetivos"
+"[english]Cstrike_Bot_Defer"		"Bots defer goals to humans"
+"Cstrike_Time_Left"		"Tiempo restante"
+"[english]Cstrike_Time_Left"		"Time Left"
+"Cstrike_CHANGE_TEAM"		"CAMBIAR DE EQUIPO"
+"[english]Cstrike_CHANGE_TEAM"		"CHANGE TEAM"
+"Cstrike_TEAM_MESSAGE"		"MENSAJE DE EQUIPO"
+"[english]Cstrike_TEAM_MESSAGE"		"TEAM MESSAGE"
+"Cstrike_take_underground"		"'Tomad la zona subterránea'"
+"[english]Cstrike_take_underground"		"'Take the underground'"
+"Cstrike_enemy_garage"		"'Enemigo en el aparcamiento'"
+"[english]Cstrike_enemy_garage"		"Enemy in parking garage'"
+"Cstrike_snipers_watch_out"		"'¡Cuidado! ¡Francotiradores!'"
+"[english]Cstrike_snipers_watch_out"		"'Snipers! Watch out!'"
+"Cstrike_take_upper_route"		"'Tomad la ruta superior'"
+"[english]Cstrike_take_upper_route"		"'Take the upper route'"
+"Cstrike_train"		"mapa de_tren"
+"[english]Cstrike_train"		"map de_train"
+"Career_EasyMedal"		"Medalla de Buena Conducta"
+"[english]Career_EasyMedal"		"Good Conduct Medal"
+"Career_Weapon_mac10"		"con una Ingram MAC-10"
+"[english]Career_Weapon_mac10"		"with an Ingram MAC-10"
+"Career_Weapon_aug"		"con un Bullpup"
+"[english]Career_Weapon_aug"		"with a Bullpup"
+"Career_Weapon_ump45"		"con una K&M UMP45"
+"[english]Career_Weapon_ump45"		"with a K&M UMP45"
+"Career_Weapon_sg550"		"con una Krieg 550 Commando"
+"[english]Career_Weapon_sg550"		"with a Krieg 550 Commando"
+"Career_Weapon_galil"		"con un IDF Defender"
+"[english]Career_Weapon_galil"		"with an IDF Defender"
+"Career_Weapon_famas"		"con un Clarion 5.56"
+"[english]Career_Weapon_famas"		"with a Clarion 5.56"
+"Career_Weapon_awp"		"con un rifle de francotirador Magnum"
+"[english]Career_Weapon_awp"		"with a Magnum Sniper Rifle"
+"Career_Weapon_mp5"		"con una metralleta K&M"
+"[english]Career_Weapon_mp5"		"with a K&M Submachine Gun"
+"Career_Weapon_m249"		"con una M249"
+"[english]Career_Weapon_m249"		"with an M249"
+"Career_Weapon_m3"		"con una Leone 12 guage Super"
+"[english]Career_Weapon_m3"		"with a Leone 12 guage Super"
+"Career_Weapon_m4a1"		"con un Maverick M4A1 Carbine"
+"[english]Career_Weapon_m4a1"		"with a Maverick M4A1 Carbine"
+"Career_Weapon_tmp"		"con una ametralladora Schmidt"
+"[english]Career_Weapon_tmp"		"with a Schmidt Machine Pistol"
+"Career_Weapon_sg552"		"con un Krieg 552"
+"[english]Career_Weapon_sg552"		"with a Krieg 552"
+"Career_Weapon_ak47"		"con un CV-47"
+"[english]Career_Weapon_ak47"		"with a CV-47"
+"Career_Weapon_p90"		"con una ES C90"
+"[english]Career_Weapon_p90"		"with an ES C90"
+"Career_Weapon_shield"		"con un Escudo Táctico"
+"[english]Career_Weapon_shield"		"with a Tactical Shield"
+"Career_Weapon_knife"		"con un Cuchillo"
+"[english]Career_Weapon_knife"		"with a Knife"
+"Career_Weapon_grenade"		"con una Granada altamente explosiva"
+"[english]Career_Weapon_grenade"		"with an HE Grenade"
+"Career_Weapon_g3sg1"		"con un D3/AU-1"
+"[english]Career_Weapon_g3sg1"		"with a D3/AU-1"
+"Career_Weapon_usp"		"con un K&K .45 Tactical"
+"[english]Career_Weapon_usp"		"with a K&K .45 Tactical"
+"Career_Weapon_glock"		"con una 9x19MM"
+"[english]Career_Weapon_glock"		"with a 9x19MM"
+"Career_Weapon_deagle"		"con una Night Hawk .50C"
+"[english]Career_Weapon_deagle"		"with a Night Hawk .50C"
+"Career_Weapon_p228"		"con una 228 Compact"
+"[english]Career_Weapon_p228"		"with a 228 Compact"
+"Career_Weapon_elite"		"con .40 dual elites"
+"[english]Career_Weapon_elite"		"with .40 dual elites"
+"Career_Weapon_fiveseven"		"con una ES 5-7"
+"[english]Career_Weapon_fiveseven"		"with an ES five-seven"
+"Career_Weapon_any"		"con cualquier arma"
+"[english]Career_Weapon_any"		"with any weapon"
+"Career_Weapon_pistol"		"con una pistola"
+"[english]Career_Weapon_pistol"		"with a Pistol"
+"Career_Weapon_SMG"		"con una metralleta"
+"[english]Career_Weapon_SMG"		"with a Submachinegun"
+"Career_Weapon_machinegun"		"con una ametralladora"
+"[english]Career_Weapon_machinegun"		"with a Machinegun"
+"Career_Weapon_shotgun"		"con una escopeta"
+"[english]Career_Weapon_shotgun"		"with a Shotgun"
+"Career_Weapon_rifle"		"con un rifle"
+"[english]Career_Weapon_rifle"		"with a Rifle"
+"Career_Weapon_sniper"		"con un rifle de francotirador"
+"[english]Career_Weapon_sniper"		"with a Sniper Rifle"
+"Cstrike_Tutor_You_Have_Been_Shot_At"		"¡Cuidado!
+¡Alguien te está disparando!"
+"[english]Cstrike_Tutor_You_Have_Been_Shot_At"		"Watch out!
+Someone is shooting at you!"
+"Cstrike_Tutor_You_Attacked_Teammate"		"¡Has herido a un amigo!"
+"[english]Cstrike_Tutor_You_Attacked_Teammate"		"You have injured a friend!"
+"Cstrike_Tutor_You_Died_World"		"¡Te has matado! Ten cuidado en precipicios y cornisas.
+"
+"[english]Cstrike_Tutor_You_Died_World"		"You have fallen to your death! Be careful near cliffs and ledges!"
+"Cstrike_Tutor_Buy_Time_Begin"		"Ha comenzado una nueva ronda.
+
+Para comprar armas y equipamiento,abre el Menú Comprar (B por defecto).
+Si quieres que se compre equipamiento para ti, pulsa AutoBuy (F1 por defecto)."
+"[english]Cstrike_Tutor_Buy_Time_Begin"		"A new round has begun.
+
+To buy weapons and equipment, open the Buy Menu (default B).
+To have equipment purchased for you, press the AutoBuy key (default F1)"
+"Cstrike_Tutor_Teammate_Killed"		"¡Ha muerto un miembro de tu equipo!
+
+Quedan %s1 compañeros en tu equipo."
+"[english]Cstrike_Tutor_Teammate_Killed"		"A teammate has died!
+
+You have %s1 teammates left.
+
+Recent teammates killed:
+%s2"
+"Cstrike_Tutor_Teammate_Killed_One_left"		"¡Ha muerto un miembro de tu equipo!
+
+¡Sólo te queda un compañero!"
+"[english]Cstrike_Tutor_Teammate_Killed_One_left"		"A teammate has died!
+
+You have one teammate left!
+
+Recent teammates killed:
+%s1"
+"Cstrike_Tutor_Last_Teammate_Killed"		"¡Tu último compañero ha muerto!
+
+Ahora estás solo."
+"[english]Cstrike_Tutor_Last_Teammate_Killed"		"Your last teammate has died!
+
+You are on your own now...
+
+Recent teammates killed:
+%s1"
+"Cstrike_Tutor_Enemy_Killed"		"Ha muerto un enemigo.
+
+Quedan %s1 enemigos."
+"[english]Cstrike_Tutor_Enemy_Killed"		"An enemy has been killed.
+
+There are %s1 enemies remaining.
+
+Recent enemies killed:
+%s2"
+"Cstrike_Tutor_Enemy_Killed_One_Left"		"Ha muerto un enemigo.
+
+Sólo queda un enemigo."
+"[english]Cstrike_Tutor_Enemy_Killed_One_Left"		"An enemy has been killed.
+
+There is one enemy left.
+
+Recent enemies killed:
+%s1"
+"Cstrike_Tutor_Last_Enemy_Killed"		"¡Ha muerto el último enemigo!
+
+Enemigos eliminados recientemente:
+%s1"
+"[english]Cstrike_Tutor_Last_Enemy_Killed"		"The last enemy has been killed!
+
+Recent enemies killed:
+%s1"
+"Cstrike_Tutor_You_Spawned"		"¡Bienvenido a Counter-Strike!"
+"[english]Cstrike_Tutor_You_Spawned"		"Welcome to Counter-strike!"
+"Cstrike_Tutor_You_See_Loose_Weapon"		"Esto es un arma abandonada.
+
+Para cogerla, tira tu arma y luego 
+camina sobre ella."
+"[english]Cstrike_Tutor_You_See_Loose_Weapon"		"This is a dropped weapon.
+
+To pick it up, first drop your
+weapon and walk over it.
+(default G)"
+"Cstrike_Tutor_You_See_Loose_Defuser"		"Esto es un kit de 
+desactivación abandonado.
+"
+"[english]Cstrike_Tutor_You_See_Loose_Defuser"		"This is a dropped
+Bomb Defuse Kit."
+"Cstrike_Tutor_You_See_Loose_Bomb_T"		"Han tirado aquí la bomba.
+
+¡Acércate a cogerla, ve al enclave 
+y colócala allí!"
+"[english]Cstrike_Tutor_You_See_Loose_Bomb_T"		"The Bomb has been dropped here.
+
+Move over it to pick it up,
+then go to a Bomb Site and plant it!"
+"Cstrike_Tutor_You_See_Loose_Bomb_CT"		"Han tirado aquí la bomba.
+
+¡Protégela e impide que los Terroristas la 
+recuperen!"
+"[english]Cstrike_Tutor_You_See_Loose_Bomb_CT"		"The Bomb has been dropped here.
+
+Defend it and prevent the
+Terrorists from recovering it!"
+"Cstrike_Tutor_You_See_Bomb_Carrier_T"		"Este compañero lleva la bomba.
+
+Protégele para que pueda
+colocarla en el enclave."
+"[english]Cstrike_Tutor_You_See_Bomb_Carrier_T"		"This teammate is carrying the Bomb.
+
+Protect him so he can
+plant it at a Bomb Site."
+"Cstrike_Tutor_You_See_Bomb_Carrier_CT"		"¡Este Terrorista lleva la bomba!
+
+¡Atácalo!"
+"[english]Cstrike_Tutor_You_See_Bomb_Carrier_CT"		"This Terrorist is carrying the Bomb!
+
+Attack him!"
+"Cstrike_Tutor_You_See_Planted_Bomb_T"		"Esta bomba ha sido colocada 
+y pronto detonará.
+
+¡Defiende la zona y evita que los 
+Antiterroristas la desactiven!"
+"[english]Cstrike_Tutor_You_See_Planted_Bomb_T"		"This Bomb has been planted
+and will detonate soon.
+
+Defend the area to prevent the
+Counter-Terrorists from defusing it!"
+"Cstrike_Tutor_You_See_Planted_Bomb_CT"		"¡Esta bomba ha sido colocada y 
+pronto detonará!
+
+¡Acércate y pulsa el botón Usar para desactivarla!"
+"[english]Cstrike_Tutor_You_See_Planted_Bomb_CT"		"This Bomb has been planted
+and will detonate soon!
+
+Move close to it and hold the Use key to defuse it!
+(default E)"
+"Cstrike_Tutor_Bomb_Planted_T"		"¡La bomba ha sido colocada!
+
+¡Asegúrate de que los Antiterroristas no
+la desactivan!"
+"[english]Cstrike_Tutor_Bomb_Planted_T"		"The Bomb has been planted!
+
+Make sure the Counter-Terrorists
+don't defuse it!"
+"Cstrike_Tutor_Bomb_Planted_CT"		"¡La bomba ha sido colocada!
+
+¡Busca los enclaves de bomba y desactívala
+antes de que explote!"
+"[english]Cstrike_Tutor_Bomb_Planted_CT"		"The Bomb has been planted!
+
+Search the Bomb Sites and
+defuse it before it explodes!"
+"Cstrike_Tutor_You_Are_Bomb_Carrier"		"Tú llevas la bomba.
+¡Llévala a un enclave y colócala!"
+"[english]Cstrike_Tutor_You_Are_Bomb_Carrier"		"You are carrying the Bomb.
+Take it to a Bomb Site and plant it!"
+"Cstrike_Tutor_Defuse_Without_Kit"		"Si compras un kit de desactivación podrás
+desactivar bombas mucho más rápido..."
+"[english]Cstrike_Tutor_Defuse_Without_Kit"		"Buying a defuse kit allows you to
+defuse Bombs much more quickly..."
+"Cstrike_Tutor_Time_Running_Out_DE_T"		"¡El tiempo casi ha acabado!
+
+¡Asegúrate de que la bomba detona!"
+"[english]Cstrike_Tutor_Time_Running_Out_DE_T"		"Time is about to run out!
+
+Make sure the Bomb is detonated!"
+"Cstrike_Tutor_Time_Running_Out_DE_CT"		"¡El tiempo casi ha acabado!
+
+¡Contén a los Terroristas y ganarás!"
+"[english]Cstrike_Tutor_Time_Running_Out_DE_CT"		"Time is about to run out!
+
+Hold off the Terrorists and you will win!"
+"Cstrike_Tutor_Bomb_Defused_T"		"¡Los Antiterroristas han desactivado la bomba!
+Has perdido la ronda."
+"[english]Cstrike_Tutor_Bomb_Defused_T"		"The Counter-Terrorists have defused the Bomb!
+You have lost this round."
+"Cstrike_Tutor_Bomb_Defused_CT"		"¡Se ha desactivado la bomba!
+Tu equipo gana la ronda.
+"
+"[english]Cstrike_Tutor_Bomb_Defused_CT"		"The Bomb has been defused!
+Your team wins this round."
+"Cstrike_Tutor_You_Defused_Bomb"		"¡Has desactivado la bomba y
+ganado la ronda para tu equipo!"
+"[english]Cstrike_Tutor_You_Defused_Bomb"		"You defused the Bomb and won the round for your team!"
+"Cstrike_Tutor_Bomb_Exploded_T"		"La bomba ha explotado.
+Tu equipo gana la ronda."
+"[english]Cstrike_Tutor_Bomb_Exploded_T"		"The bomb has exploded.
+Your team wins this round."
+"Cstrike_Tutor_Bomb_Exploded_CT"		"La bomba ha explotado.
+Los Terroristas ganan la ronda."
+"[english]Cstrike_Tutor_Bomb_Exploded_CT"		"The bomb has exploded.
+The Terrorists win this round."
+"Cstrike_Tutor_Round_Start_DE_T"		"Ha comenzado la ronda.
+
+¡Asegúrate de que la bomba se
+detona en un enclave de bomba!"
+"[english]Cstrike_Tutor_Round_Start_DE_T"		"The round has begun.
+
+Make sure the Bomb
+is detonated at a Bomb Site!"
+"Cstrike_Tutor_Round_Start_DE_CT"		"Ha comenzado la ronda.
+
+¡Impide que los Terroristas detonen su bomba!"
+"[english]Cstrike_Tutor_Round_Start_DE_CT"		"The round has begun.
+
+Prevent the Terrorists
+from detonating their Bomb!"
+"Cstrike_Tutor_You_See_Hostage_T"		"Éste es un rehén.
+
+Impide que los Antiterroristas lo rescaten."
+"[english]Cstrike_Tutor_You_See_Hostage_T"		"This is a Hostage.
+
+Prevent the Counter-Terrorists
+from rescuing him."
+"Cstrike_Tutor_You_See_Hostage_CT"		"Éste es un rehén.
+
+Dile que siga pulsando la tecla Usar cuando
+estés cerca de él."
+"[english]Cstrike_Tutor_You_See_Hostage_CT"		"This is a Hostage.
+
+Tell him to follow you by pressing the Use key
+when you are close to him.
+(default E)"
+"Cstrike_Tutor_You_See_Bombsite_T"		"Esto es un enclave de bomba.
+
+Puedes colocar la bomba aquí."
+"[english]Cstrike_Tutor_You_See_Bombsite_T"		"This is a Bomb Site.
+
+The Bomb can be planted here."
+"Cstrike_Tutor_You_See_Bombsite_T_Bomb"		"Esto es un enclave de bomba.
+
+Coloca la bomba seleccionándola (5 por defecto)
+y manteniendo pulsado el botón de Disparo."
+"[english]Cstrike_Tutor_You_See_Bombsite_T_Bomb"		"This is a Bomb Site.
+
+Plant the Bomb there by selecting it (default 5)
+and holding your Fire Button.
+(default is left mouse button)"
+"Cstrike_Tutor_You_See_Bombsite_CT"		"Estás en un enclave de bomba.
+
+Puedes colocar la bomba aquí."
+"[english]Cstrike_Tutor_You_See_Bombsite_CT"		"This is a Bomb Site.
+
+The Bomb can be planted here."
+"Cstrike_Tutor_Hostage_Rescued_T"		"¡Los Antiterroristas han 
+rescatado a un rehén!
+
+Intenta que no rescaten a ninguno más."
+"[english]Cstrike_Tutor_Hostage_Rescued_T"		"The Counter-Terrorits
+have rescued a Hostage!
+
+Try to prevent them from rescuing any more."
+"Cstrike_Tutor_You_Rescued_Hostage"		"¡Has rescatado a un rehén y recibido
+una recompensa en metálico!
+
+¡Rescata a todos y gana la ronda!"
+"[english]Cstrike_Tutor_You_Rescued_Hostage"		"You have rescued a Hostage
+and received a cash bonus!
+
+Rescue them all to win the round!"
+"Cstrike_Tutor_All_Hostages_Rescued_T"		"¡Los Antiterroristas han rescatado
+a todos tus rehenes!
+
+Has perdido la ronda."
+"[english]Cstrike_Tutor_All_Hostages_Rescued_T"		"The Counter-Terrorists
+have rescued all of your Hostages!
+
+You have lost this round."
+"Cstrike_Tutor_All_Hostages_Rescued_CT"		"¡Felicidades!
+¡Los rehenes han sido rescatados!
+
+Has ganado la ronda."
+"[english]Cstrike_Tutor_All_Hostages_Rescued_CT"		"Congratulations!
+The Hostages have been rescued!
+
+You have won this round."
+"Cstrike_Tutor_You_Damaged_Hostage"		"Has herido a un rehén.
+
+¡Cuidado! ¡Matar rehenes te hace perder dinero!"
+"[english]Cstrike_Tutor_You_Damaged_Hostage"		"You have injured a Hostage.
+
+Beware! Killing Hostages will cost you!"
+"Cstrike_Tutor_You_Killed_Hostage"		"¡Has matado a un rehén!
+
+Has perdido dinero 
+como castigo."
+"[english]Cstrike_Tutor_You_Killed_Hostage"		"You killed a Hostage!
+
+You have lost money
+as punishment."
+"Cstrike_Tutor_All_Hostages_Dead"		"¡Han asesinado a todos los rehenes!
+
+¡Elimina a los Terroristas para ganar la ronda!"
+"[english]Cstrike_Tutor_All_Hostages_Dead"		"All of the Hostages have been slain!
+
+Eliminate the Terrorists to win the round!"
+"Cstrike_Tutor_Time_Running_Out_CS_T"		"¡El tiempo casi ha acabado!
+
+¡Mantén a raya a los Antiterroristas un poco
+más y habrás ganado!"
+"[english]Cstrike_Tutor_Time_Running_Out_CS_T"		"Time is about to run out!
+
+Hold off the Counter-Terrorists
+a bit longer and you will win!"
+"Cstrike_Tutor_Time_Running_Out_CS_CT"		"¡El tiempo casi ha acabado!
+
+¡Rescata a los rehenes!"
+"[english]Cstrike_Tutor_Time_Running_Out_CS_CT"		"Time is about to run out!
+
+Rescue the Hostages!"
+"Cstrike_Tutor_Round_Start_CS_T"		"Ha comenzado la ronda.
+
+¡Impide que los Antiterroristas 
+rescaten a los rehenes!"
+"[english]Cstrike_Tutor_Round_Start_CS_T"		"The round has begun.
+
+Prevent the Counter-Terrorists
+from rescuing your Hostages!"
+"Cstrike_Tutor_Round_Start_CS_CT"		"Ha comenzado la ronda.
+
+¡Encuentra a los rehenes y escóltalos 
+hasta el punto de rescate de rehenes!"
+"[english]Cstrike_Tutor_Round_Start_CS_CT"		"The round has begun.
+
+Find the Hostages and escort them
+to a Hostage Rescue Point!"
+"Cstrike_Tutor_Round_Over"		"Ha finalizado la ronda."
+"[english]Cstrike_Tutor_Round_Over"		"This round is over."
+"Cstrike_Tutor_Round_Draw"		"La ronda ha acabado en empate."
+"[english]Cstrike_Tutor_Round_Draw"		"This round has ended in a tie."
+"Cstrike_Tutor_Death_Camera_Start"		"Ahora estás en modo espectador.
+
+Tienes que esperar al final de la ronda para volver a jugar.
+Para cambiar de perspectiva, pulsa la tecla de Salto
+(barra espaciadora por defecto)."
+"[english]Cstrike_Tutor_Death_Camera_Start"		"You are now an observer.
+
+You must wait for the round to end to play again.
+To change view modes, press the Jump key (default spacebar).
+To select different players to observe, press Fire and Secondary Fire.
+(default is left and right mouse buttons)"
+"Cstrike_Tutor_Buy_Need_Primary"		"Necesitas comprar un arma"
+"[english]Cstrike_Tutor_Buy_Need_Primary"		"You should buy a weapon"
+"Cstrike_Tutor_Buy_Need_Primary_Ammo"		"Necesitas comprar munición
+para tu arma"
+"[english]Cstrike_Tutor_Buy_Need_Primary_Ammo"		"You should buy ammo
+for your weapon"
+"Cstrike_Tutor_Buy_Need_Secondary_Ammo"		"Necesitas comprar munición 
+para tu pistola"
+"[english]Cstrike_Tutor_Buy_Need_Secondary_Ammo"		"You should buy ammo
+for your Pistol"
+"Cstrike_Tutor_Buy_Need_Armor"		"Necesitas comprar Klevar y un casco"
+"[english]Cstrike_Tutor_Buy_Need_Armor"		"You should buy Kevlar and a Helmet"
+"Cstrike_Tutor_Buy_Defuse_Kit"		"Necesitas comprar un kit de 
+desactivación"
+"[english]Cstrike_Tutor_Buy_Defuse_Kit"		"You should buy a
+Defusal Kit"
+"Cstrike_Tutor_Buy_Grenades"		"¡Necesitas comprar algunas granadas"
+"[english]Cstrike_Tutor_Buy_Grenades"		"You should buy some
+Grenades"
+"Cstrike_TutorState_Looking_For_Hostage"		"Encuentra a los rehenes"
+"[english]Cstrike_TutorState_Looking_For_Hostage"		"Find the Hostages"
+"Cstrike_TutorState_Escorting_Hostage"		"Escolta a los rehenes al punto de rescate"
+"[english]Cstrike_TutorState_Escorting_Hostage"		"Escort the Hostages to a Rescue Point"
+"Cstrike_TutorState_Moving_To_Bombsite"		"Defiende un enclave de bomba"
+"[english]Cstrike_TutorState_Moving_To_Bombsite"		"Defend a Bomb Site"
+"Cstrike_TutorState_Guarding_Loose_Bomb"		"Vigila la bomba colocada"
+"[english]Cstrike_TutorState_Guarding_Loose_Bomb"		"Guard the Dropped Bomb"
+"Cstrike_TutorState_Defusing_Bomb"		"Desactiva la bomba"
+"[english]Cstrike_TutorState_Defusing_Bomb"		"Defuse the Bomb"
+"Cstrike_TutorState_Guarding_Hostage"		"Vigila a los rehenes"
+"[english]Cstrike_TutorState_Guarding_Hostage"		"Guard the Hostages"
+"Cstrike_TutorState_Attacking_Hostage_Escort"		"Ataca al escolta de los rehenes"
+"[english]Cstrike_TutorState_Attacking_Hostage_Escort"		"Attack the Hostage Escort"
+"Cstrike_TutorState_Escorting_Bomb_Carrier"		"Escolta al portador de la bomba"
+"[english]Cstrike_TutorState_Escorting_Bomb_Carrier"		"Escort the Bomb Carrier"
+"Cstrike_TutorState_Moving_To_Bomb_Site"		"Asegura el enclave de bomba"
+"[english]Cstrike_TutorState_Moving_To_Bomb_Site"		"Secure the Bomb Site"
+"Cstrike_TutorState_Planting_Bomb"		"Coloca la bomba"
+"[english]Cstrike_TutorState_Planting_Bomb"		"Plant the Bomb"
+"Cstrike_TutorState_Guarding_Bomb"		"Vigila la bomba"
+"[english]Cstrike_TutorState_Guarding_Bomb"		"Guard the Bomb"
+"Cstrike_TutorState_Waiting_For_Start"		"Esperando al inicio de ronda..."
+"[english]Cstrike_TutorState_Waiting_For_Start"		"Waiting for Round To Begin..."
+"Cstrike_Tutor_Current_Location"		"Emplazamiento actual: %s1"
+"[english]Cstrike_Tutor_Current_Location"		"Current Location: %s1"
+"Cstrike_Tutor_Hint_10"		"Tu arma no es perfecta, pues retrocede al disparar.
+Para tener más precisión, realiza disparos cortos 
+y ve parando para recuperarte."
+"[english]Cstrike_Tutor_Hint_10"		"Your weapon is not perfect - it recoils when you fire.
+To fire more accurately use short bursts of gunfire,
+pausing a moment to allow yourself to recover."
+"Cstrike_Tutor_Hint_50"		"El círculo verde en la esquina superior izda es tu radar.
+
+Te muestra las posiciones de tus amigos vivos en 
+relación a tu posición actual y a la dirección a la que miras."
+"[english]Cstrike_Tutor_Hint_50"		"The green circle in the upper left corner is your radar.
+
+It shows the positions of all of your surviving friends
+relative to your current position and direction you are looking.
+
+If a blip is at twelve o'clock, that friend is somewhere in front of you.
+Likewise, a blip at six o'clock is a friend behind you."
+"Cstrike_Tutor_Hint_51"		"Un símbolo en forma de T en tu radar representa
+un amigo en algún lugar por encima de ti.
+
+Una T invertida representa un amigo por debajo de ti. "
+"[english]Cstrike_Tutor_Hint_51"		"On your radar, a blip shaped like a 'T' represents
+a friend somewhere above you.
+
+An upside-down 'T' blip is a friend somewhere below you."
+"Cstrike_Tutor_Hint_52"		"Si un amigo está hablando, su señal en el radar 
+emitirá una luz naranja."
+"[english]Cstrike_Tutor_Hint_52"		"If a friend is talking, his blip on
+the radar will flash an orange color."
+"Cstrike_Tutor_Hint_53"		"Si eres un Antiterrorista, los rehenes serán
+señales azules en tu radar."
+"[english]Cstrike_Tutor_Hint_53"		"If you are a Counter-Terrorist, Hostages
+will appear on your radar as flashing blue blips."
+"Cstrike_Tutor_Hint_60"		"Muchos mapas de desactivación de bombas
+tienen más de un enclave para bombas."
+"[english]Cstrike_Tutor_Hint_60"		"Many bomb defusal maps have more than one bomb site..."
+"Cstrike_Tutor_Hint_61"		"Si desactivas la bomba ganas la ronda,
+independientemente de los enemigos que queden. "
+"[english]Cstrike_Tutor_Hint_61"		"Defusing the bomb is a sure way to win the round,
+regardless of how many enemies remain."
+"Cstrike_Tutor_Hint_70"		"Los mapas de rescate de rehenes suelen tener
+más de un punto de rescate de rehenes."
+"[english]Cstrike_Tutor_Hint_70"		"Hostage rescue maps often have more
+than one Hostage Rescue Point..."
+"Cstrike_Tutor_Hint_71"		"¡Hablar con un rehén con la tecla Usar (E por defecto)
+te proporciona dinero al instante!"
+"[english]Cstrike_Tutor_Hint_71"		"'Talking to' a Hostage by pressing the Use key (default E)
+rewards you with a cash bonus on the spot!"
+"Cstrike_Tutor_Hint_72"		"Matar a un rehén supone un castigo en metálico.
+
+Intenta no herirlos."
+"[english]Cstrike_Tutor_Hint_72"		"Killing a Hostage results in a severe cash penalty.
+
+Try to avoid injuring them."
+"Cstrike_Tutor_Hint_73"		"¡El rescate de rehenes tiene una
+buena recompensa en metálico!"
+"[english]Cstrike_Tutor_Hint_73"		"Rescuing a Hostage rewards you with a healthy cash bonus!"
+"Cstrike_bomb_site_secure"		"'¡Enclave de bomba seguro!'"
+"[english]Cstrike_bomb_site_secure"		"'Bomb site secure!'"
+"Career_NormalMedal"		"Estrella de bronce"
+"[english]Career_NormalMedal"		"Bronze Star"
+"Career_TasksColon"		"Retos:"
+"[english]Career_TasksColon"		"Challenges:"
+"Career_Task_kill"		"Debes matar un enemigo"
+"[english]Career_Task_kill"		"You must kill an enemy"
+"Career_Task_kill_multi"		"Debes matar %s2 enemigos"
+"[english]Career_Task_kill_multi"		"You must kill %s2 enemies"
+"Career_Task_killwith"		"Debes matar un enemigo %s1"
+"[english]Career_Task_killwith"		"You must kill an enemy %s1"
+"Career_Task_killwith_multi"		"Debes matar %s2 enemigos %s1"
+"[english]Career_Task_killwith_multi"		"You must kill %s2 enemies %s1"
+"Career_Task_killblind"		"Debes matar a un enemigo cegado por granada Flashbang"
+"[english]Career_Task_killblind"		"You must kill a Flashbang-blinded enemy"
+"Career_Task_killblind_multi"		"Debes matar a %s2 enemigos cegados por granada Flashbang"
+"[english]Career_Task_killblind_multi"		"You must kill %s2 Flashbang-blinded enemies"
+"Career_Task_winfast_multi"		"Debes ganar una ronda en menos de %s2 segundos"
+"[english]Career_Task_winfast_multi"		"You must win a round in less than %s2 seconds"
+"Career_Task_headshot"		"Debes matar un enemigo de un disparo en la cabeza"
+"[english]Career_Task_headshot"		"You must kill an enemy with a headshot"
+"Career_Task_headshot_multi"		"Debes matar %s2 enemigos de disparos en la cabeza"
+"[english]Career_Task_headshot_multi"		"You must kill %s2 enemies with headshots"
+"Career_Task_killall"		"Tu equipo debe eliminar a todos los enemigos enseguida."
+"[english]Career_Task_killall"		"Your Team must eliminate all enemies at least once"
+"Career_Map_de_dust2_cz_CAPS"		"DUST II"
+"[english]Career_Map_de_dust2_cz_CAPS"		"DUST II"
+"Career_Map_de_aztec_cz_CAPS"		"AZTEC"
+"[english]Career_Map_de_aztec_cz_CAPS"		"AZTEC"
+"Career_Map_cs_havana_cz_CAPS"		"HAVANA"
+"[english]Career_Map_cs_havana_cz_CAPS"		"HAVANA"
+"Career_Map_de_cbble_cz_CAPS"		"COBBLESTONE"
+"[english]Career_Map_de_cbble_cz_CAPS"		"COBBLESTONE"
+"Career_Map_de_vostok_cz_CAPS"		"VOSTOK"
+"[english]Career_Map_de_vostok_cz_CAPS"		"VOSTOK"
+"Career_Map_cs_italy_cz_CAPS"		"ITALY"
+"[english]Career_Map_cs_italy_cz_CAPS"		"ITALY"
+"Career_Map_de_chateau_cz_CAPS"		"CHATEAU"
+"[english]Career_Map_de_chateau_cz_CAPS"		"CHATEAU"
+"Career_Map_de_fastline_cz_CAPS"		"FASTLINE"
+"[english]Career_Map_de_fastline_cz_CAPS"		"FASTLINE"
+"Career_Map_de_torn_cz_CAPS"		"TORN"
+"[english]Career_Map_de_torn_cz_CAPS"		"TORN"
+"Career_Map_de_truth_cz_CAPS"		"TRUTH"
+"[english]Career_Map_de_truth_cz_CAPS"		"TRUTH"
+"Career_Map_de_piranesi_cz_CAPS"		"PIRANESI"
+"[english]Career_Map_de_piranesi_cz_CAPS"		"PIRANESI"
+"Career_Map_cs_downed_cz_CAPS"		"DOWNED"
+"[english]Career_Map_cs_downed_cz_CAPS"		"DOWNED"
+"Career_Map_de_tides_cz_CAPS"		"TIDES"
+"[english]Career_Map_de_tides_cz_CAPS"		"TIDES"
+"Career_Map_de_dust_cz"		"Dust"
+"[english]Career_Map_de_dust_cz"		"Dust"
+"Career_Map_cs_office_cz"		"Office"
+"[english]Career_Map_cs_office_cz"		"Office"
+"Career_Map_de_stadium_cz"		"Stadium"
+"[english]Career_Map_de_stadium_cz"		"Stadium"
+"Career_Map_de_prodigy_cz"		"Prodigy"
+"[english]Career_Map_de_prodigy_cz"		"Prodigy"
+"Career_Map_cs_miami_cz"		"Miami"
+"[english]Career_Map_cs_miami_cz"		"Miami"
+"Career_Map_de_inferno_cz"		"Inferno"
+"[english]Career_Map_de_inferno_cz"		"Inferno"
+"Career_Map_de_airstrip_cz"		"Airstrip"
+"[english]Career_Map_de_airstrip_cz"		"Airstrip"
+"Career_Map_cs_militia_cz"		"Militia"
+"[english]Career_Map_cs_militia_cz"		"Militia"
+"Career_Map_de_dust2_cz"		"Dust II"
+"[english]Career_Map_de_dust2_cz"		"Dust II"
+"Career_Map_de_aztec_cz"		"Aztec"
+"[english]Career_Map_de_aztec_cz"		"Aztec"
+"Career_Map_cs_havana_cz"		"Havana"
+"[english]Career_Map_cs_havana_cz"		"Havana"
+"Career_Map_de_cbble_cz"		"Cobblestone"
+"[english]Career_Map_de_cbble_cz"		"Cobblestone"
+"Career_Map_de_vostok_cz"		"Vostok"
+"[english]Career_Map_de_vostok_cz"		"Vostok"
+"Career_Map_cs_italy_cz"		"Italy"
+"[english]Career_Map_cs_italy_cz"		"Italy"
+"Career_Map_de_chateau_cz"		"Chateau"
+"[english]Career_Map_de_chateau_cz"		"Chateau"
+"Career_Map_de_fastline_cz"		"Fastline"
+"[english]Career_Map_de_fastline_cz"		"Fastline"
+"Career_Map_de_torn_cz"		"Torn"
+"[english]Career_Map_de_torn_cz"		"Torn"
+"Career_Map_de_truth_cz"		"Truth"
+"[english]Career_Map_de_truth_cz"		"Truth"
+"Career_Map_de_piranesi_cz"		"Piranesi"
+"[english]Career_Map_de_piranesi_cz"		"Piranesi"
+"Career_Map_cs_downed_cz"		"Downed"
+"[english]Career_Map_cs_downed_cz"		"Downed"
+"Career_Map_de_tides_cz"		"Tides"
+"[english]Career_Map_de_tides_cz"		"Tides"
+"Career_Play_As_CT"		"Juega como Antiterrorista"
+"[english]Career_Play_As_CT"		"Play as a Counter-Terrorist"
+"Career_Play_As_T"		"Juega como Terrorista"
+"[english]Career_Play_As_T"		"Play as a Terrorist"
+"Career_BombDefusalCT"		"Aventura de desactivación de bombas:
+Tu equipo debe evitar que los Terroristas detonen 
+su bomba en uno de los enclaves de bomba. Para 
+ganar, desactivad la bomba o eliminad a todos los
+Terroristas."
+"[english]Career_BombDefusalCT"		"Bomb Defuse Scenario:
+Your Team must prevent the Terrorists from
+detonating their bomb at one of the bomb sites.
+To win, defuse the bomb or eliminate
+all of the Terrorists."
+"Career_HostageRescueCT"		"Aventura de rescate de rehenes:
+Los Terroristas han capturado a varios rehenes.
+Debéis rescatarlos llevándolos al punto de 
+rescate de rehenes. "
+"[english]Career_HostageRescueCT"		"Hostage Rescue Scenario:
+The Terrorists have taken several hostages.
+You must rescue them by leading them to a
+Hostage Rescue Point.
+To win, rescue all of the Hostages or eliminate all
+of the Terrorists."
+"Career_BombDefusalT"		"Aventura de desactivación de bombas:
+Tu equipo debe detonar una bomba en uno de los
+enclaves de bomba en este mapa.
+Para ganar, detonad la bomba o eliminad a
+todos los Antiterroristas."
+"[english]Career_BombDefusalT"		"Bomb Defuse Scenario:
+Your Team must detonate a bomb at one of the
+bomb sites on this map.
+To win, detonate the bomb or eliminate all
+of the Counter-Terrorists."
+"Career_HostageRescueT"		"Aventura de rescate de rehenes:
+Tu equipo tiene varios rehenes. Debes evitar
+que los Antiterroristas se los lleven al punto de
+rescate de rehenes. Para ganar, debes
+conservar a los rehenes durante toda la ronda
+o eliminar a todos los Antiterroristas."
+"[english]Career_HostageRescueT"		"Hostage Rescue Scenario:
+Your Team has several Hostages. You must
+prevent the Counter-Terrorists from stealing
+them and reaching a Hostage Rescue Point.
+To win, retain the Hostages for the entire round,
+or eliminate all of the Counter-Terrorists."
+"Career_MatchTasksTitle"		"Para ganar la partida"
+"[english]Career_MatchTasksTitle"		"To Win the Match"
+"Career_MatchTasks"		"Tu equipo debe ganar al menos %s1 rondas y llevar un aventaja de %s2 para ganar la partida."
+"[english]Career_MatchTasks"		"Your Team must win at least %s1 rounds and lead the opposition by %s2 to win this match."
+"Career_MatchGoodLuck"		"¡Buena suerte!"
+"[english]Career_MatchGoodLuck"		"Good Luck!"
+"Career_SkillDesc"		"Habilidad:"
+"[english]Career_SkillDesc"		"Skill: "
+"Career_TeamDesc"		"Coop:"
+"[english]Career_TeamDesc"		"Co-op: "
+"Career_AggressionDesc"		"Valentía:"
+"[english]Career_AggressionDesc"		"Bravery: "
+"Career_LevelDesc0"		"Malo"
+"[english]Career_LevelDesc0"		"Bad"
+"Career_LevelDesc1"		"Bajo"
+"[english]Career_LevelDesc1"		"Low"
+"Career_LevelDesc2"		"OK"
+"[english]Career_LevelDesc2"		"Ok"
+"Career_LevelDesc3"		"Bueno"
+"[english]Career_LevelDesc3"		"Good"
+"Career_LevelDesc4"		"Alto"
+"[english]Career_LevelDesc4"		"High"
+"Career_Weapon_scout"		"con un Schmidt Scout"
+"[english]Career_Weapon_scout"		"with a Schmidt Scout"
+"Career_Weapon_xm1014"		"con una escopeta automática Leone YG1265"
+"[english]Career_Weapon_xm1014"		"with a Leone YG1265 Auto Shotgun"
+"GameUI_DetailTextures"		"Detalles texturas"
+"[english]GameUI_DetailTextures"		"Detail Textures"
+"Cstrike_Tutor_Off"		"Desactivado"
+"[english]Cstrike_Tutor_Off"		"Off"
+"Cstrike_Tutor_Beginner"		"Activado"
+"[english]Cstrike_Tutor_Beginner"		"On"
+"Cstrike_Tutor_Advanced"		"Avanzado"
+"[english]Cstrike_Tutor_Advanced"		"Advanced"
+"CStrike_Listen_TutorLevel"		"Configuración tutor"
+"[english]CStrike_Listen_TutorLevel"		"Tutor Setting"
+"CStrike_Tutor_Enabled"		"Activar tutor"
+"[english]CStrike_Tutor_Enabled"		"Enable Tutor"
+"Cstrike_Tutor_You_See_Enemy"		"Has avistado un enemigo"
+"[english]Cstrike_Tutor_You_See_Enemy"		"You have spotted an enemy."
+"Cstrike_Tutor_You_See_Friend"		"Has avistado un amigo."
+"[english]Cstrike_Tutor_You_See_Friend"		"You have spotted a friend."
+"Cstrike_Tutor_You_See_Enemy_Corpse"		"Es un cadáver de un enemigo."
+"[english]Cstrike_Tutor_You_See_Enemy_Corpse"		"This is an enemy's corpse."
+"Cstrike_Tutor_You_See_Friend_Corpse"		"Es el cadáver de un amigo."
+"[english]Cstrike_Tutor_You_See_Friend_Corpse"		"This is a friend's corpse."
+"Cstrike_Tutor_You_see_Breakable"		"Se puede romper.
+¡Intenta dispararle!"
+"[english]Cstrike_Tutor_You_see_Breakable"		"This is breakable.
+Try shooting it!"
+"Cstrike_Tutor_You_Fired_A_Shot"		"Has disparado tu arma."
+"[english]Cstrike_Tutor_You_Fired_A_Shot"		"You have fired your weapon."
+"Cstrike_Tutor_You_Should_Reload"		"Tienes poca munición.
+Necesitas recargar tu arma.
+(R por defecto)"
+"[english]Cstrike_Tutor_You_Should_Reload"		"You are low on ammo.
+You should reload your weapon.
+(default R)"
+"Cstrike_Tutor_You_Are_Out_Of_Ammo"		"Tu arma se ha quedado sin munición.
+Cámbiala por otra.
+(1,2 o 3 por defecto)"
+"[english]Cstrike_Tutor_You_Are_Out_Of_Ammo"		"Your weapon is completely out of ammo.
+Switch to another weapon.
+(default 1, 2, or 3)"
+"Cstrike_Tutor_You_Killed_A_Teammate"		"¡Has matado a un amigo!
+
+Compañeros eliminados recientemente:
+%s1"
+"[english]Cstrike_Tutor_You_Killed_A_Teammate"		"You have killed a friend!
+
+Recent teammates killed:
+%s1"
+"Cstrike_Tutor_You_Killed_Player"		"Has matado a un enemigo.
+
+Quedan %s1 enemigos."
+"[english]Cstrike_Tutor_You_Killed_Player"		"You have killed an enemy.
+
+There are %s1 enemies remaining.
+
+Recent enemies killed:
+%s2"
+"Cstrike_Tutor_You_Killed_Last_Enemy"		"¡Has matado al último enemigo!
+
+Enemigos eliminados recientemente:
+%s1"
+"[english]Cstrike_Tutor_You_Killed_Last_Enemy"		"You killed the last enemy!
+
+Recent enemies killed:
+%s1"
+"Cstrike_Tutor_You_Died_Headshot"		"Has muerto de un disparo en la cabeza."
+"[english]Cstrike_Tutor_You_Died_Headshot"		"You have died from a headshot."
+"Cstrike_Tutor_You_Fell_To_Your_Death"		"Te has matado.
+¡Ten cuidado!"
+"[english]Cstrike_Tutor_You_Fell_To_Your_Death"		"You fell to your death.
+Be careful!"
+"Cstrike_Tutor_You_Were_Just_Hurt"		"¡Eso duele!
+¡Cuidado!"
+"[english]Cstrike_Tutor_You_Were_Just_Hurt"		"That hurt!
+Be careful!"
+"Cstrike_rush_to_lab"		"'¡Corred al laboratorio!'"
+"[english]Cstrike_rush_to_lab"		"'Rush to the lab!'"
+"Cstrike_enemy_outside_plane"		"'Enemigo fuera del avión'"
+"[english]Cstrike_enemy_outside_plane"		"'Enemy outside plane'"
+"Cstrike_enemy_in_cargo"		"'¡Enemigo en bodega de carga!'"
+"[english]Cstrike_enemy_in_cargo"		"'Enemy in cargo hold!'"
+"Cstrike_team_regroup"		"'¡Equipo! ¡Reagrupaos!'"
+"[english]Cstrike_team_regroup"		"'Team! Regroup!'"
+"Cstrike_cbble"		"mapa de_cbble"
+"[english]Cstrike_cbble"		"map de_cbble"
+"Cstrike_dust2"		"mapa de_dust2"
+"[english]Cstrike_dust2"		"map de_dust2"
+"Cstrike_enemy_on_sec_story"		"'Enemigo en el segundo piso'"
+"[english]Cstrike_enemy_on_sec_story"		"'Enemy on second story'"
+"Cstrike_enemy_in_front"		"'Enemigo al frente'"
+"[english]Cstrike_enemy_in_front"		"'Enemy in front'"
+"Cstrike_tundra"		"mapa as_tundra"
+"[english]Cstrike_tundra"		"map as_tundra"
+"Cstrike_use_sec_route"		"'Usad la ruta secundaria'"
+"[english]Cstrike_use_sec_route"		"'Use secondary route'"
+"Cstrike_use_primary_route"		"'Usad la ruta primaria'"
+"[english]Cstrike_use_primary_route"		"'Use primary route'"
+"Cstrike_rush_to_apc"		"'Corred a APC'"
+"[english]Cstrike_rush_to_apc"		"'Rush to APC'"
+"Cstrike_meet_at_garage"		"'Encuentro en el conducto de ventilación del garage'"
+"[english]Cstrike_meet_at_garage"		"'Meet at garage vent'"
+"Cstrike_meet_front_house"		"'Encuentro en la parte delantera de la casa'"
+"[english]Cstrike_meet_front_house"		"'Meet at front of house'"
+"Cstrike_meet_backyard"		"'Encuentro en el patio trasero'"
+"[english]Cstrike_meet_backyard"		"'Meet in backyard'"
+"Cstrike_enemy_topside"		"'¡El enemigo está arriba!'"
+"[english]Cstrike_enemy_topside"		"'Enemy is topside!'"
+"Cstrike_enemy_sewers"		"'¡El enemigo está en las alcantarillas!'"
+"[english]Cstrike_enemy_sewers"		"'Enemy is in sewers!'"
+"Cstrike_Acknowledged"		"'Recibido'"
+"[english]Cstrike_Acknowledged"		"'Acknowledged'"
+"Cstrike_Negative"		"'Negativo'"
+"[english]Cstrike_Negative"		"'Negative'"
+"Cstrike_Go"		"'¡Vamos, vamos!'"
+"[english]Cstrike_Go"		"'Go Go Go!'"
+"Cstrike_On_My_Way"		"'Estoy en camino'"
+"[english]Cstrike_On_My_Way"		"'On my way'"
+"Cstrike_Need_Backup"		"'Necesito ayuda'"
+"[english]Cstrike_Need_Backup"		"'Need backup'"
+"Cstrike_DROP_CURRENT_ITEM"		"SOLTAR OBJETO ACTUAL"
+"[english]Cstrike_DROP_CURRENT_ITEM"		"DROP CURRENT ITEM"
+"Cstrike_Random"		"Aleatorio"
+"[english]Cstrike_Random"		"Random"
+"Cstrike_Player_Shadows"		"Sombras de Jugador"
+"[english]Cstrike_Player_Shadows"		"Player Shadows"
+"Cstrike_Auto_Buy"		"Compra automática de equipamiento"
+"[english]Cstrike_Auto_Buy"		"Automatically Buy Equipment"
+"Career_NewGame"		"&Juega a Counter-Strike: Condition Zero"
+"[english]Career_NewGame"		"&Play Counter-Strike: Condition Zero"
+"Career_MapPage"		"SELECCIONAR LUGAR"
+"[english]Career_MapPage"		"SELECT LOCATION"
+"Career_BotPage"		"REUNIR EQUIPO"
+"[english]Career_BotPage"		"ASSEMBLE TEAM"
+"Career_MapNext"		"REUNIR EQUIPO"
+"[english]Career_MapNext"		"ASSEMBLE TEAM"
+"Career_BotPrev"		"VOLVER"
+"[english]Career_BotPrev"		"GO BACK"
+"Career_Cancel"		"CANCELAR"
+"[english]Career_Cancel"		"CANCEL"
+"Career_Start"		"¡COMENZAR PARTIDA!"
+"[english]Career_Start"		"START MATCH!"
+"Career_BuildTeamRoster"		"Reúne a tu equipo"
+"[english]Career_BuildTeamRoster"		"Assemble Your Team"
+"Career_AutoRoster"		"EQUIPO DE SELECCIÓN RÁPIDA:"
+"[english]Career_AutoRoster"		"QUICK-PICK TEAM:"
+"Career_PointsLeft"		"Puntos restantes"
+"[english]Career_PointsLeft"		"Points Left"
+"Career_Hired"		"[02_TU EQUIPO]"
+"[english]Career_Hired"		"[02_YOUR TEAM]"
+"Career_Pool"		"[01_COMBATIENTES DISPONIBLES]"
+"[english]Career_Pool"		"[01_AVAILABLE COMBATANTS]"
+"Career_RestartConfirmationTitle"		"¿Reiniciar partida profesional?"
+"[english]Career_RestartConfirmationTitle"		"Restart Career Game?"
+"Career_RestartConfirmationText"		"La partida profesional en juego acabará.
+¿Quieres reiniciar?"
+"[english]Career_RestartConfirmationText"		"This will end the current career game.
+Restart anyway?"
+"Career_OverwriteConfirmationTitle"		"¿SOBRESCRIBIR PARTIDA GUARDADA?"
+"[english]Career_OverwriteConfirmationTitle"		"OVERWRITE PROFILE"
+"Career_OverwriteConfirmationText"		"Se sobrescribirá la partida guardada.
+¿Quieres continuar?"
+"[english]Career_OverwriteConfirmationText"		"This will overwrite a saved profile.
+Continue anyway?"
+"Career_Restart"		"Volver a empezar"
+"[english]Career_Restart"		"Restart"
+"Career_Surrender"		"Rendirse"
+"[english]Career_Surrender"		"Surrender"
+"Career_Match_End"		"La partida ha terminado"
+"[english]Career_Match_End"		"The Match is Over"
+"Career_Match_Win"		"¡Tu equipo ha ganado!"
+"[english]Career_Match_Win"		"Your Team is Victorious!"
+"Career_Match_Lose"		"Tu equipo ha sido derrotado"
+"[english]Career_Match_Lose"		"Your Team has been Defeated"
+"Career_Autosave_Notice"		"La partida se ha autoguardado."
+"[english]Career_Autosave_Notice"		"The game has been auto-saved."
+"Career_ContinueMatch"		"Continuar"
+"[english]Career_ContinueMatch"		"Continue"
+"Career_FinishMatch"		"Terminar"
+"[english]Career_FinishMatch"		"Finish"
+"Career_TeamT"		"Terrorista"
+"[english]Career_TeamT"		"Terrorist"
+"Career_TeamCT"		"Antiterrorista"
+"[english]Career_TeamCT"		"Counter-Terrorist"
+"Career_ImminentVictory"		"¡Vamos, vamos! ¡La victoria es inminente!"
+"[english]Career_ImminentVictory"		"Go go go! Your victory is imminent!"
+"Career_ImminentDefeat"		"¡Atención! ¡Estás a solo una ronda de perder la partida!"
+"[english]Career_ImminentDefeat"		"Warning! You are one round away from losing this match!"
+"Career_FriendlyFireOn"		"¡Ten cuidado! ¡Puedes HERIR A TUS AMIGOS con tus armas en esta partida!"
+"[english]Career_FriendlyFireOn"		"Be careful! Your weapons can HURT FRIENDS during this match!"
+"Career_EnemyList"		"Te enfrentarás a %s1 enemigos en esta partida:"
+"[english]Career_EnemyList"		"You will face %s1 enemies in this match: "
+"Career_EnemyListSeparator"		","
+"[english]Career_EnemyListSeparator"		", "
+"Career_TaskJustDone"		"Reto completado.
+Quedan %s1 retos."
+"[english]Career_TaskJustDone"		"Challenge completed.
+There are %s1 Challenges remaining."
+"Career_TaskJustDoneSingle"		"Reto completado.
+Queda un reto."
+"[english]Career_TaskJustDoneSingle"		"Challenge completed.
+There is one Challenge remaining."
+"Career_TaskStatusDone"		"Has completado todos los retos de esta partida"
+"[english]Career_TaskStatusDone"		"You have completed all Challenges for this match"
+"Career_TaskStatusUnfinished"		"Quedan %s1 retos"
+"[english]Career_TaskStatusUnfinished"		"There are %s1 Challenges remaining"
+"Career_TaskStatusUnfinishedSingle"		"Queda un reto"
+"[english]Career_TaskStatusUnfinishedSingle"		"There is one Challenge remaining"
+"Career_EarnedReputationPoints"		"¡Has ganado otro punto de reputación!"
+"[english]Career_EarnedReputationPoints"		"You have earned another reputation point!"
+"Career_NewLocationsAvailable"		"¡Hay nuevos lugares disponibles!"
+"[english]Career_NewLocationsAvailable"		"New Locations are available!"
+"Career_AllLocationsComplete"		"¡Enhorabuena, Comandante!
+
+Has derrotado la amenaza Terrorista y has convertido el mundo en un lugar mejor."
+"[english]Career_AllLocationsComplete"		"Congratulations, Commander!
+
+You have defeated the Terrorist threat and made the world a safer place."
+"Career_ExpertMedal"		"Medalla de Servicio Distinguido del Departamento de Defensa"
+"[english]Career_ExpertMedal"		"Department of Defense Distinguished Service Medal"
+"Career_MedalListTitle"		"[Tus Premios]"
+"[english]Career_MedalListTitle"		"[Your Awards]"
+"Career_RoundWin"		"Tu equipo ha ganado esta ronda..."
+"[english]Career_RoundWin"		"Your Team has Won this Round..."
+"Career_RoundLose"		"Tu equipo ha perdido esta ronda..."
+"[english]Career_RoundLose"		"Your Team has Lost this Round..."
+"Career_RoundDraw"		"Esta ronda ha quedado empatada"
+"[english]Career_RoundDraw"		"This Round was a Draw"
+"Career_ScoreSoFar"		"La puntuación hasta el momento:"
+"[english]Career_ScoreSoFar"		"The Score So Far:"
+"Career_RoundWinsCT"		"Antiterroristas:%s1"
+"[english]Career_RoundWinsCT"		"Counter-Terrorists: %s1"
+"Career_RoundWinsT"		"Terroristas: %s1"
+"[english]Career_RoundWinsT"		"Terrorists: %s1"
+"Career_Task_headshotwith"		"Debes matar un enemigo con un disparo en la cabeza %s1"
+"[english]Career_Task_headshotwith"		"You must kill an enemy with a headshot %s1"
+"Career_Task_headshotwith_multi"		"Debes matar %s2 enemigos con disparos en la cabeza %s1"
+"[english]Career_Task_headshotwith_multi"		"You must kill %s2 enemies with headshots %s1"
+"Career_Task_defuse"		"Debes desactivar la bomba"
+"[english]Career_Task_defuse"		"You must defuse the Bomb"
+"Career_Task_plant"		"Debes colocar la bomba"
+"[english]Career_Task_plant"		"You must plant the Bomb"
+"Career_Task_rescue"		"Debes rescatar un rehén"
+"[english]Career_Task_rescue"		"You must rescue a Hostage"
+"Career_Task_rescue_multi"		"Debes rescatar %s2 rehenes"
+"[english]Career_Task_rescue_multi"		"You must rescue %s2 Hostages"
+"Career_Task_rescueall"		"Debes rescatar a todos los rehenes"
+"[english]Career_Task_rescueall"		"You must rescue all of the Hostages"
+"Career_Task_defendhostages"		"No debes permiter que rescaten un rehén"
+"[english]Career_Task_defendhostages"		"You must not allow a Hostage to be rescued"
+"Career_Task_hostagessurvive"		"Todos los rehenes deben sobrevivir"
+"[english]Career_Task_hostagessurvive"		"All Hostages must survive"
+"Career_Task_survive"		"%s1 y sobrevive la ronda"
+"[english]Career_Task_survive"		"%s1 and survive the round"
+"Career_Task_inarow"		"%s1 sin morir"
+"[english]Career_Task_inarow"		"%s1 without dying"
+"Career_Task_Done"		"Tarea completa:"
+"[english]Career_Task_Done"		"Task Complete:"
+"Career_Task_PartialTitle"		"Estado:"
+"[english]Career_Task_PartialTitle"		"Status:"
+"Career_Task_PartialRemaining"		"%s1 restante"
+"[english]Career_Task_PartialRemaining"		"%s1 remaining"
+"Career_Task_PartialMustLive"		"Sobrevive a la ronda"
+"[english]Career_Task_PartialMustLive"		"Survive the round"
+"Career_Task_PartialIncomplete"		"Incompleta"
+"[english]Career_Task_PartialIncomplete"		"Incomplete"
+"Career_Task_Complete"		"COMPLETA"
+"[english]Career_Task_Complete"		"COMPLETE"
+"Career_GameMenu_SaveGame"		"Guardar partida"
+"[english]Career_GameMenu_SaveGame"		"Save Game"
+"Career_GameMenu_LoadGame"		"Cargar partida"
+"[english]Career_GameMenu_LoadGame"		"Load Game"
+"Career_CorruptSaveTitle"		"Error en partida guardada"
+"[english]Career_CorruptSaveTitle"		"Corrupt Saved Game"
+"Career_CorruptSaveText"		"Esta partida contiene errores y no se puede cargar."
+"[english]Career_CorruptSaveText"		"The saved game was corrupt and could not be loaded."
+"Career_TripletNum"		"Tour de Deber %s1"
+"[english]Career_TripletNum"		"Tour of Duty %s1"
+"Career_Locked"		"BLOQUEADO"
+"[english]Career_Locked"		"LOCKED"
+"Career_Unlocked"		"DESBLOQUEADO"
+"[english]Career_Unlocked"		"UNLOCKED"
+"Career_Current"		"ACTUAL"
+"[english]Career_Current"		"CURRENT"
+"Career_JumpTo"		"SALTAR A:"
+"[english]Career_JumpTo"		"JUMP TO:"
+"Career_MapDescription"		"[02_LUGAR SELECCIONADO]"
+"[english]Career_MapDescription"		"[02_SELECTED LOCATION]"
+"Career_MapSelection"		"[01_TOURS DE DEBER / LUGAR]"
+"[english]Career_MapSelection"		"[01_TOURS OF DUTY / LOCATION]"
+"Career_Map_de_dust_cz_CAPS"		"DUST"
+"[english]Career_Map_de_dust_cz_CAPS"		"DUST"
+"Career_Map_cs_office_cz_CAPS"		"OFFICE"
+"[english]Career_Map_cs_office_cz_CAPS"		"OFFICE"
+"Career_Map_de_stadium_cz_CAPS"		"STADIUM"
+"[english]Career_Map_de_stadium_cz_CAPS"		"STADIUM"
+"Career_Map_de_prodigy_cz_CAPS"		"PRODIGY"
+"[english]Career_Map_de_prodigy_cz_CAPS"		"PRODIGY"
+"Career_Map_cs_miami_cz_CAPS"		"MIAMI"
+"[english]Career_Map_cs_miami_cz_CAPS"		"MIAMI"
+"Career_Map_de_inferno_cz_CAPS"		"INFERNO"
+"[english]Career_Map_de_inferno_cz_CAPS"		"INFERNO"
+"Career_Map_de_airstrip_cz_CAPS"		"AIRSTRIP"
+"[english]Career_Map_de_airstrip_cz_CAPS"		"AIRSTRIP"
+"Career_Map_cs_militia_cz_CAPS"		"MILITIA"
+"[english]Career_Map_cs_militia_cz_CAPS"		"MILITIA"
+"Cstrike_rush_trainyard"		"'¡A por la bomba del almacén del tren!'"
+"[english]Cstrike_rush_trainyard"		"'Rush trainyard bomb!'"
+"Career_HardMedal"		"Estrella de Plata"
+"[english]Career_HardMedal"		"Silver Star"
+"Cstrike_Militia_Label"		"La Milicia Midwest es un movimiento extremista de derecha
+integrado por grupos armados paramilitares tanto formales 
+como informales. Este grupo antigubernamental se fundó en 
+1993, después del sitio de Waco, Texas."
+"[english]Cstrike_Militia_Label"		"The Midwest Militia is a right-wing extremist movement
+consisting of formal and informal armed paramilitary groups.
+This anti-government group was founded in 1993 after the
+standoff in Waco, Texas."
+"Cstrike_Spetsnaz_Label"		"Las misiones principales de los SPETSNAZ son:
+adquirir información de inteligencia acerca de las 
+principales instalaciones militares y económicas
+y destruirlas o ponerlas fuera de combate, organizar 
+actividades de sabotaje y actos subversivos; llevar a cabo 
+operaciones punitivas en contra de los rebeldes, formar y
+entrenar destacamentos de insurgentes, etc."
+"[english]Cstrike_Spetsnaz_Label"		"The primary missions of the Russian SPETSNAZ are:
+acquiring intelligence on major economic and military
+installations and either destroying them or putting them out
+of action, organizing sabotage and acts of subversion;
+carrying out punitive operations against rebels; forming and
+training insurgent detachments, etc."
+"Cstrike_TutorState_Undefined"		" "
+"[english]Cstrike_TutorState_Undefined"		" "
+"Cstrike_TitlesTXT_AK47"		"CV-47"
+"[english]Cstrike_TitlesTXT_AK47"		"CV-47"
+"Cstrike_TitlesTXT_Accept_All_Messages"		"Aceptando TODOS los mensajes de texto"
+"[english]Cstrike_TitlesTXT_Accept_All_Messages"		"Now accepting ALL text messages"
+"Cstrike_TitlesTXT_Accept_Radio"		"ACEPTANDO los mensajes de radio"
+"[english]Cstrike_TitlesTXT_Accept_Radio"		"Now ACCEPTING radio messages"
+"Cstrike_TitlesTXT_Affirmative"		"Afirmativo."
+"[english]Cstrike_TitlesTXT_Affirmative"		"Affirmative."
+"Cstrike_TitlesTXT_Alias_Not_Avail"		"\"%s1\"
+no está disponible para
+que tu equipo la compre."
+"[english]Cstrike_TitlesTXT_Alias_Not_Avail"		"The \"%s1\"
+is not available for your team to buy."
+"Cstrike_TitlesTXT_All_Hostages_Rescued"		"¡Todos los rehenes han 
+sido liberados!"
+"[english]Cstrike_TitlesTXT_All_Hostages_Rescued"		"All Hostages have been rescued!"
+"Cstrike_TitlesTXT_All_Teams_Full"		"¡Todos los equipos están completos!"
+"[english]Cstrike_TitlesTXT_All_Teams_Full"		"All teams are full!"
+"Cstrike_TitlesTXT_All_VIP_Slots_Full"		"Las 5 ranuras para VIP estan 
+llenas... Vuelve a intentarlo 
+mas tarde"
+"[english]Cstrike_TitlesTXT_All_VIP_Slots_Full"		"All 5 VIP slots have been filled up.
+Please try again later."
+"Cstrike_TitlesTXT_Already_Have_Kevlar"		"¡Ya tienes un kevlar!"
+"[english]Cstrike_TitlesTXT_Already_Have_Kevlar"		"You already have kevlar!"
+"Cstrike_TitlesTXT_Already_Have_Kevlar_Helmet"		"¡Ya tienes un kevlar y un casco!"
+"[english]Cstrike_TitlesTXT_Already_Have_Kevlar_Helmet"		"You already have kevlar and a helmet!"
+"Cstrike_TitlesTXT_Already_Have_One"		"¡Ya tienes uno!"
+"[english]Cstrike_TitlesTXT_Already_Have_One"		"You already have one!"
+"Cstrike_TitlesTXT_ArcticWarfareMagnum"		"Rifle Magnum Sniper"
+"[english]Cstrike_TitlesTXT_ArcticWarfareMagnum"		"Magnum Sniper Rifle"
+"Cstrike_TitlesTXT_Arctic_Avengers"		"Vengs. árticos"
+"[english]Cstrike_TitlesTXT_Arctic_Avengers"		"Arctic Avengers"
+"Cstrike_TitlesTXT_Aug"		"Bullpup"
+"[english]Cstrike_TitlesTXT_Aug"		"Bullpup"
+"Cstrike_TitlesTXT_AutoShotgun"		"Escopeta automática"
+"[english]Cstrike_TitlesTXT_AutoShotgun"		"Auto Shotgun"
+"Cstrike_TitlesTXT_Auto_Select"		"Autoselección"
+"[english]Cstrike_TitlesTXT_Auto_Select"		"Auto-Select"
+"Cstrike_TitlesTXT_Auto_Team_Balance_Next_Round"		"*** Autoequilibrio de 
+equipo en la próxima ronda ***"
+"[english]Cstrike_TitlesTXT_Auto_Team_Balance_Next_Round"		"*** Auto-Team Balance next round ***"
+"Cstrike_TitlesTXT_BOMB"		"BOMBA"
+"[english]Cstrike_TitlesTXT_BOMB"		"BOMB"
+"Cstrike_TitlesTXT_Banned_For_Killing_Teammates"		"Se te prohibe la entrada al 
+servidor por haber matado 
+demasiados companeros de equipo"
+"[english]Cstrike_TitlesTXT_Banned_For_Killing_Teammates"		"You are being banned from the server for killing too many teammates"
+"Cstrike_TitlesTXT_Beretta96G"		".40 Dual Elites"
+"[english]Cstrike_TitlesTXT_Beretta96G"		".40 Dual Elites"
+"Cstrike_TitlesTXT_Bomb_Defusal_Kit"		"Kit de desactivacion de bombas"
+"[english]Cstrike_TitlesTXT_Bomb_Defusal_Kit"		"Bomb Defusal Kit"
+"Cstrike_TitlesTXT_Bomb_Defused"		"¡La bomba ha sido desactivada!"
+"[english]Cstrike_TitlesTXT_Bomb_Defused"		"The bomb has been defused!"
+"Cstrike_TitlesTXT_Bomb_Planted"		"¡Han colocado la bomba!"
+"[english]Cstrike_TitlesTXT_Bomb_Planted"		"The bomb has been planted!"
+"Cstrike_TitlesTXT_Buy_equipment"		"Comprar equipo"
+"[english]Cstrike_TitlesTXT_Buy_equipment"		"Buy Equipment"
+"Cstrike_TitlesTXT_Buy_machineguns"		"Comprar metralletas"
+"[english]Cstrike_TitlesTXT_Buy_machineguns"		"Buy Machine Guns"
+"Cstrike_TitlesTXT_Buy_pistols"		"Comprar pistolas"
+"[english]Cstrike_TitlesTXT_Buy_pistols"		"Buy Pistols"
+"Cstrike_TitlesTXT_Buy_prim_ammo"		"Comprar munición arma principal"
+"[english]Cstrike_TitlesTXT_Buy_prim_ammo"		"Buy Primary Ammo"
+"Cstrike_TitlesTXT_Buy_rifles"		"Comprar rifles"
+"[english]Cstrike_TitlesTXT_Buy_rifles"		"Buy Rifles"
+"Cstrike_TitlesTXT_Buy_sec_ammo"		"Comprar munición arma secundaria"
+"[english]Cstrike_TitlesTXT_Buy_sec_ammo"		"Buy Secondary Ammo"
+"Cstrike_TitlesTXT_Buy_shotguns"		"Comprar escopetas"
+"[english]Cstrike_TitlesTXT_Buy_shotguns"		"Buy Shotguns"
+"Cstrike_TitlesTXT_Buy_smgs"		"Comprar metralletas"
+"[english]Cstrike_TitlesTXT_Buy_smgs"		"Buy Sub-Machine Guns"
+"Cstrike_TitlesTXT_C4_Activated_At_Bomb_Spot"		"La C4 debe activarse en un 
+objetivo de bomba"
+"[english]Cstrike_TitlesTXT_C4_Activated_At_Bomb_Spot"		"C4 must be activated at a Bomb Target"
+"Cstrike_TitlesTXT_C4_Arming_Cancelled"		"Cancelada la secuencia de armamento. 
+Sólo se puede colocar una C4 
+en un objetivo de bomba."
+"[english]Cstrike_TitlesTXT_C4_Arming_Cancelled"		"Arming Sequence Canceled. 
+C4 can only be placed at a Bomb Target."
+"Cstrike_TitlesTXT_C4_Defuse_Must_Be_On_Ground"		"¡Tienes que estar en el suelo
+para desactivar la bomba!"
+"[english]Cstrike_TitlesTXT_C4_Defuse_Must_Be_On_Ground"		"You must be on the ground
+to defuse the bomb!"
+"Cstrike_TitlesTXT_C4_Plant_At_Bomb_Spot"		"¡Hay que colocar una C4 en 
+un objetivo de bomba!"
+"[english]Cstrike_TitlesTXT_C4_Plant_At_Bomb_Spot"		"C4 must be planted at a bomb site!"
+"Cstrike_TitlesTXT_C4_Plant_Must_Be_On_Ground"		"¡Para colocar la C4 tienes
+que estar de pie en el suelo!"
+"[english]Cstrike_TitlesTXT_C4_Plant_Must_Be_On_Ground"		"You must be standing on
+the ground to plant the C4!"
+"Cstrike_TitlesTXT_CAM_OPTIONS"		"Opciones de cámara"
+"[english]Cstrike_TitlesTXT_CAM_OPTIONS"		"Camera Options"
+"Cstrike_TitlesTXT_CLASS"		"Clase "
+"[english]Cstrike_TitlesTXT_CLASS"		"Class"
+"Cstrike_TitlesTXT_CT_Forces"		"Fuerzas AT"
+"[english]Cstrike_TitlesTXT_CT_Forces"		"CT Forces"
+"Cstrike_TitlesTXT_CT_cant_buy"		"¡Los AT no pueden comprar
+nada en este mapa!"
+"[english]Cstrike_TitlesTXT_CT_cant_buy"		"CTs aren't allowed to buy
+anything on this map!"
+"Cstrike_TitlesTXT_CTs_Full"		"¡El equipo AT esta completo!"
+"[english]Cstrike_TitlesTXT_CTs_Full"		"The CT team is full!"
+"Cstrike_TitlesTXT_CTs_PreventEscape"		"¡El equipo AT ha evitado que 
+escapen la mayoria de los 
+terroristas!"
+"[english]Cstrike_TitlesTXT_CTs_PreventEscape"		"The CTs have prevented most
+of the terrorists from escaping!"
+"Cstrike_TitlesTXT_CTs_Win"		"¡Ganan los antiterroristas!"
+"[english]Cstrike_TitlesTXT_CTs_Win"		"Counter-Terrorists Win!"
+"Cstrike_TitlesTXT_Cannot_Be_Spectator"		"No puedes ser espectador."
+"[english]Cstrike_TitlesTXT_Cannot_Be_Spectator"		"You cannot become a spectator."
+"Cstrike_TitlesTXT_Cannot_Buy_This"		"¡No puedes comprar este objeto!"
+"[english]Cstrike_TitlesTXT_Cannot_Buy_This"		"You cannot buy this item!"
+"Cstrike_TitlesTXT_Cannot_Carry_Anymore"		"¡Ya no puedes llevar mas!"
+"[english]Cstrike_TitlesTXT_Cannot_Carry_Anymore"		"You cannot carry anymore!"
+"Cstrike_TitlesTXT_Cannot_Switch_From_VIP"		"¡Eres el VIP! 
+Ahora no puedes cambiar de rol."
+"[english]Cstrike_TitlesTXT_Cannot_Switch_From_VIP"		"You are the VIP!
+You cannot switch roles now."
+"Cstrike_TitlesTXT_Cannot_Vote_Map"		"No puedes votar en los 3 
+primeros minutos después de 
+haber entrado en un mapa nuevo"
+"[english]Cstrike_TitlesTXT_Cannot_Vote_Map"		"You cannot vote within 3 minutes of a new map"
+"Cstrike_TitlesTXT_Cannot_Vote_Need_More_People"		"¡No puedes votar un mapa tú solo!"
+"[english]Cstrike_TitlesTXT_Cannot_Vote_Need_More_People"		"You can't vote for a map by yourself!"
+"Cstrike_TitlesTXT_Cannot_Vote_With_Less_Than_Three"		"No puedes votar con menos de tres personas en tu equipo"
+"[english]Cstrike_TitlesTXT_Cannot_Vote_With_Less_Than_Three"		"You can't vote with less than three people on your team"
+"Cstrike_TitlesTXT_Cant_buy"		"Han pasado %s1 segundos... 
+¡Ya no puedes comprar nada!"
+"[english]Cstrike_TitlesTXT_Cant_buy"		"%s1 seconds have passed.
+You can't buy anything now!"
+"Cstrike_TitlesTXT_Class_descr_not_avail"		"Descripción de clase no disponible."
+"[english]Cstrike_TitlesTXT_Class_descr_not_avail"		"Class description not available."
+"Cstrike_TitlesTXT_Command_Not_Available"		"En este punto no puedes 
+disponer de este comando"
+"[english]Cstrike_TitlesTXT_Command_Not_Available"		"This command is not available to you at this point"
+"Cstrike_TitlesTXT_Cover_me"		"¡Cubridme!"
+"[english]Cstrike_TitlesTXT_Cover_me"		"Cover Me!"
+"Cstrike_TitlesTXT_D3AU1"		"D3AU1"
+"[english]Cstrike_TitlesTXT_D3AU1"		"D3AU1"
+"Cstrike_TitlesTXT_DEAD"		"MUERTO"
+"[english]Cstrike_TitlesTXT_DEAD"		"DEAD"
+"Cstrike_TitlesTXT_DEATHS"		"MUERTES"
+"[english]Cstrike_TitlesTXT_DEATHS"		"DEATHS"
+"Cstrike_TitlesTXT_Defusal_Kit"		"Kit desactiv."
+"[english]Cstrike_TitlesTXT_Defusal_Kit"		"Defusal Kit"
+"Cstrike_TitlesTXT_Defusing_Bomb_With_Defuse_Kit"		"Desactivando bomba CON 
+kit de desactivacion..."
+"[english]Cstrike_TitlesTXT_Defusing_Bomb_With_Defuse_Kit"		"Defusing bomb WITH Defuse kit."
+"Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit"		"Desactivando bomba SIN 
+kit de desactivacion..."
+"[english]Cstrike_TitlesTXT_Defusing_Bomb_Without_Defuse_Kit"		"Defusing bomb WITHOUT Defuse kit."
+"Cstrike_TitlesTXT_DesertEagle"		"Night Hawk .50C"
+"[english]Cstrike_TitlesTXT_DesertEagle"		"Night Hawk .50C"
+"Cstrike_TitlesTXT_Dual40"		".40 Dual"
+"[english]Cstrike_TitlesTXT_Dual40"		".40 Dual"
+"Cstrike_TitlesTXT_ESC90"		"ES C90"
+"[english]Cstrike_TitlesTXT_ESC90"		"ES C90"
+"Cstrike_TitlesTXT_ESFiveSeven"		"Five-Seven"
+"[english]Cstrike_TitlesTXT_ESFiveSeven"		"Five-Seven"
+"Cstrike_TitlesTXT_ESM249"		"ES M249"
+"[english]Cstrike_TitlesTXT_ESM249"		"ES M249"
+"Cstrike_TitlesTXT_Enemy"		"Enemigo"
+"[english]Cstrike_TitlesTXT_Enemy"		"Enemy"
+"Cstrike_TitlesTXT_Enemy_down"		"Enemigo derrotado."
+"[english]Cstrike_TitlesTXT_Enemy_down"		"Enemy down."
+"Cstrike_TitlesTXT_Enemy_spotted"		"Enemigo localizado."
+"[english]Cstrike_TitlesTXT_Enemy_spotted"		"Enemy spotted."
+"Cstrike_TitlesTXT_Equipment"		"Equipo"
+"[english]Cstrike_TitlesTXT_Equipment"		"Equipment"
+"Cstrike_TitlesTXT_Escaping_Terrorists_Neutralized"		"¡Todos los terroristas que 
+escapaban han sido neutralizados!"
+"[english]Cstrike_TitlesTXT_Escaping_Terrorists_Neutralized"		"Escaping terrorists have
+all been neutralized!"
+"Cstrike_TitlesTXT_FNP90"		"ES C90"
+"[english]Cstrike_TitlesTXT_FNP90"		"ES C90"
+"Cstrike_TitlesTXT_Famas"		"Clarion 5.56"
+"[english]Cstrike_TitlesTXT_Famas"		"Clarion 5.56"
+"Cstrike_TitlesTXT_Fire_in_the_hole"		"¡Todos a cubierto!"
+"[english]Cstrike_TitlesTXT_Fire_in_the_hole"		"Fire in the hole!"
+"Cstrike_TitlesTXT_FiveSeven"		"ES Five-Seven"
+"[english]Cstrike_TitlesTXT_FiveSeven"		"ES Five-Seven"
+"Cstrike_TitlesTXT_Flashbang"		"Bengala"
+"[english]Cstrike_TitlesTXT_Flashbang"		"Flashbang"
+"Cstrike_TitlesTXT_Follow_me"		"Seguidme."
+"[english]Cstrike_TitlesTXT_Follow_me"		"Follow Me."
+"Cstrike_TitlesTXT_Friend"		"Amigo"
+"[english]Cstrike_TitlesTXT_Friend"		"Friend"
+"Cstrike_TitlesTXT_G3SG1"		"D3/AU-1 Semi-Auto Sniper Rifle"
+"[english]Cstrike_TitlesTXT_G3SG1"		"D3/AU-1 Semi-Auto Sniper Rifle"
+"Cstrike_TitlesTXT_GAMESAVED"		"Guardada"
+"[english]Cstrike_TitlesTXT_GAMESAVED"		"Saved"
+"Cstrike_TitlesTXT_GIGN"		"GIGN"
+"[english]Cstrike_TitlesTXT_GIGN"		"GIGN"
+"Cstrike_TitlesTXT_GSG_9"		"GSG-9"
+"[english]Cstrike_TitlesTXT_GSG_9"		"GSG-9"
+"Cstrike_TitlesTXT_Galil"		"IDF Defender"
+"[english]Cstrike_TitlesTXT_Galil"		"IDF Defender"
+"Cstrike_TitlesTXT_Game_Commencing"		"¡El juego comienza!"
+"[english]Cstrike_TitlesTXT_Game_Commencing"		"Game Commencing!"
+"Cstrike_TitlesTXT_Game_added_position"		"Te han añadido al puesto %s1 de 5"
+"[english]Cstrike_TitlesTXT_Game_added_position"		"You have been added to position %s1 of 5"
+"Cstrike_TitlesTXT_Game_bomb_drop"		"%s1 ha dejado la bomba"
+"[english]Cstrike_TitlesTXT_Game_bomb_drop"		"%s1 dropped the bomb"
+"Cstrike_TitlesTXT_Game_bomb_pickup"		"%s1 ha detectado la bomba"
+"[english]Cstrike_TitlesTXT_Game_bomb_pickup"		"%s1 picked up the bomb"
+"Cstrike_TitlesTXT_Game_connected"		"%s1 conectado"
+"[english]Cstrike_TitlesTXT_Game_connected"		"%s1 connected"
+"Cstrike_TitlesTXT_Game_disconnected"		"%s1 ha abandonado la partida"
+"[english]Cstrike_TitlesTXT_Game_disconnected"		"%s1 has left the game"
+"Cstrike_TitlesTXT_Game_idle_kick"		"%s1 ha estado inactivo durante demasiado tiempo y ha sido expulsado"
+"[english]Cstrike_TitlesTXT_Game_idle_kick"		"%s1 has been idle for too long and has been kicked"
+"Cstrike_TitlesTXT_Game_in_position"		"Ya ocupas el puesto %s1 de 5"
+"[english]Cstrike_TitlesTXT_Game_in_position"		"You are already in position %s1 of 5"
+"Cstrike_TitlesTXT_Game_join_ct"		"%s1 se une a la fuerza antiterrorista"
+"[english]Cstrike_TitlesTXT_Game_join_ct"		"%s1 is joining the Counter-Terrorist force"
+"Cstrike_TitlesTXT_Game_join_ct_auto"		"%s1 se une a la fuerza antiterrorista (autosel.)"
+"[english]Cstrike_TitlesTXT_Game_join_ct_auto"		"%s1 is joining the Counter-Terrorist force (auto)"
+"Cstrike_TitlesTXT_Game_join_terrorist"		"%s1 se une a la fuerza terrorista"
+"[english]Cstrike_TitlesTXT_Game_join_terrorist"		"%s1 is joining the Terrorist force"
+"Cstrike_TitlesTXT_Game_join_terrorist_auto"		"%s1 se une a la fuerza terrorista (autosel.)"
+"[english]Cstrike_TitlesTXT_Game_join_terrorist_auto"		"%s1 is joining the Terrorist force (auto)"
+"Cstrike_TitlesTXT_Game_kicked"		"Expulsado %s1"
+"[english]Cstrike_TitlesTXT_Game_kicked"		"Kicked %s1"
+"Cstrike_TitlesTXT_Game_no_timelimit"		"* Tiempo no limitado *"
+"[english]Cstrike_TitlesTXT_Game_no_timelimit"		"* No Time Limit *"
+"Cstrike_TitlesTXT_Game_radio"		"%s1 (RADIO): %s2"
+"[english]Cstrike_TitlesTXT_Game_radio"		"%s1 (RADIO): %s2"
+"Cstrike_TitlesTXT_Game_required_votes"		"Votos necesarios para mapa nuevo = %s1"
+"[english]Cstrike_TitlesTXT_Game_required_votes"		"Required number of votes for a new map = %s1"
+"Cstrike_TitlesTXT_Game_scoring"		"No se obtienen puntos hasta que ambos equipos tengan jugadores"
+"[english]Cstrike_TitlesTXT_Game_scoring"		"Scoring will not start until both teams have players"
+"Cstrike_TitlesTXT_Game_teammate_attack"		"%s1 ha atacado a un compañero"
+"[english]Cstrike_TitlesTXT_Game_teammate_attack"		"%s1 attacked a teammate"
+"Cstrike_TitlesTXT_Game_teammate_kills"		"Compañeros muertos: %s1 de 3"
+"[english]Cstrike_TitlesTXT_Game_teammate_kills"		"Teammate kills: %s1 of 3"
+"Cstrike_TitlesTXT_Game_timelimit"		"Tiempo restante:  %s1:%s2"
+"[english]Cstrike_TitlesTXT_Game_timelimit"		"Time Remaining:  %s1:%s2"
+"Cstrike_TitlesTXT_Game_unknown_command"		"Comando desconocido: %s1"
+"[english]Cstrike_TitlesTXT_Game_unknown_command"		"Unknown command: %s1"
+"Cstrike_TitlesTXT_Game_vote_cast"		"Votos contra jugador # %s1"
+"[english]Cstrike_TitlesTXT_Game_vote_cast"		"Vote cast against player # %s1"
+"Cstrike_TitlesTXT_Game_vote_not_yourself"		"¡No puedes echarte a ti mismo!"
+"[english]Cstrike_TitlesTXT_Game_vote_not_yourself"		"You can't vote to kick yourself!"
+"Cstrike_TitlesTXT_Game_vote_player_not_found"		"No se encontró al jugador # %s1"
+"[english]Cstrike_TitlesTXT_Game_vote_player_not_found"		"Player # %s1 was not found"
+"Cstrike_TitlesTXT_Game_vote_players_on_your_team"		"Sólo puedes votar a jugadores de tu equipo"
+"[english]Cstrike_TitlesTXT_Game_vote_players_on_your_team"		"You can only vote for players on your team"
+"Cstrike_TitlesTXT_Game_vote_usage"		"Uso:  vote <id>"
+"[english]Cstrike_TitlesTXT_Game_vote_usage"		"Usage:  vote <id>"
+"Cstrike_TitlesTXT_Game_voted_for_map"		"Has votado el mapa # %s1"
+"[english]Cstrike_TitlesTXT_Game_voted_for_map"		"You voted for Map # %s1"
+"Cstrike_TitlesTXT_Game_votemap_usage"		"Uso:  votemap <id>"
+"[english]Cstrike_TitlesTXT_Game_votemap_usage"		"Usage:  votemap <id>"
+"Cstrike_TitlesTXT_Game_will_restart_in"		"La partida va a reiniciarse en %s1 %s2"
+"[english]Cstrike_TitlesTXT_Game_will_restart_in"		"The game will restart in %s1 %s2"
+"Cstrike_TitlesTXT_Get_in_position_and_wait"		"En posición y esperad mi señal."
+"[english]Cstrike_TitlesTXT_Get_in_position_and_wait"		"Get in position and wait for my go."
+"Cstrike_TitlesTXT_Get_out_of_there"		"¡Va a reventar!"
+"[english]Cstrike_TitlesTXT_Get_out_of_there"		"Get out of there, it's gonna blow!"
+"Cstrike_TitlesTXT_Glock18"		"9X19mm Sidearm"
+"[english]Cstrike_TitlesTXT_Glock18"		"9X19mm Sidearm"
+"Cstrike_TitlesTXT_Go_go_go"		"¡Adelante!"
+"[english]Cstrike_TitlesTXT_Go_go_go"		"Go go go!"
+"Cstrike_TitlesTXT_Got_bomb"		"¡Has recogido una bomba!"
+"[english]Cstrike_TitlesTXT_Got_bomb"		"You picked up the bomb!"
+"Cstrike_TitlesTXT_Got_defuser"		"¡Has recogido un kit de desactivación!"
+"[english]Cstrike_TitlesTXT_Got_defuser"		"You picked up a defuser kit!"
+"Cstrike_TitlesTXT_Guerilla_Warfare"		"Guerrilla"
+"[english]Cstrike_TitlesTXT_Guerilla_Warfare"		"Guerilla Warfare"
+"Cstrike_TitlesTXT_HE_Grenade"		"Granada HE"
+"[english]Cstrike_TitlesTXT_HE_Grenade"		"HE Grenade"
+"Cstrike_TitlesTXT_Health"		"Salud"
+"[english]Cstrike_TitlesTXT_Health"		"Health"
+"Cstrike_TitlesTXT_High_Explosive_Grenade"		"Granada altamente explosiva"
+"[english]Cstrike_TitlesTXT_High_Explosive_Grenade"		"High-Explosive Grenade"
+"Cstrike_TitlesTXT_Hint_cannot_play_because_tk"		"No puedes jugar esta ronda porque
+en la anterior mataste a un compañero."
+"[english]Cstrike_TitlesTXT_Hint_cannot_play_because_tk"		"You're not allowed to play this
+round because you TK'd last round."
+"Cstrike_TitlesTXT_Hint_careful_around_hostages"		"Ten cuidado con los rehenes.
+Vas a perder dinero si matas a uno."
+"[english]Cstrike_TitlesTXT_Hint_careful_around_hostages"		"Be careful around hostages.
+You will lose money if you kill a hostage."
+"Cstrike_TitlesTXT_Hint_careful_around_teammates"		"¡Cuidado!
+¡No toleraremos que mates a los compañeros!"
+"[english]Cstrike_TitlesTXT_Hint_careful_around_teammates"		"Careful!
+Killing teammates will not be tolerated!"
+"Cstrike_TitlesTXT_Hint_ct_vip_zone"		"Te encuentras en una zona de huida de VIP.
+¡Escolta al VIP hasta cualquiera de estas zonas!"
+"[english]Cstrike_TitlesTXT_Hint_ct_vip_zone"		"You are in a VIP escape zone.
+Escort the VIP to any one of these zones!"
+"Cstrike_TitlesTXT_Hint_hostage_rescue_zone"		"Te encuentras en una zona de rescate de rehenes.
+¡Encuentra a los rehenes y traelos!"
+"[english]Cstrike_TitlesTXT_Hint_hostage_rescue_zone"		"You are in a hostage rescue zone.
+Find the hostages and bring them here!"
+"Cstrike_TitlesTXT_Hint_lead_hostage_to_rescue_point"		"¡Lleva al rehén hasta el punto de rescate!
+Puedes USAR al rehén de nuevo para que deje de seguirte."
+"[english]Cstrike_TitlesTXT_Hint_lead_hostage_to_rescue_point"		"Lead the hostage to the rescue point!
+You may USE the hostage again to
+stop him from following."
+"Cstrike_TitlesTXT_Hint_lost_money"		"Has perdido dinero por matar a un rehén."
+"[english]Cstrike_TitlesTXT_Hint_lost_money"		"You have lost money for killing a hostage."
+"Cstrike_TitlesTXT_Hint_out_of_ammo"		"Te has quedado sin munición.
+Vuelve a una zona de compra para comprar más."
+"[english]Cstrike_TitlesTXT_Hint_out_of_ammo"		"You are out of ammunition.
+Return to a buy zone to purchase more."
+"Cstrike_TitlesTXT_Hint_press_buy_to_purchase"		"Pulsa COMPRAR para comprar objetos."
+"[english]Cstrike_TitlesTXT_Hint_press_buy_to_purchase"		"Press the BUY key to purchase items."
+"Cstrike_TitlesTXT_Hint_press_use_so_hostage_will_follow"		"Pulsa USAR para que el rehén te siga."
+"[english]Cstrike_TitlesTXT_Hint_press_use_so_hostage_will_follow"		"Press USE to get the hostage to follow you."
+"Cstrike_TitlesTXT_Hint_prevent_hostage_rescue"		"¡Evita que los antiterroristas
+rescaten a los rehenes!"
+"[english]Cstrike_TitlesTXT_Hint_prevent_hostage_rescue"		"Prevent the Counter-Terrorists from
+rescuing the hostages!"
+"Cstrike_TitlesTXT_Hint_removed_for_next_hostage_killed"		"Si matas a otro rehén,
+te van a expulsar del servidor."
+"[english]Cstrike_TitlesTXT_Hint_removed_for_next_hostage_killed"		"If you kill one more hostage, 
+you will be removed from the server."
+"Cstrike_TitlesTXT_Hint_rescue_the_hostages"		"¡Rescata a los rehenes para obtener dinero!"
+"[english]Cstrike_TitlesTXT_Hint_rescue_the_hostages"		"Rescue the hostages for money!"
+"Cstrike_TitlesTXT_Hint_reward_for_killing_vip"		"¡Has ganado 2.500 $ por matar al VIP!"
+"[english]Cstrike_TitlesTXT_Hint_reward_for_killing_vip"		"You have been rewarded $2500 for killing the VIP!"
+"Cstrike_TitlesTXT_Hint_spotted_a_friend"		"Has encontrado a un amigo."
+"[english]Cstrike_TitlesTXT_Hint_spotted_a_friend"		"You have spotted a friend."
+"Cstrike_TitlesTXT_Hint_spotted_an_enemy"		"Has encontrado a un enemigo."
+"[english]Cstrike_TitlesTXT_Hint_spotted_an_enemy"		"You have spotted an enemy."
+"Cstrike_TitlesTXT_Hint_terrorist_escape_zone"		"Te encuentras en la zona de huida de los terroristas.
+¡Evita que los terroristas se acerquen!"
+"[english]Cstrike_TitlesTXT_Hint_terrorist_escape_zone"		"You are in a terrorist escape zone.
+Prevent the terrorists from getting here!"
+"Cstrike_TitlesTXT_Hint_terrorist_vip_zone"		"Te encuentras en una zona de huida de VIP.
+Evita que el VIP llegue a cualquiera de estas zonas."
+"[english]Cstrike_TitlesTXT_Hint_terrorist_vip_zone"		"You are in a VIP escape zone.
+Prevent the VIP from reaching any one of these zones."
+"Cstrike_TitlesTXT_Hint_try_not_to_injure_teammates"		"Intenta no herir a tus compañeros."
+"[english]Cstrike_TitlesTXT_Hint_try_not_to_injure_teammates"		"Try not to injure your teammates."
+"Cstrike_TitlesTXT_Hint_use_hostage_to_stop_him"		"Puedes USAR al rehén de nuevo
+para que deje de seguirte."
+"[english]Cstrike_TitlesTXT_Hint_use_hostage_to_stop_him"		"You may USE the hostage again to
+stop him from following."
+"Cstrike_TitlesTXT_Hint_use_nightvision"		"Pulsa VISIÓN NOCTURNA para activar / desactivar las gafas de visión nocturna.
+Ajusta la visión nocturna escribiendo:
++nvgadjust
+-nvgadjust
+en la consola."
+"[english]Cstrike_TitlesTXT_Hint_use_nightvision"		"Press the NIGHTVISION key to turn on/off nightvision goggles.
+Nightvision can be adjusted by typing:
++nvgadjust
+-nvgadjust
+at the console."
+"Cstrike_TitlesTXT_Hint_win_round_by_killing_enemy"		"¡Has matado a un enemigo!
+Gana la ronda eliminando a la fuerza enemiga."
+"[english]Cstrike_TitlesTXT_Hint_win_round_by_killing_enemy"		"You killed an Enemy!
+Win the round by eliminating
+the opposing force."
+"Cstrike_TitlesTXT_Hint_you_are_in_targetzone"		"Te encuentras en la zona de objetivos.
+¡Selecciona la bomba en tu inventario 
+y para colocarla pulsa DISPARAR!"
+"[english]Cstrike_TitlesTXT_Hint_you_are_in_targetzone"		"You are in the target zone.
+Select the bomb in your inventory
+and plant it by holding FIRE!"
+"Cstrike_TitlesTXT_Hint_you_are_the_vip"		"Eres el VIP.
+¡Ve a las zonas de seguridad!"
+"[english]Cstrike_TitlesTXT_Hint_you_are_the_vip"		"You are the VIP
+Make your way to the safety zones!"
+"Cstrike_TitlesTXT_Hint_you_have_the_bomb"		"¡Tienes la bomba!
+Encuentra la zona objetivo o DEJA
+la bomba para otro terrorista."
+"[english]Cstrike_TitlesTXT_Hint_you_have_the_bomb"		"You have the bomb!
+Find the target zone or DROP
+the bomb for another Terrorist."
+"Cstrike_TitlesTXT_Hold_this_position"		"Mantened la posición."
+"[english]Cstrike_TitlesTXT_Hold_this_position"		"Hold This Position."
+"Cstrike_TitlesTXT_Hostage"		"Rehén"
+"[english]Cstrike_TitlesTXT_Hostage"		"Hostage"
+"Cstrike_TitlesTXT_Hostage_down"		"Rehén derrotado."
+"[english]Cstrike_TitlesTXT_Hostage_down"		"Hostage down."
+"Cstrike_TitlesTXT_Hostages_Not_Rescued"		"¡Los rehenes no han sido liberados!"
+"[english]Cstrike_TitlesTXT_Hostages_Not_Rescued"		"Hostages have not been rescued!"
+"Cstrike_TitlesTXT_Ignore_Broadcast_Messages"		"Ignorando EMISIÓN de mensajes"
+"[english]Cstrike_TitlesTXT_Ignore_Broadcast_Messages"		"Now ignoring BROADCAST messages"
+"Cstrike_TitlesTXT_Ignore_Broadcast_Team_Messages"		"Ignorando EMISIÓN de mensajes 
+y mensajes de EQUIPO"
+"[english]Cstrike_TitlesTXT_Ignore_Broadcast_Team_Messages"		"Now ignoring TEAM/BROADCAST messages"
+"Cstrike_TitlesTXT_Ignore_Radio"		"IGNORANDO los mensajes de radio"
+"[english]Cstrike_TitlesTXT_Ignore_Radio"		"Now IGNORING radio messages"
+"Cstrike_TitlesTXT_In_position"		"En posición."
+"[english]Cstrike_TitlesTXT_In_position"		"I'm in position."
+"Cstrike_TitlesTXT_Injured_Hostage"		"¡Has herido a un rehén!"
+"[english]Cstrike_TitlesTXT_Injured_Hostage"		"You injured a hostage!"
+"Cstrike_TitlesTXT_KM45Tactical"		"K&M .45"
+"[english]Cstrike_TitlesTXT_KM45Tactical"		"K&M .45"
+"Cstrike_TitlesTXT_KMUMP45"		"K&M UMP45"
+"[english]Cstrike_TitlesTXT_KMUMP45"		"K&M UMP45"
+"Cstrike_TitlesTXT_Kevlar"		"Kevlar"
+"[english]Cstrike_TitlesTXT_Kevlar"		"Kevlar"
+"Cstrike_TitlesTXT_Kevlar_Helmet"		"Chal. Kev.+casco"
+"[english]Cstrike_TitlesTXT_Kevlar_Helmet"		"Kevlar+Helmet"
+"Cstrike_TitlesTXT_Kevlar_Vest"		"Chaleco Kevlar"
+"[english]Cstrike_TitlesTXT_Kevlar_Vest"		"Kevlar Vest"
+"Cstrike_TitlesTXT_Kevlar_Vest_Ballistic_Helmet"		"Chaleco Kevlar + casco antibalas"
+"[english]Cstrike_TitlesTXT_Kevlar_Vest_Ballistic_Helmet"		"Kevlar Vest + Ballistic Helmet"
+"Cstrike_TitlesTXT_Killed_Hostage"		"¡Has matado a un rehén!"
+"[english]Cstrike_TitlesTXT_Killed_Hostage"		"You killed a hostage!"
+"Cstrike_TitlesTXT_Killed_Teammate"		"¡Has matado a un companero 
+de equipo!"
+"[english]Cstrike_TitlesTXT_Killed_Teammate"		"You killed a teammate!"
+"Cstrike_TitlesTXT_Krieg550"		"Krieg 550"
+"[english]Cstrike_TitlesTXT_Krieg550"		"Krieg 550"
+"Cstrike_TitlesTXT_Krieg552"		"Krieg 552"
+"[english]Cstrike_TitlesTXT_Krieg552"		"Krieg 552"
+"Cstrike_TitlesTXT_L337_Krew"		"Unidad de élite"
+"[english]Cstrike_TitlesTXT_L337_Krew"		"Elite Crew"
+"Cstrike_TitlesTXT_LATENCY"		"LATENCIA"
+"[english]Cstrike_TitlesTXT_LATENCY"		"LATENCY"
+"Cstrike_TitlesTXT_Leone12"		"12 Gauge"
+"[english]Cstrike_TitlesTXT_Leone12"		"12 Gauge"
+"Cstrike_TitlesTXT_M249"		"ES M249 Para"
+"[english]Cstrike_TitlesTXT_M249"		"ES M249 Para"
+"Cstrike_TitlesTXT_M4A1"		"Maverick M4A1 Carbine"
+"[english]Cstrike_TitlesTXT_M4A1"		"Maverick M4A1 Carbine"
+"Cstrike_TitlesTXT_M4A1_Short"		"M4A1"
+"[english]Cstrike_TitlesTXT_M4A1_Short"		"M4A1"
+"Cstrike_TitlesTXT_Mac10"		"Ingram Mac-10"
+"[english]Cstrike_TitlesTXT_Mac10"		"Ingram Mac-10"
+"Cstrike_TitlesTXT_Mac10_Short"		"Mac-10"
+"[english]Cstrike_TitlesTXT_Mac10_Short"		"Mac-10"
+"Cstrike_TitlesTXT_MachineGuns"		"Ametralladoras"
+"[english]Cstrike_TitlesTXT_MachineGuns"		"Machine Guns"
+"Cstrike_TitlesTXT_Magnum"		"Magnum"
+"[english]Cstrike_TitlesTXT_Magnum"		"Magnum"
+"Cstrike_TitlesTXT_Map_Description_not_available"		"Descripción de mapa no disponible."
+"[english]Cstrike_TitlesTXT_Map_Description_not_available"		"Map Description not available."
+"Cstrike_TitlesTXT_Map_Vote_Extend"		"El mapa se ha ampliado 30 minutos"
+"[english]Cstrike_TitlesTXT_Map_Vote_Extend"		"Map has been extended for 30 minutes"
+"Cstrike_TitlesTXT_Map_descr_not_avail"		"Descripción de mapa no disponible."
+"[english]Cstrike_TitlesTXT_Map_descr_not_avail"		"Map description not available."
+"Cstrike_TitlesTXT_Menu_Cancel"		"Cancelar"
+"[english]Cstrike_TitlesTXT_Menu_Cancel"		"Cancel"
+"Cstrike_TitlesTXT_Menu_OK"		"ACEPTAR"
+"[english]Cstrike_TitlesTXT_Menu_OK"		"OK"
+"Cstrike_TitlesTXT_Menu_Spectate"		"Mirar"
+"[english]Cstrike_TitlesTXT_Menu_Spectate"		"Spectate"
+"Cstrike_TitlesTXT_Mic_Volume"		"Volumen del micrófono"
+"[english]Cstrike_TitlesTXT_Mic_Volume"		"Mic Volume"
+"Cstrike_TitlesTXT_Muted"		"Has silenciado a %s1."
+"[english]Cstrike_TitlesTXT_Muted"		"You have muted %s1."
+"Cstrike_TitlesTXT_Name_change_at_respawn"		"Cambiaras de nombre tras tu proxima regeneracion."
+"[english]Cstrike_TitlesTXT_Name_change_at_respawn"		"Your name will be changed after your next respawn."
+"Cstrike_TitlesTXT_Need_backup"		"Necesito refuerzos."
+"[english]Cstrike_TitlesTXT_Need_backup"		"Need backup."
+"Cstrike_TitlesTXT_Negative"		"Negativo."
+"[english]Cstrike_TitlesTXT_Negative"		"Negative."
+"Cstrike_TitlesTXT_NightHawk"		"Night Hawk"
+"[english]Cstrike_TitlesTXT_NightHawk"		"Night Hawk"
+"Cstrike_TitlesTXT_NightVision"		"Visión nocturna"
+"[english]Cstrike_TitlesTXT_NightVision"		"NightVision"
+"Cstrike_TitlesTXT_Nightvision_Goggles"		"Gafas visión nocturna"
+"[english]Cstrike_TitlesTXT_Nightvision_Goggles"		"Nightvision Goggles"
+"Cstrike_TitlesTXT_No_longer_hear_that_player"		"Ya no oirás hablar a este jugador."
+"[english]Cstrike_TitlesTXT_No_longer_hear_that_player"		"You will no longer hear that player speak."
+"Cstrike_TitlesTXT_Not_Enough_Money"		"¡No tienes dinero suficiente!"
+"[english]Cstrike_TitlesTXT_Not_Enough_Money"		"You have insufficient funds!"
+"Cstrike_TitlesTXT_OBS_CHASE_FREE"		"Cám. seguimiento libre"
+"[english]Cstrike_TitlesTXT_OBS_CHASE_FREE"		"Free Chase Cam"
+"Cstrike_TitlesTXT_OBS_CHASE_LOCKED"		"Cám. seguimiento bloq."
+"[english]Cstrike_TitlesTXT_OBS_CHASE_LOCKED"		"Locked Chase Cam"
+"Cstrike_TitlesTXT_OBS_IN_EYE"		"Primera persona"
+"[english]Cstrike_TitlesTXT_OBS_IN_EYE"		"First Person"
+"Cstrike_TitlesTXT_OBS_MAP_CHASE"		"Vista gen. seguimiento"
+"[english]Cstrike_TitlesTXT_OBS_MAP_CHASE"		"Chase Overview"
+"Cstrike_TitlesTXT_OBS_MAP_FREE"		"Vista gen. libre"
+"[english]Cstrike_TitlesTXT_OBS_MAP_FREE"		"Free Overview"
+"Cstrike_TitlesTXT_OBS_NONE"		"Opciones de cámara"
+"[english]Cstrike_TitlesTXT_OBS_NONE"		"Camera Options"
+"Cstrike_TitlesTXT_OBS_ROAMING"		"Mirada libre"
+"[english]Cstrike_TitlesTXT_OBS_ROAMING"		"Free Look"
+"Cstrike_TitlesTXT_Only_1_Team_Change"		"Solo se puede hacer 
+un cambio de equipo..."
+"[english]Cstrike_TitlesTXT_Only_1_Team_Change"		"Only 1 team change is allowed."
+"Cstrike_TitlesTXT_Only_CT_Can_Move_Hostages"		"¡Solo los antiterroristas
+pueden mover rehenes!"
+"[english]Cstrike_TitlesTXT_Only_CT_Can_Move_Hostages"		"Only Counter-Terrorists can move the hostages!"
+"Cstrike_TitlesTXT_P228"		"228 Compact"
+"[english]Cstrike_TitlesTXT_P228"		"228 Compact"
+"Cstrike_TitlesTXT_P228Compact"		"228"
+"[english]Cstrike_TitlesTXT_P228Compact"		"228"
+"Cstrike_TitlesTXT_PLAYERS"		"Jugadores"
+"[english]Cstrike_TitlesTXT_PLAYERS"		"Players"
+"Cstrike_TitlesTXT_Phoenix_Connexion"		"Conex. Phoenix"
+"[english]Cstrike_TitlesTXT_Phoenix_Connexion"		"Phoenix Connexion"
+"Cstrike_TitlesTXT_Pistols"		"Pistolas"
+"[english]Cstrike_TitlesTXT_Pistols"		"Pistols"
+"Cstrike_TitlesTXT_Player"		"jugador"
+"[english]Cstrike_TitlesTXT_Player"		"player"
+"Cstrike_TitlesTXT_Player_plural"		"jugadores"
+"[english]Cstrike_TitlesTXT_Player_plural"		"players"
+"Cstrike_TitlesTXT_Prim_Ammo"		"Munición princ."
+"[english]Cstrike_TitlesTXT_Prim_Ammo"		"Prim. Ammo"
+"Cstrike_TitlesTXT_Regroup_team"		"Reagrupad al equipo."
+"[english]Cstrike_TitlesTXT_Regroup_team"		"Regroup Team."
+"Cstrike_TitlesTXT_Report_in_team"		"Informad."
+"[english]Cstrike_TitlesTXT_Report_in_team"		"Report in, team."
+"Cstrike_TitlesTXT_Reporting_in"		"Informando."
+"[english]Cstrike_TitlesTXT_Reporting_in"		"Reporting in."
+"Cstrike_TitlesTXT_Rifles"		"Rifles"
+"[english]Cstrike_TitlesTXT_Rifles"		"Rifles"
+"Cstrike_TitlesTXT_Roger_that"		"Roger."
+"[english]Cstrike_TitlesTXT_Roger_that"		"Roger that."
+"Cstrike_TitlesTXT_Round_Draw"		"¡Rodead el gancho!"
+"[english]Cstrike_TitlesTXT_Round_Draw"		"Round Draw!"
+"Cstrike_TitlesTXT_SAS"		"SAS"
+"[english]Cstrike_TitlesTXT_SAS"		"SAS"
+"Cstrike_TitlesTXT_SCORE"		"PUNTUACIÓN"
+"[english]Cstrike_TitlesTXT_SCORE"		"SCORE"
+"Cstrike_TitlesTXT_SCORES"		"  PUNTUACIONES"
+"[english]Cstrike_TitlesTXT_SCORES"		"  SCORES"
+"Cstrike_TitlesTXT_SG550"		"Krieg 550 Commando"
+"[english]Cstrike_TitlesTXT_SG550"		"Krieg 550 Commando"
+"Cstrike_TitlesTXT_SG552"		"Krieg 552 Commando"
+"[english]Cstrike_TitlesTXT_SG552"		"Krieg 552 Commando"
+"Cstrike_TitlesTXT_SMGs"		"Metralletas"
+"[english]Cstrike_TitlesTXT_SMGs"		"SMG's"
+"Cstrike_TitlesTXT_SPECT_OPTIONS"		"Opciones"
+"[english]Cstrike_TitlesTXT_SPECT_OPTIONS"		"Options"
+"Cstrike_TitlesTXT_Schmidt"		"Schmidt"
+"[english]Cstrike_TitlesTXT_Schmidt"		"Schmidt"
+"Cstrike_TitlesTXT_SchmidtMP"		"Schmidt MP"
+"[english]Cstrike_TitlesTXT_SchmidtMP"		"Schmidt MP"
+"Cstrike_TitlesTXT_Scout"		"Schmidt Scout"
+"[english]Cstrike_TitlesTXT_Scout"		"Schmidt Scout"
+"Cstrike_TitlesTXT_Seal_Team_6"		"Equipo Seal 6"
+"[english]Cstrike_TitlesTXT_Seal_Team_6"		"Seal Team 6"
+"Cstrike_TitlesTXT_Sec_Ammo"		"Munición secund."
+"[english]Cstrike_TitlesTXT_Sec_Ammo"		"Sec. Ammo"
+"Cstrike_TitlesTXT_Sector_clear"		"Sector despejado."
+"[english]Cstrike_TitlesTXT_Sector_clear"		"Sector clear."
+"Cstrike_TitlesTXT_Selection_Not_Available"		"Selección no disponible"
+"[english]Cstrike_TitlesTXT_Selection_Not_Available"		"Selection Not Available"
+"Cstrike_TitlesTXT_Shotguns"		"Escopetas"
+"[english]Cstrike_TitlesTXT_Shotguns"		"Shotguns"
+"Cstrike_TitlesTXT_Sidearm9X19mm"		"9X19mm"
+"[english]Cstrike_TitlesTXT_Sidearm9X19mm"		"9X19mm"
+"Cstrike_TitlesTXT_Smoke_Grenade"		"Granada humo"
+"[english]Cstrike_TitlesTXT_Smoke_Grenade"		"Smoke Grenade"
+"Cstrike_TitlesTXT_Speaker_Volume"		"Volumen de los altavoces"
+"[english]Cstrike_TitlesTXT_Speaker_Volume"		"Speaker Volume"
+"Cstrike_TitlesTXT_Spec_Auto"		"Automático"
+"[english]Cstrike_TitlesTXT_Spec_Auto"		"Auto"
+"Cstrike_TitlesTXT_Spec_Duck"		"Pulsa AGACHARSE para ver el menú de espectador"
+"[english]Cstrike_TitlesTXT_Spec_Duck"		"Press DUCK for Spectator Menu"
+"Cstrike_TitlesTXT_Spec_Help_Text"		"Utiliza las siguientes teclas para cambiar los tipos de vista:
+
+ FUEGO1: Perseguir al jugador siguiente
+ FUEGO2: Perseguir al jugador anterior
+ SALTAR: Cambiar modos de vista
+ USAR: Cambiar recuadro modo ventana 
+
+ AGACHARSE: Activar menu espectador
+
+En el modo mapa general muévete con:
+
+ MOVER A LA IZQUIERDA: desplazarse a la izquierda
+ MOVER A LA DERECHA: desplazarse a la derecha
+ ADELANTE: acercar zoom
+ ATRÁS: alejar zoom
+ RATÓN: rotar mapa/objetivo"
+"[english]Cstrike_TitlesTXT_Spec_Help_Text"		"Use the following keys to change view styles:
+
+ FIRE1 - Chase next player
+ FIRE2 - Chase previous player
+ JUMP - Change view modes
+ USE - Change inset window mode
+ 
+ DUCK  - Enable spectator menu
+  
+In Overview Map Mode move around with:
+
+ MOVELEFT - move left
+ MOVERIGHT - move right
+ FORWARD - zoom in
+ BACK - zoom out
+ MOUSE - rotate around map/target"
+"Cstrike_TitlesTXT_Spec_Help_Title"		"Modo espectador"
+"[english]Cstrike_TitlesTXT_Spec_Help_Title"		"Spectator Mode"
+"Cstrike_TitlesTXT_Spec_ListPlayers"		"Lista de jugadores"
+"[english]Cstrike_TitlesTXT_Spec_ListPlayers"		"List Players"
+"Cstrike_TitlesTXT_Spec_Map"		"Mapa"
+"[english]Cstrike_TitlesTXT_Spec_Map"		"Map"
+"Cstrike_TitlesTXT_Spec_Mode1"		"Cám. seguimiento bloq."
+"[english]Cstrike_TitlesTXT_Spec_Mode1"		"Locked Chase Cam"
+"Cstrike_TitlesTXT_Spec_Mode2"		"Cám. seguimiento libre"
+"[english]Cstrike_TitlesTXT_Spec_Mode2"		"Free Chase Cam"
+"Cstrike_TitlesTXT_Spec_Mode3"		"Mirada libre"
+"[english]Cstrike_TitlesTXT_Spec_Mode3"		"Free Look"
+"Cstrike_TitlesTXT_Spec_Mode4"		"Primera persona"
+"[english]Cstrike_TitlesTXT_Spec_Mode4"		"First Person"
+"Cstrike_TitlesTXT_Spec_Mode5"		"Vista gen. libre"
+"[english]Cstrike_TitlesTXT_Spec_Mode5"		"Free Overview"
+"Cstrike_TitlesTXT_Spec_Mode6"		"Vista gen. seguimiento"
+"[english]Cstrike_TitlesTXT_Spec_Mode6"		"Chase Overview"
+"Cstrike_TitlesTXT_Spec_NoPlayers"		"No hay jugadores que miren"
+"[english]Cstrike_TitlesTXT_Spec_NoPlayers"		"No Players to Spectate"
+"Cstrike_TitlesTXT_Spec_NoTarget"		"Objetivos no validos. No se puede cambiar a Modo Cámara de seguimiento."
+"[english]Cstrike_TitlesTXT_Spec_NoTarget"		"No valid targets. Cannot switch to Chase-Camera Mode."
+"Cstrike_TitlesTXT_Spec_No_PIP"		"La funcion Imagen-en-imagen no está
+disponible en el modo Primera persona
+durante la partida."
+"[english]Cstrike_TitlesTXT_Spec_No_PIP"		"Picture-In-Picture is not available
+in First-Person mode while playing."
+"Cstrike_TitlesTXT_Spec_Not_In_Spectator_Mode"		"** No estas en el modo espectador."
+"[english]Cstrike_TitlesTXT_Spec_Not_In_Spectator_Mode"		"** You are not in spectator mode."
+"Cstrike_TitlesTXT_Spec_Not_Valid_Choice"		"** No puedes ser espectador de esta persona."
+"[english]Cstrike_TitlesTXT_Spec_Not_Valid_Choice"		"** You are not allowed to spectate this person."
+"Cstrike_TitlesTXT_Spec_Replay"		"Repetición instantánea"
+"[english]Cstrike_TitlesTXT_Spec_Replay"		"Instant Replay"
+"Cstrike_TitlesTXT_Spec_Slow_Motion"		"Cámara lenta"
+"[english]Cstrike_TitlesTXT_Spec_Slow_Motion"		"Slow Motion"
+"Cstrike_TitlesTXT_Spec_Time"		"Tiempo"
+"[english]Cstrike_TitlesTXT_Spec_Time"		"Time"
+"Cstrike_TitlesTXT_Spectators"		"Espectadores"
+"[english]Cstrike_TitlesTXT_Spectators"		"Spectators"
+"Cstrike_TitlesTXT_Stick_together_team"		"Mantened el grupo."
+"[english]Cstrike_TitlesTXT_Stick_together_team"		"Stick together, team."
+"Cstrike_TitlesTXT_Storm_the_front"		"¡Asaltad el frente!"
+"[english]Cstrike_TitlesTXT_Storm_the_front"		"Storm the Front!"
+"Cstrike_TitlesTXT_SubMachineGun"		"SMG"
+"[english]Cstrike_TitlesTXT_SubMachineGun"		"SMG"
+"Cstrike_TitlesTXT_Super90"		"Leone 12 Gauge Super"
+"[english]Cstrike_TitlesTXT_Super90"		"Leone 12 Gauge Super"
+"Cstrike_TitlesTXT_Switch_To_BurstFire"		"Se ha cambiado al modo Llamarada"
+"[english]Cstrike_TitlesTXT_Switch_To_BurstFire"		"Switched to Burst-Fire mode"
+"Cstrike_TitlesTXT_Switch_To_FullAuto"		"Se ha cambiado al modo automático"
+"[english]Cstrike_TitlesTXT_Switch_To_FullAuto"		"Switched to automatic"
+"Cstrike_TitlesTXT_Switch_To_SemiAuto"		"Se ha cambiado al modo semiautomático"
+"[english]Cstrike_TitlesTXT_Switch_To_SemiAuto"		"Switched to semi-automatic"
+"Cstrike_TitlesTXT_TEAMS"		"Equipos"
+"[english]Cstrike_TitlesTXT_TEAMS"		"Teams"
+"Cstrike_TitlesTXT_TRAINING1"		"Usa la tecla COMPRAR para adquirir:
+      - Metralleta
+      - Munición principal"
+"[english]Cstrike_TitlesTXT_TRAINING1"		"Use Your BUY key to purchase:
+      - Sub Machine Gun
+      - Primary Ammo"
+"Cstrike_TitlesTXT_TRAINING2"		"Usa tu tecla COMPRAR para adquirir:
+- Rifle Magnum Sniper"
+"[english]Cstrike_TitlesTXT_TRAINING2"		"Use your BUY key to purchase:
+- Magnum Sniper Rifle"
+"Cstrike_TitlesTXT_TRAINING3"		"Usa la tecla COMPRAR para adquirir:
+     - Granada de humo"
+"[english]Cstrike_TitlesTXT_TRAINING3"		"Use your BUY key to purchase:
+     - Smoke Grenade"
+"Cstrike_TitlesTXT_TRAINING4"		"Recoge la C4 del banco."
+"[english]Cstrike_TitlesTXT_TRAINING4"		"Collect the C4 from the bench."
+"Cstrike_TitlesTXT_TRAINING5"		"Coloca la C4 y guarécete en un lugar seguro."
+"[english]Cstrike_TitlesTXT_TRAINING5"		"Place C4 then retreat to saftey."
+"Cstrike_TitlesTXT_TRAINING6"		"Para desactivar la bomba, mantén
+la tecla USAR pulsada."
+"[english]Cstrike_TitlesTXT_TRAINING6"		"Defuse the bomb, by holding
+down your USE key."
+"Cstrike_TitlesTXT_TRAINING7"		"Ubica y rescata a los rehenes."
+"[english]Cstrike_TitlesTXT_TRAINING7"		"Locate and rescue hostages."
+"Cstrike_TitlesTXT_TactShield"		"Escudo táctico"
+"[english]Cstrike_TitlesTXT_TactShield"		"Tactical Shield"
+"Cstrike_TitlesTXT_TactShield_Desc"		"Escudo táctico"
+"[english]Cstrike_TitlesTXT_TactShield_Desc"		"Tactical Shield"
+"Cstrike_TitlesTXT_Taking_fire"		"¡Me disparan, ayuda!"
+"[english]Cstrike_TitlesTXT_Taking_fire"		"Taking Fire...Need Assistance!"
+"Cstrike_TitlesTXT_Target_Bombed"		"¡Objetivo bombardeado con exito!"
+"[english]Cstrike_TitlesTXT_Target_Bombed"		"Target Successfully Bombed!"
+"Cstrike_TitlesTXT_Target_Saved"		"¡El objetivo esta a salvo!"
+"[english]Cstrike_TitlesTXT_Target_Saved"		"Target has been saved!"
+"Cstrike_TitlesTXT_Team_AutoAssign"		"Autoasign."
+"[english]Cstrike_TitlesTXT_Team_AutoAssign"		"Auto Assign"
+"Cstrike_TitlesTXT_Team_fall_back"		"¡Replegaos!"
+"[english]Cstrike_TitlesTXT_Team_fall_back"		"Team, fall back!"
+"Cstrike_TitlesTXT_Terrorist_Escaped"		"¡Ha escapado un terrorista!"
+"[english]Cstrike_TitlesTXT_Terrorist_Escaped"		"A terrorist has escaped!"
+"Cstrike_TitlesTXT_Terrorist_Forces"		"Fzas. Terroristas"
+"[english]Cstrike_TitlesTXT_Terrorist_Forces"		"Terrorist Forces"
+"Cstrike_TitlesTXT_Terrorist_cant_buy"		"¡Los terroristas no pueden
+comprar nada en este mapa!"
+"[english]Cstrike_TitlesTXT_Terrorist_cant_buy"		"Terrorists aren't allowed to
+buy anything on this map!"
+"Cstrike_TitlesTXT_Terrorists_Escaped"		"¡Los terroristas han escapado!"
+"[english]Cstrike_TitlesTXT_Terrorists_Escaped"		"The terrorists have escaped!"
+"Cstrike_TitlesTXT_Terrorists_Full"		"¡El equipo terrorista esta completo!"
+"[english]Cstrike_TitlesTXT_Terrorists_Full"		"The terrorist team is full!"
+"Cstrike_TitlesTXT_Terrorists_Not_Escaped"		"¡Los terroristas no han escapado!"
+"[english]Cstrike_TitlesTXT_Terrorists_Not_Escaped"		"Terrorists have not escaped!"
+"Cstrike_TitlesTXT_Terrorists_Win"		"¡Ganan los terroristas!"
+"[english]Cstrike_TitlesTXT_Terrorists_Win"		"Terrorists Win!"
+"Cstrike_TitlesTXT_Title_SelectYourTeam"		"Seleccionar tu equipo"
+"[english]Cstrike_TitlesTXT_Title_SelectYourTeam"		"Select Your Team"
+"Cstrike_TitlesTXT_Title_ct_model_selection"		"Seleccionar aspecto"
+"[english]Cstrike_TitlesTXT_Title_ct_model_selection"		"CT Model Selection"
+"Cstrike_TitlesTXT_Title_equipment_selection"		"Seleccionar equipo"
+"[english]Cstrike_TitlesTXT_Title_equipment_selection"		"Equipment Selection"
+"Cstrike_TitlesTXT_Title_gign"		"GIGN francés"
+"[english]Cstrike_TitlesTXT_Title_gign"		"French GIGN"
+"Cstrike_TitlesTXT_Title_gsg9"		"GSG-9 alemán"
+"[english]Cstrike_TitlesTXT_Title_gsg9"		"German GSG-9"
+"Cstrike_TitlesTXT_Title_machinegun_selection"		"Seleccionar ametralladora"
+"[english]Cstrike_TitlesTXT_Title_machinegun_selection"		"Machine Gun Selection"
+"Cstrike_TitlesTXT_Title_pistol_selection"		"Seleccionar pistola"
+"[english]Cstrike_TitlesTXT_Title_pistol_selection"		"Pistol Selection"
+"Cstrike_TitlesTXT_Title_rifle_selection"		"Seleccionar rifles"
+"[english]Cstrike_TitlesTXT_Title_rifle_selection"		"Rifle Selection"
+"Cstrike_TitlesTXT_Title_sas"		"SAS británico"
+"[english]Cstrike_TitlesTXT_Title_sas"		"UK Special Air Service"
+"Cstrike_TitlesTXT_Title_seal_team"		"Equipo Seal 6 (DEVGRU)"
+"[english]Cstrike_TitlesTXT_Title_seal_team"		"US Seal Team 6 (DEVGRU)"
+"Cstrike_TitlesTXT_Title_select_category_of_purchase"		"Seleccionar categoría de compra"
+"[english]Cstrike_TitlesTXT_Title_select_category_of_purchase"		"Select Category of Purchase"
+"Cstrike_TitlesTXT_Title_shotgun_selection"		"Seleccionar escopetas"
+"[english]Cstrike_TitlesTXT_Title_shotgun_selection"		"Shotgun Selection"
+"Cstrike_TitlesTXT_Title_smg_selection"		"Selección de metralleta"
+"[english]Cstrike_TitlesTXT_Title_smg_selection"		"SMG Selection"
+"Cstrike_TitlesTXT_Title_terrorist_model_selection"		"Seleccionar modelo de terrorista"
+"[english]Cstrike_TitlesTXT_Title_terrorist_model_selection"		"Terrorist Model Selection"
+"Cstrike_TitlesTXT_Too_Many_CTs"		"¡Hay demasiados AT!"
+"[english]Cstrike_TitlesTXT_Too_Many_CTs"		"There are too many CTs!"
+"Cstrike_TitlesTXT_Too_Many_Terrorists"		"¡Hay demasiados terroristas!"
+"[english]Cstrike_TitlesTXT_Too_Many_Terrorists"		"There are too many terrorists!"
+"Cstrike_TitlesTXT_UMP45"		"K&M UMP45"
+"[english]Cstrike_TitlesTXT_UMP45"		"K&M UMP45"
+"Cstrike_TitlesTXT_USP45"		"K&M .45 Tactical"
+"[english]Cstrike_TitlesTXT_USP45"		"K&M .45 Tactical"
+"Cstrike_TitlesTXT_Unassigned"		"Sin asignar"
+"[english]Cstrike_TitlesTXT_Unassigned"		"Unassigned"
+"Cstrike_TitlesTXT_Unmuted"		"Has dejado de silenciar a %s1."
+"[english]Cstrike_TitlesTXT_Unmuted"		"You have unmuted %s1."
+"Cstrike_TitlesTXT_VIP"		"VIP"
+"[english]Cstrike_TitlesTXT_VIP"		"VIP"
+"Cstrike_TitlesTXT_VIP_Assassinated"		"¡Han asesinado al VIP!"
+"[english]Cstrike_TitlesTXT_VIP_Assassinated"		"VIP has been assassinated!"
+"Cstrike_TitlesTXT_VIP_Escaped"		"¡El VIP ha escapado!"
+"[english]Cstrike_TitlesTXT_VIP_Escaped"		"The VIP has escaped!"
+"Cstrike_TitlesTXT_VIP_Not_Escaped"		"¡El VIP no ha escapado!"
+"[english]Cstrike_TitlesTXT_VIP_Not_Escaped"		"VIP has not escaped!"
+"Cstrike_TitlesTXT_VIP_cant_buy"		"Eres el VIP...
+¡No puedes comprar nada!"
+"[english]Cstrike_TitlesTXT_VIP_cant_buy"		"You are the VIP.
+You can't buy anything!"
+"Cstrike_TitlesTXT_VOICE"		"VOZ"
+"[english]Cstrike_TitlesTXT_VOICE"		"VOICE"
+"Cstrike_TitlesTXT_Voice_Properties"		"Propiedades de voz"
+"[english]Cstrike_TitlesTXT_Voice_Properties"		"Voice Properties"
+"Cstrike_TitlesTXT_Vote"		"%s1 :  %s2 (%s3 voto)"
+"[english]Cstrike_TitlesTXT_Vote"		"%s1 :  %s2 (%s3 vote)"
+"Cstrike_TitlesTXT_Votes"		"%s1 :  %s2 (%s3 votos)"
+"[english]Cstrike_TitlesTXT_Votes"		"%s1 :  %s2 (%s3 votes)"
+"Cstrike_TitlesTXT_WINS"		"GANA"
+"[english]Cstrike_TitlesTXT_WINS"		"WINS"
+"Cstrike_TitlesTXT_Wait_3_Seconds"		"Espera 3 segundos..."
+"[english]Cstrike_TitlesTXT_Wait_3_Seconds"		"Please wait 3 seconds."
+"Cstrike_TitlesTXT_Weapon_Cannot_Be_Dropped"		"No puedes dejar caer este arma"
+"[english]Cstrike_TitlesTXT_Weapon_Cannot_Be_Dropped"		"This weapon cannot be dropped"
+"Cstrike_TitlesTXT_Weapon_Not_Available"		"¡Este arma no esta a tu disposición!"
+"[english]Cstrike_TitlesTXT_Weapon_Not_Available"		"This weapon is not available to you!"
+"Cstrike_TitlesTXT_XM1014"		"Leone YG1265 Auto Shotgun"
+"[english]Cstrike_TitlesTXT_XM1014"		"Leone YG1265 Auto Shotgun"
+"Cstrike_TitlesTXT_You_take_the_point"		"Punto para ti."
+"[english]Cstrike_TitlesTXT_You_take_the_point"		"You Take the Point."
+"Cstrike_TitlesTXT_mp5navy"		"K&M Sub-machinegun"
+"[english]Cstrike_TitlesTXT_mp5navy"		"K&M Sub-machinegun"
+"Cstrike_TitlesTXT_tmp"		"Schmidt Machine Pistol"
+"[english]Cstrike_TitlesTXT_tmp"		"Schmidt Machine Pistol"
+"CZero_Tutor_Turned_On"		"El tutor interactivo está activado."
+"[english]CZero_Tutor_Turned_On"		"The interactive tutor
+is now enabled."
+"Career_FinalScore"		"Puntuación final"
+"[english]Career_FinalScore"		"Final Score"
+"CZero_PlayOnLineText"		"Saldrás de la partida actual.
+¿Deseas continuar?"
+"[english]CZero_PlayOnLineText"		"This will exit your current game.
+Continue anyway?"
+"CZero_Tutor_Turned_Off"		"El tutor interactivo está desactivado."
+"[english]CZero_Tutor_Turned_Off"		"The interactive tutor
+is now disabled."
+"CZero_Credits_Title"		"Counter-Strike: Condition Zero"
+"[english]CZero_Credits_Title"		"Counter-Strike: Condition Zero"
+"CZero_Credits_Technical_Art"		"Diseño gráfico"
+"[english]CZero_Credits_Technical_Art"		"Technical Art"
+"CZero_Credits_Support"		"Asistencia"
+"[english]CZero_Credits_Support"		"Support"
+"CZero_Credits_Testing"		"Testeo"
+"[english]CZero_Credits_Testing"		"Testing"
+"CZero_Credits_Public_Relations_Manager"		"Director de relaciones públicas"
+"[english]CZero_Credits_Public_Relations_Manager"		"Public Relations Manager"
+"CZero_Credits_Vice_President_Development"		"Vicepresidente, Desarrollo"
+"[english]CZero_Credits_Vice_President_Development"		"Vice President, Development"
+"CZero_Credits_Sr_Production_Admin"		"Administrador ejecutivo de producción"
+"[english]CZero_Credits_Sr_Production_Admin"		"Sr. Production Admin"
+"CZero_Credits_Vice_President_Finance"		"Vicepresidente, Finanzas"
+"[english]CZero_Credits_Vice_President_Finance"		"Vice President, Finance"
+"CZero_Credits_Vice_President_and_Assistant_Counsel_VUG_Legal"		"Vicepresidente y abogado asociado, Departamento jurídico de VUG"
+"[english]CZero_Credits_Vice_President_and_Assistant_Counsel_VUG_Legal"		"Vice President and Assistant Counsel, VUG Legal"
+"CZero_Credits_Special_Thanks"		"Agradecimientos especiales"
+"[english]CZero_Credits_Special_Thanks"		"Special Thanks"
+"CZero_NewCustomGame"		"Juega una partida &personalizada"
+"[english]CZero_NewCustomGame"		"Play &custom game"
+"CZero_PlayOnLine"		"Juega en línea con &Steam"
+"[english]CZero_PlayOnLine"		"Play online using &Steam"
+"Cstrike_TitlesTXT_Cstrike_Already_Own_Weapon"		"Ya tienes ese arma."
+"[english]Cstrike_TitlesTXT_Cstrike_Already_Own_Weapon"		"You already own that weapon."
+"Cstrike_BuyMenuRebuy"		"&R VOLVER A COMPRAR ANTERIOR"
+"[english]Cstrike_BuyMenuRebuy"		"&R RE-BUY PREVIOUS"
+"Career_New"		"PERFIL NUEVO"
+"[english]Career_New"		"NEW PROFILE"
+"Career_Resume"		"REANUDAR PERFIL SELECCIONADO"
+"[english]Career_Resume"		"RESUME SELECTED PROFILE"
+"Career_Profile"		"[ELEGIR PERFIL]"
+"[english]Career_Profile"		"[CHOOSE PROFILE]"
+"Career_Difficulty"		"[SELECCIONAR DIFICULTAD]"
+"[english]Career_Difficulty"		"[SELECT DIFFICULTY]"
+"Career_Difficulty1"		"MISIONES NORMALES"
+"[english]Career_Difficulty1"		"NORMAL MISSIONS"
+"Career_RetryMatch"		"Reintentar"
+"[english]Career_RetryMatch"		"Retry Match"
+"Career_Cost"		"Coste %s1"
+"[english]Career_Cost"		"Cost %s1"
+"CStrike_Tutor_Toggle"		"Alternar tutor"
+"[english]CStrike_Tutor_Toggle"		"Toggle Tutor"
+"CZero_Credits_Programming"		"Programación"
+"[english]CZero_Credits_Programming"		"Programming"
+"CZero_Credits_Art"		"Diseño"
+"[english]CZero_Credits_Art"		"Art"
+"CZero_Credits_Art_Director"		"Director artístico"
+"[english]CZero_Credits_Art_Director"		"Art Director"
+"CZero_Credits_Level_Design"		"Diseño de niveles"
+"[english]CZero_Credits_Level_Design"		"Level Design"
+"CZero_Credits_Project_Manager"		"Director de proyectos"
+"[english]CZero_Credits_Project_Manager"		"Project Manager"
+"CZero_Credits_Executive_Producer"		"Productor ejecutivo"
+"[english]CZero_Credits_Executive_Producer"		"Executive Producer"
+"CZero_Credits_Director_of_Public_Relations"		"Director de relaciones públicas"
+"[english]CZero_Credits_Director_of_Public_Relations"		"Director of Public Relations"
+"Career_EndRoundText"		"¿Deseas abandonar esta ronda?"
+"[english]Career_EndRoundText"		"Do you want to give up this round?"
+"Career_DeleteProfileTitle"		"ELIMINAR PERFIL"
+"[english]Career_DeleteProfileTitle"		"DELETE PROFILE"
+"Cstrike_NewMultiplayerGame"		"&Nueva partida multijugador"
+"[english]Cstrike_NewMultiplayerGame"		"&New Multiplayer Game"
+"Career_EndRound"		"&Abandonar ronda"
+"[english]Career_EndRound"		"&Give up this Round"
+"Career_Delete"		"BORRAR PERFIL SELECCIONADO"
+"[english]Career_Delete"		"DELETE SELECTED PROFILE"
+"Career_NewProfile"		"CREAR PERFIL"
+"[english]Career_NewProfile"		"CREATE PROFILE"
+"Career_PlayerName"		"NOMBRE DE JUGADOR"
+"[english]Career_PlayerName"		"PLAYER NAME"
+"Career_Difficulty0"		"MISIONES FÁCILES"
+"[english]Career_Difficulty0"		"EASY MISSIONS"
+"Career_Difficulty2"		"MISIONES DIFÍCILES"
+"[english]Career_Difficulty2"		"HARD MISSIONS"
+"CZero_Credits_Managing_Director"		"Director gerente"
+"[english]CZero_Credits_Managing_Director"		"Managing Director"
+"CZero_Credits_COO"		"C.O.O."
+"[english]CZero_Credits_COO"		"C.O.O."
+"CZero_Credits_Game_Design"		"Diseño del juego"
+"[english]CZero_Credits_Game_Design"		"Game Design"
+"CZero_Credits_Lead_Level_Designer"		"Director de diseño de niveles"
+"[english]CZero_Credits_Lead_Level_Designer"		"Lead Level Designer"
+"CZero_Credits_Lead_Programmer"		"Director de programación"
+"[english]CZero_Credits_Lead_Programmer"		"Lead Programmer"
+"CZero_Credits_Additional_Art"		"Diseño adicional"
+"[english]CZero_Credits_Additional_Art"		"Additional Art"
+"CZero_Credits_Administration"		"Administración"
+"[english]CZero_Credits_Administration"		"Administration"
+"CZero_Credits_Marketing_Director"		"Director de comercialización"
+"[english]CZero_Credits_Marketing_Director"		"Marketing Director"
+"CZero_Credits_Brand_Manager"		"Director de marca"
+"[english]CZero_Credits_Brand_Manager"		"Brand Manager"
+"CZero_Credits_Creative_Group_Account_Supervisor"		"Supervisor de cuentas de grupo artístico"
+"[english]CZero_Credits_Creative_Group_Account_Supervisor"		"Creative Group Account Supervisor"
+"CZero_Credits_Operations_and_Production_Manager"		"Director de operaciones y producción"
+"[english]CZero_Credits_Operations_and_Production_Manager"		"Operations and Production Manager"
+"CZero_Credits_Corporate_Counsel_VUG_Legal"		"Asesor corporativo, Departamento jurídico de VUG"
+"[english]CZero_Credits_Corporate_Counsel_VUG_Legal"		"Corporate Counsel, VUG Legal"
+"Cstrike_ReBuy"		"Volver a comprar equipo anterior"
+"[english]Cstrike_ReBuy"		"Re-Buy Previous Equipment"
+"Cstrike_BuyMenuAutobuy"		"&A COMPRA AUTOMÁTICA"
+"[english]Cstrike_BuyMenuAutobuy"		"&A AUTO-BUY"
+"Career_Difficulty3"		"MISIONES PARA EXPERTOS"
+"[english]Career_Difficulty3"		"EXPERT MISSIONS"
+"Career_EnableTutor"		"ACTIVAR TUTOR"
+"[english]Career_EnableTutor"		"ENABLE TUTOR"
+"Career_Task_injurewith"		"Debes herir a un enemigo %s1"
+"[english]Career_Task_injurewith"		"You must injure an enemy %s1"
+"Career_Task_injurewith_multi"		"Debes herir a %s2 enemigos %s1"
+"[english]Career_Task_injurewith_multi"		"You must injure %s2 enemies %s1"
+"Career_Weapon_hegren"		"con granadas HE"
+"[english]Career_Weapon_hegren"		"with HE Grenades"
+"Career_Weapon_elites"		"con .40 dual elites"
+"[english]Career_Weapon_elites"		"with .40 dual elites"
+"Career_Weapon_fn57"		"con un cinco-siete ES"
+"[english]Career_Weapon_fn57"		"with an ES five-seven"
+"CZero_Credits_Production"		"Producción"
+"[english]CZero_Credits_Production"		"Production"
+"CZero_Credits_Art_Lead"		"Director artístico"
+"[english]CZero_Credits_Art_Lead"		"Art Lead"
+"Career_DeleteProfileText"		"¿Seguro que deseas eliminar a %s1?"
+"[english]Career_DeleteProfileText"		"Are you sure you want to delete %s1?"
+"Career_Secured"		"[FIJO]"
+"[english]Career_Secured"		"[SECURED]"
+"CZero_Credits_Mapping"		"Mapas"
+"[english]CZero_Credits_Mapping"		"Mapping"
+"CZero_Credits_Biz"		"Juego"
+"[english]CZero_Credits_Biz"		"Biz"
+"Cstrike_RadarType"		"Tipo de radar"
+"[english]Cstrike_RadarType"		"Radar type"
+"Cstrike_Transparent"		"Transparente"
+"[english]Cstrike_Transparent"		"Transparent"
+"Cstrike_Solid"		"Sólido"
+"[english]Cstrike_Solid"		"Solid"
+"Career_MissionPack"		"[ELEGIR MISIONES]"
+"[english]Career_MissionPack"		"[CHOOSE MISSIONS]"
+"Career_Team"		"[ELEGIR EQUIPO]"
+"[english]Career_Team"		"[SELECT TEAM]"
+"Career_NoTeammates"		"¡Ten cuidado! ¡En esta partida no tienes compañeros de equipo!"
+"[english]Career_NoTeammates"		"Be careful! You have no teammates during this match!"
+"Career_EnemyListSingle"		"En esta contienda te enfrentarás a 1 enemigo: "
+"[english]Career_EnemyListSingle"		"You will face 1 enemy in this match: "
+"Career_MissionPackCT"		"Estas son las misiones originales de Counter-Strike: Condition Zero. Puedes descargar más o crear tus propias misiones. En la dirección que aparece más adelante podrás enterarte de cómo hacerlo.
+
+Conduce a tu brigada antiterrorismo de élite por escenarios cada vez más desafiantes, para frustrar los planes de los malévolos grupos de terroristas que sólo desean causar muerte y destrucción.
+
+¡El destino de cientos y cientos de víctimas inocentes está en tus manos!"
+"[english]Career_MissionPackCT"		"These are the original Counter-Strike: Condition Zero missions.
+You can also download more or create your own.  See the address below to find out how.
+
+Lead your elite counter-terrorism team through increasingly challenging scenarios, thwarting the plans of evil terrorist groups bent on death and destruction.
+
+The fate of countless innocent victims is in your hands!
+"
+"Career_MissionPackTitleCT"		"CONDITION ZERO"
+"[english]Career_MissionPackTitleCT"		"CONDITION ZERO"
+"Cstrike_BuyPresetUnavailable"		"No disponible"
+"[english]Cstrike_BuyPresetUnavailable"		"Unavailable"
+"Cstrike_BuyMenuPreset1"		"&S \"%s1\" ($%s2)"
+"[english]Cstrike_BuyMenuPreset1"		"&S \"%s1\" ($%s2)"
+"Cstrike_BuyMenuPreset2"		"&D \"%s1\" ($%s2)"
+"[english]Cstrike_BuyMenuPreset2"		"&D \"%s1\" ($%s2)"
+"Cstrike_BuyMenuPreset3"		"&F \"%s1\" ($%s2)"
+"[english]Cstrike_BuyMenuPreset3"		"&F \"%s1\" ($%s2)"
+"Cstrike_BuyMenuPreset4"		"&G \"%s1\" ($%s2)"
+"[english]Cstrike_BuyMenuPreset4"		"&G \"%s1\" ($%s2)"
+"Cstrike_BuyMenuPresetMultiplier"		"x%s1"
+"[english]Cstrike_BuyMenuPresetMultiplier"		"x%s1"
+"Cstrike_DescMainBuyPresetPanel"		"HAZ CLIC EN UN PAQUETE PARA EDITARLO."
+"[english]Cstrike_DescMainBuyPresetPanel"		"CLICK ON A PACKAGE TO EDIT IT."
+"Cstrike_DescEditPresetPanel"		"HAZ CLIC DENTRO DE UNA OPCIÓN PARA EDITAR EL CONTENIDO. AL COMPRAR ESTE PAQUETE, SE ADQUIERE EL CONTENIDO DE LA PRIMERA OPCIÓN ASEQUIBLE."
+"[english]Cstrike_DescEditPresetPanel"		"CLICK WITHIN A CHOICE TO EDIT ITS CONTENTS.
+WHEN THIS PACKAGE IS BOUGHT, THE CONTENTS OF THE FIRST AFFORDABLE CHOICE ARE PURCHASED."
+"Cstrike_CurrentWeapon"		"< NINGUNA >"
+"[english]Cstrike_CurrentWeapon"		"< NONE >"
+"Cstrike_BuyPresetSpectator"		"Editar paquetes de compra"
+"[english]Cstrike_BuyPresetSpectator"		"Edit Buy Packages"
+"Cstrike_BuyPresetEditPresetsButton"		"EDITAR PAQUETES"
+"[english]Cstrike_BuyPresetEditPresetsButton"		"EDIT PACKAGES"
+"Cstrike_BuyPresetEditPresets"		"EDITAR PAQUETES DE COMPRA"
+"[english]Cstrike_BuyPresetEditPresets"		"EDIT BUY PACKAGES"
+"Cstrike_BuyPresetEditPresetsDirty"		"EDITAR PAQUETES DE COMPRA *"
+"[english]Cstrike_BuyPresetEditPresetsDirty"		"EDIT BUY PACKAGES *"
+"Cstrike_BuyPresetSavePresets"		"GUARDAR CAMBIOS"
+"[english]Cstrike_BuyPresetSavePresets"		"SAVE CHANGES"
+"Cstrike_BuyPresetUseDefaults"		"VOLVER A OPCIONES PREDETERMINADAS"
+"[english]Cstrike_BuyPresetUseDefaults"		"RESET TO DEFAULTS"
+"Cstrike_BuyPresetUseDefaultsText"		"Esto restablecerá todos los paquetes a su estado predeterminado.
+
+¿Deseas continuar?"
+"[english]Cstrike_BuyPresetUseDefaultsText"		"This will restore all packages to their default state.
+
+Are you sure?"
+"Cstrike_BuyPresetEditPresetTitle"		"EDITAR PAQUETE DE COMPRA"
+"[english]Cstrike_BuyPresetEditPresetTitle"		"EDIT BUY PACKAGE"
+"Cstrike_BuyPresetPresetButtonLabel"		"%s1 - coste total $%s2"
+"[english]Cstrike_BuyPresetPresetButtonLabel"		"%s1 - total cost $%s2"
+"Cstrike_BuyPresetBlank"		"< sin usar >"
+"[english]Cstrike_BuyPresetBlank"		"< Unused >"
+"Cstrike_BuyPresetChoice"		"Y DESPUÉS TRATAR DE COMPRAR:"
+"[english]Cstrike_BuyPresetChoice"		"THEN TRY TO BUY:"
+"Cstrike_BuyPresetWizardPrimary"		"ARMA PRINCIPAL Y MUNICIONES"
+"[english]Cstrike_BuyPresetWizardPrimary"		"PRIMARY WEAPON && AMMO"
+"Cstrike_BuyPresetWizardSecondary"		"PISTOLA Y MUNICIONES"
+"[english]Cstrike_BuyPresetWizardSecondary"		"PISTOL && AMMO"
+"Cstrike_BuyPresetWizardEquipment"		"EQUIPAMIENTO"
+"[english]Cstrike_BuyPresetWizardEquipment"		"EQUIPMENT"
+"Cstrike_BuyPresetMoveUp"		"MOVER"
+"[english]Cstrike_BuyPresetMoveUp"		"MOVE"
+"Cstrike_BuyPresetMoveDown"		"MOVER"
+"[english]Cstrike_BuyPresetMoveDown"		"MOVE"
+"Cstrike_BuyPresetPresetName"		"NOMBRE DEL PAQUETE:"
+"[english]Cstrike_BuyPresetPresetName"		"PACKAGE NAME:"
+"Cstrike_BuyPresetExit"		"CANCELAR"
+"[english]Cstrike_BuyPresetExit"		"CANCEL"
+"Cstrike_BuyPresetExitConfirm"		"Se perderán los cambios.
+
+¿Deseas continuar?"
+"[english]Cstrike_BuyPresetExitConfirm"		"Your changes will be lost.
+
+Are you sure?"
+"Cstrike_BuyPresetEditArmor"		"KEVLAR"
+"[english]Cstrike_BuyPresetEditArmor"		"KEVLAR"
+"Cstrike_BuyPresetEditHelmet"		"CASCO"
+"[english]Cstrike_BuyPresetEditHelmet"		"HELMET"
+"Cstrike_BuyPresetEditHEGrenade"		"GRANADA HE"
+"[english]Cstrike_BuyPresetEditHEGrenade"		"HE GRENADE"
+"Cstrike_BuyPresetEditSmokeGrenade"		"GRANADA DE HUMO"
+"[english]Cstrike_BuyPresetEditSmokeGrenade"		"SMOKE GRENADE"
+"Cstrike_BuyPresetEditFlashbangs"		"BENGALA"
+"[english]Cstrike_BuyPresetEditFlashbangs"		"FLASHBANG"
+"Cstrike_BuyPresetEditDefuser"		"EQUIPO DE DESACTIVACIÓN"
+"[english]Cstrike_BuyPresetEditDefuser"		"DEFUSAL KIT"
+"Cstrike_BuyPresetEditNightvision"		"VISIÓN NOCTURNA"
+"[english]Cstrike_BuyPresetEditNightvision"		"NIGHTVISION"
+"Cstrike_BuyPresetEditClipsOrMore"		"POR LO MENOS %s1 CLIPS"
+"[english]Cstrike_BuyPresetEditClipsOrMore"		"AT LEAST %s1 CLIPS"
+"Cstrike_BuyPresetEditWeaponFullClips"		"TODOS LOS CLIPS"
+"[english]Cstrike_BuyPresetEditWeaponFullClips"		"ALL CLIPS"
+"Cstrike_BuyPresetEditWeaponClips"		"MUNICIÓN"
+"[english]Cstrike_BuyPresetEditWeaponClips"		"AMMO"
+"Cstrike_BuyPresetCategoryRifle"		"RIFLES"
+"[english]Cstrike_BuyPresetCategoryRifle"		"RIFLES"
+"Cstrike_BuyPresetCategorySniper"		"RIFLES DE FRANCOTIRADOR"
+"[english]Cstrike_BuyPresetCategorySniper"		"SNIPER RIFLES"
+"Cstrike_BuyPresetCategorySMG"		"METRALLETAS"
+"[english]Cstrike_BuyPresetCategorySMG"		"SUBMACHINE GUNS"
+"Cstrike_BuyPresetCategoryHeavy"		"ARMAMENTO PESADO"
+"[english]Cstrike_BuyPresetCategoryHeavy"		"HEAVY WEAPONS"
+"Career_ContinueDifficulty"		"CONTINUAR"
+"[english]Career_ContinueDifficulty"		"CONTINUE"
+"Career_Map_cs_assault_CAPS"		"ASSAULT"
+"[english]Career_Map_cs_assault_CAPS"		"ASSAULT"
+"Career_Map_cs_estate_CAPS"		"ESTATE"
+"[english]Career_Map_cs_estate_CAPS"		"ESTATE"
+"Career_Map_de_vertigo_CAPS"		"VERTIGO"
+"[english]Career_Map_de_vertigo_CAPS"		"VERTIGO"
+"Career_Map_de_survivor_CAPS"		"SURVIVOR"
+"[english]Career_Map_de_survivor_CAPS"		"SURVIVOR"
+"Career_Map_de_nuke_CAPS"		"NUKE"
+"[english]Career_Map_de_nuke_CAPS"		"NUKE"
+"Career_Map_as_oilrig_CAPS"		"OILRIG"
+"[english]Career_Map_as_oilrig_CAPS"		"OILRIG"
+"Career_Map_de_train_CAPS"		"TRAIN"
+"[english]Career_Map_de_train_CAPS"		"TRAIN"
+"Career_Map_cs_assault"		"Assault"
+"[english]Career_Map_cs_assault"		"Assault"
+"Career_Map_cs_estate"		"Estate"
+"[english]Career_Map_cs_estate"		"Estate"
+"Career_Map_de_vertigo"		"Vertigo"
+"[english]Career_Map_de_vertigo"		"Vertigo"
+"Career_Map_de_survivor"		"Survivor"
+"[english]Career_Map_de_survivor"		"Survivor"
+"Career_Map_de_nuke"		"Nuke"
+"[english]Career_Map_de_nuke"		"Nuke"
+"Career_Map_as_oilrig"		"Oilrig"
+"[english]Career_Map_as_oilrig"		"Oilrig"
+"Career_Map_de_train"		"Train"
+"[english]Career_Map_de_train"		"Train"
+"Cstrike_BuyPresetPlainCost"		"$%s1"
+"[english]Cstrike_BuyPresetPlainCost"		"$%s1"
+"Cstrike_BuyPresetEditPrimary"		"Arma Primaria"
+"[english]Cstrike_BuyPresetEditPrimary"		"Primary Weapon"
+"Cstrike_BuyPresetEditSecondary"		"Pistola"
+"[english]Cstrike_BuyPresetEditSecondary"		"Pistol"
+"Cstrike_BuyPresetEditGrenades"		"Granadas"
+"[english]Cstrike_BuyPresetEditGrenades"		"Grenades"
+"Cstrike_BuyPresetEditEquipment"		"Equipamiento"
+"[english]Cstrike_BuyPresetEditEquipment"		"Equipment"
+"Cstrike_BuyPresetWizardGrenades"		"GRANADAS"
+"[english]Cstrike_BuyPresetWizardGrenades"		"GRENADES"
+"Cstrike_BuyPresetNewChoice"		" "
+"[english]Cstrike_BuyPresetNewChoice"		" "
+"Cstrike_Quick_Buy"		"OPCIONES DE COMPRA RÁPIDA"
+"[english]Cstrike_Quick_Buy"		"QUICK-BUY COMMANDS"
+"Cstrike_Current_Money"		"TIENES $%s1"
+"[english]Cstrike_Current_Money"		"YOU HAVE $%s1"
+"Career_MissionPackAuthor"		"Creado por: %s1"
+"[english]Career_MissionPackAuthor"		"Created By: %s1"
+"Career_Task_killdefuser"		"Debes matar a un CT que intenta desactivar una bomba"
+"[english]Career_Task_killdefuser"		"You must kill a CT in the act of defusing the Bomb"
+"Career_Task_killdefuser_multi"		"Debes matar a %s2 CT que intentan desactivar una bomba"
+"[english]Career_Task_killdefuser_multi"		"You must kill %s2 CTs in the act of defusing the Bomb"
+"Career_Task_killvip"		"Debes matar al VIP"
+"[english]Career_Task_killvip"		"You must kill the VIP"
+"Career_Task_killvip_multi"		"Debes matar al VIP %s2 veces"
+"[english]Career_Task_killvip_multi"		"You must kill the VIP %s2 times"
+"Career_Task_stoprescue"		"Debes matar a un CT que lleva a rehenes a la zona de rescate"
+"[english]Career_Task_stoprescue"		"You must kill a CT escorting Hostages to a Rescue Zone"
+"Career_Task_stoprescue_multi"		"Debes matar a %s2 CT que llevan a rehenes a la zona de rescate"
+"[english]Career_Task_stoprescue_multi"		"You must kill %s2 CTs escorting Hostages to a Rescue Zone"
+"Career_Task_preventdefuse"		"Debes poner la bomba y evitar que la puedan desactivar"
+"[english]Career_Task_preventdefuse"		"You must plant the Bomb and prevent it from being defused"
+"Career_Task_preventdefuse_multi"		"Debes poner la bomba y evitar que la puedan desactivar %s2 veces"
+"[english]Career_Task_preventdefuse_multi"		"You must plant the Bomb and prevent it from being defused %s2 times"
+"CZero_LearningMap"		"Aprendiendo mapa..."
+"[english]CZero_LearningMap"		"Learning the map..."
+"CZero_AnalyzingHidingSpots"		"Analizando escondites..."
+"[english]CZero_AnalyzingHidingSpots"		"Analyzing hiding spots..."
+"CZero_AnalyzingApproachPoints"		"Analizando puntos de acercamiento..."
+"[english]CZero_AnalyzingApproachPoints"		"Analyzing approach points..."
+"Cstrike_BuyPresetChoice0"		"PRIMERA OPCIÓN:"
+"[english]Cstrike_BuyPresetChoice0"		"FIRST CHOICE:"
+"Cstrike_BuyPresetChoice1"		"SEGUNDA OPCIÓN:"
+"[english]Cstrike_BuyPresetChoice1"		"SECOND CHOICE:"
+"Cstrike_BuyPresetChoice2"		"TERCERA OPCIÓN:"
+"[english]Cstrike_BuyPresetChoice2"		"THIRD CHOICE:"
+"Cstrike_BuyPresetChoice3"		"CUARTA OPCIÓN:"
+"[english]Cstrike_BuyPresetChoice3"		"FOURTH CHOICE:"
+"Cstrike_BuyPresetChoice4"		"QUINTA OPCIÓN:"
+"[english]Cstrike_BuyPresetChoice4"		"FIFTH CHOICE:"
+"Cstrike_BuyPresetSavePreset"		"APLICAR CAMBIOS"
+"[english]Cstrike_BuyPresetSavePreset"		"APPLY CHANGES"
+"Cstrike_BuyPresetEditPresetTitleDirty"		"EDITAR PAQUETE DE COMPRA *"
+"[english]Cstrike_BuyPresetEditPresetTitleDirty"		"EDIT BUY PACKAGE *"
+"Cstrike_BuyPresetFirstChoice"		"TRATAR DE COMPRAR:"
+"[english]Cstrike_BuyPresetFirstChoice"		"TRY TO BUY:"
+"Cstrike_BuyPresetEditClips"		"%s1 CLIPS"
+"[english]Cstrike_BuyPresetEditClips"		"%s1 CLIPS"
+"Cstrike_BuyPresetEditClip"		"1 CLIP"
+"[english]Cstrike_BuyPresetEditClip"		"1 CLIP"
+"Cstrike_BuyPresetEditClipOrMore"		"POR LO MENOS 1 CLIP"
+"[english]Cstrike_BuyPresetEditClipOrMore"		"AT LEAST 1 CLIP"
+"Cstrike_BuyPresetsBullets"		"(%s1 de %s2 BALAS)"
+"[english]Cstrike_BuyPresetsBullets"		"(%s1 of %s2 BULLETS)"
+"Cstrike_Chat_All"		"%s1 :  %s2"
+"[english]Cstrike_Chat_All"		"%s1 :  %s2"
+"Game_radio"		"%s1 (RADIO): %s2"
+"[english]Game_radio"		"%s1 (RADIO): %s2"
+"Cstrike_Chat_CT"		"(Antiterrorista) %s1 :  %s2"
+"[english]Cstrike_Chat_CT"		"(Counter-Terrorist) %s1 :  %s2"
+"Cstrike_Chat_T"		"(Terrorista) %s1 :  %s2"
+"[english]Cstrike_Chat_T"		"(Terrorist) %s1 :  %s2"
+"Cstrike_Chat_CT_Dead"		"*DEAD*(Antiterrorista) %s1 :  %s2"
+"[english]Cstrike_Chat_CT_Dead"		"*DEAD*(Counter-Terrorist) %s1 :  %s2"
+"Cstrike_Chat_T_Dead"		"*DEAD*(Terrorista) %s1 :  %s2"
+"[english]Cstrike_Chat_T_Dead"		"*DEAD*(Terrorist) %s1 :  %s2"
+"Cstrike_Chat_Spec"		"(Espectador) %s1 :  %s2"
+"[english]Cstrike_Chat_Spec"		"(Spectator) %s1 :  %s2"
+"Cstrike_Chat_AllDead"		"*DEAD* %s1 :  %s2"
+"[english]Cstrike_Chat_AllDead"		"*DEAD* %s1 :  %s2"
+"Cstrike_Chat_AllSpec"		"*SPEC* %s1 :  %s2"
+"[english]Cstrike_Chat_AllSpec"		"*SPEC* %s1 :  %s2"
+"Cstrike_Name_Change"		"* %s1 cambio de nombre a %s2"
+"[english]Cstrike_Name_Change"		"* %s1 changed name to %s2"
+"Cstrike_Militia"		"&5 MILICIA MIDWEST"
+"[english]Cstrike_Militia"		"&5 MIDWEST MILITIA"
+}
+}
